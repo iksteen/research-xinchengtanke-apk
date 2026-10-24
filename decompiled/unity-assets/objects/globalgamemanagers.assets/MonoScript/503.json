@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_InputFieldDynamicResize",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 197,
+    "bytes[1]": 12,
+    "bytes[2]": 167,
+    "bytes[3]": 39,
+    "bytes[4]": 213,
+    "bytes[5]": 20,
+    "bytes[6]": 108,
+    "bytes[7]": 129,
+    "bytes[8]": 69,
+    "bytes[9]": 14,
+    "bytes[10]": 227,
+    "bytes[11]": 237,
+    "bytes[12]": 186,
+    "bytes[13]": 198,
+    "bytes[14]": 128,
+    "bytes[15]": 9
+  },
+  "m_ClassName": "BE2_InputFieldDynamicResize",
+  "m_Namespace": "MG_BlocksEngine2.Block",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

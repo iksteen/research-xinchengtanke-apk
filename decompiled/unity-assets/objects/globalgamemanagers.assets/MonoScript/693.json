@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_Inspector",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 162,
+    "bytes[1]": 157,
+    "bytes[2]": 226,
+    "bytes[3]": 213,
+    "bytes[4]": 72,
+    "bytes[5]": 64,
+    "bytes[6]": 215,
+    "bytes[7]": 97,
+    "bytes[8]": 244,
+    "bytes[9]": 214,
+    "bytes[10]": 157,
+    "bytes[11]": 85,
+    "bytes[12]": 77,
+    "bytes[13]": 140,
+    "bytes[14]": 218,
+    "bytes[15]": 32
+  },
+  "m_ClassName": "BE2_Inspector",
+  "m_Namespace": "MG_BlocksEngine2.EditorScript",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

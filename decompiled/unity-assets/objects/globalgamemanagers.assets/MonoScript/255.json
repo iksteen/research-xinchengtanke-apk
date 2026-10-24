@@ -1,0 +1,25 @@
+{
+  "m_Name": "Turn_Move",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 146,
+    "bytes[1]": 85,
+    "bytes[2]": 121,
+    "bytes[3]": 245,
+    "bytes[4]": 231,
+    "bytes[5]": 242,
+    "bytes[6]": 200,
+    "bytes[7]": 21,
+    "bytes[8]": 225,
+    "bytes[9]": 41,
+    "bytes[10]": 10,
+    "bytes[11]": 213,
+    "bytes[12]": 122,
+    "bytes[13]": 98,
+    "bytes[14]": 141,
+    "bytes[15]": 206
+  },
+  "m_ClassName": "Turn_Move",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

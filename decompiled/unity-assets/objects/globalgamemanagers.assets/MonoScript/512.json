@@ -1,0 +1,25 @@
+{
+  "m_Name": "EnvelopContent",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 33,
+    "bytes[1]": 40,
+    "bytes[2]": 203,
+    "bytes[3]": 231,
+    "bytes[4]": 179,
+    "bytes[5]": 25,
+    "bytes[6]": 100,
+    "bytes[7]": 97,
+    "bytes[8]": 122,
+    "bytes[9]": 17,
+    "bytes[10]": 163,
+    "bytes[11]": 56,
+    "bytes[12]": 249,
+    "bytes[13]": 173,
+    "bytes[14]": 221,
+    "bytes[15]": 41
+  },
+  "m_ClassName": "EnvelopContent",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

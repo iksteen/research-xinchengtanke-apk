@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIAtlas",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 13,
+    "bytes[1]": 131,
+    "bytes[2]": 215,
+    "bytes[3]": 118,
+    "bytes[4]": 228,
+    "bytes[5]": 234,
+    "bytes[6]": 235,
+    "bytes[7]": 7,
+    "bytes[8]": 223,
+    "bytes[9]": 204,
+    "bytes[10]": 221,
+    "bytes[11]": 219,
+    "bytes[12]": 55,
+    "bytes[13]": 69,
+    "bytes[14]": 193,
+    "bytes[15]": 215
+  },
+  "m_ClassName": "UIAtlas",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

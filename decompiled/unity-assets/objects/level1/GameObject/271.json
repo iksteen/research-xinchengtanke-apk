@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 776
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1196
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1197
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1195
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1194
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1193
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "HorizontalBlock Ins SlideForward",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

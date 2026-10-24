@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2984
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6307
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5711
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerRemoveCarRoute",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

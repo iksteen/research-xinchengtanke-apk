@@ -1,0 +1,25 @@
+{
+  "m_Name": "UI2DSprite",
+  "m_ExecutionOrder": 8,
+  "m_PropertiesHash": {
+    "bytes[0]": 26,
+    "bytes[1]": 9,
+    "bytes[2]": 207,
+    "bytes[3]": 143,
+    "bytes[4]": 136,
+    "bytes[5]": 31,
+    "bytes[6]": 170,
+    "bytes[7]": 183,
+    "bytes[8]": 50,
+    "bytes[9]": 75,
+    "bytes[10]": 139,
+    "bytes[11]": 86,
+    "bytes[12]": 28,
+    "bytes[13]": 119,
+    "bytes[14]": 103,
+    "bytes[15]": 239
+  },
+  "m_ClassName": "UI2DSprite",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

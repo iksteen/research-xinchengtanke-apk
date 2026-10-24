@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 574
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1148
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "WheelFL",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

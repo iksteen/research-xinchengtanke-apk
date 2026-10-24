@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_AudioManager",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 86,
+    "bytes[1]": 16,
+    "bytes[2]": 251,
+    "bytes[3]": 179,
+    "bytes[4]": 154,
+    "bytes[5]": 116,
+    "bytes[6]": 251,
+    "bytes[7]": 98,
+    "bytes[8]": 200,
+    "bytes[9]": 200,
+    "bytes[10]": 112,
+    "bytes[11]": 113,
+    "bytes[12]": 127,
+    "bytes[13]": 171,
+    "bytes[14]": 9,
+    "bytes[15]": 228
+  },
+  "m_ClassName": "BE2_AudioManager",
+  "m_Namespace": "MG_BlocksEngine2.Environment",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

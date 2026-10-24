@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2598
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6713
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5753
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5701
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerRemoteHandCar",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

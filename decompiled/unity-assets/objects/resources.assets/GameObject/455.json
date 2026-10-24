@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2279
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5853
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5835
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3680
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5889
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonCarPResult",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

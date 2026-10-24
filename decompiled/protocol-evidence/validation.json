@@ -1,0 +1,28 @@
+{
+  "checksum_helper": "0xDC41DC",
+  "receive_helper": "0xDC485C",
+  "random_checksum_cases": 128,
+  "receive_cases": 10,
+  "all_passed": true,
+  "observed_receive_behavior": {
+    "checks_family_opcode_controller_id": true,
+    "checks_checksum": false,
+    "checks_company_id": false,
+    "checks_target_id": false,
+    "accepts_14_byte_prefix": true
+  },
+  "examples": {
+    "pair_request": {
+      "payload": "05 06 00 00 00 61 62 63 00 00 00 00 00 00 00 00 00 00 8a",
+      "raw_ad": "16 ff 00 00 05 06 00 00 00 61 62 63 00 00 00 00 00 00 00 00 00 00 8a"
+    },
+    "forward_50_percent": {
+      "payload": "05 07 12 34 56 61 62 63 01 00 32 32 00 00 01 00 00 00 fb",
+      "raw_ad": "16 ff 00 00 05 07 12 34 56 61 62 63 01 00 32 32 00 00 01 00 00 00 fb"
+    },
+    "synthetic_pair_reply": {
+      "payload": "05 0a 12 34 56 61 62 63 02 4d 00 00 00 00 00 00 00 00 b9",
+      "raw_ad": "16 ff 00 00 05 0a 12 34 56 61 62 63 02 4d 00 00 00 00 00 00 00 00 b9"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "Benchmark01_UGUI",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 39,
+    "bytes[1]": 229,
+    "bytes[2]": 52,
+    "bytes[3]": 17,
+    "bytes[4]": 120,
+    "bytes[5]": 241,
+    "bytes[6]": 136,
+    "bytes[7]": 184,
+    "bytes[8]": 155,
+    "bytes[9]": 220,
+    "bytes[10]": 100,
+    "bytes[11]": 149,
+    "bytes[12]": 113,
+    "bytes[13]": 11,
+    "bytes[14]": 89,
+    "bytes[15]": 12
+  },
+  "m_ClassName": "Benchmark01_UGUI",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

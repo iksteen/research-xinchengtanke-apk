@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2926
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8014
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8015
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3731
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8013
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonHCarBack",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

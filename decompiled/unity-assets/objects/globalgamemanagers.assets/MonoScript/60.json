@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIButtonColor",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 2,
+    "bytes[1]": 247,
+    "bytes[2]": 64,
+    "bytes[3]": 163,
+    "bytes[4]": 13,
+    "bytes[5]": 253,
+    "bytes[6]": 24,
+    "bytes[7]": 132,
+    "bytes[8]": 79,
+    "bytes[9]": 241,
+    "bytes[10]": 225,
+    "bytes[11]": 91,
+    "bytes[12]": 207,
+    "bytes[13]": 161,
+    "bytes[14]": 217,
+    "bytes[15]": 225
+  },
+  "m_ClassName": "UIButtonColor",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 376
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 981
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 799
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "PanelBackground",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "Slided",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 83,
+    "bytes[1]": 196,
+    "bytes[2]": 35,
+    "bytes[3]": 235,
+    "bytes[4]": 217,
+    "bytes[5]": 3,
+    "bytes[6]": 79,
+    "bytes[7]": 14,
+    "bytes[8]": 111,
+    "bytes[9]": 122,
+    "bytes[10]": 91,
+    "bytes[11]": 233,
+    "bytes[12]": 75,
+    "bytes[13]": 196,
+    "bytes[14]": 249,
+    "bytes[15]": 227
+  },
+  "m_ClassName": "Slided",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

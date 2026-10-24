@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIGrid",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 2,
+    "bytes[1]": 220,
+    "bytes[2]": 143,
+    "bytes[3]": 29,
+    "bytes[4]": 214,
+    "bytes[5]": 117,
+    "bytes[6]": 78,
+    "bytes[7]": 82,
+    "bytes[8]": 242,
+    "bytes[9]": 219,
+    "bytes[10]": 148,
+    "bytes[11]": 63,
+    "bytes[12]": 62,
+    "bytes[13]": 42,
+    "bytes[14]": 172,
+    "bytes[15]": 45
+  },
+  "m_ClassName": "UIGrid",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

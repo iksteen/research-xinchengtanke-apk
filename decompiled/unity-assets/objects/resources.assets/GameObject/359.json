@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2202
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3890
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3898
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3844
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3843
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5745
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "MuzzleFire_3way",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

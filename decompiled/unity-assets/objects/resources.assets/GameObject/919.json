@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2541
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6406
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6409
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3696
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "Thumb",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

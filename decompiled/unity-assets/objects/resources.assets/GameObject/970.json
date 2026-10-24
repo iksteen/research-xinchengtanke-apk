@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4879
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6441
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6438
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6437
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6440
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6439
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins RemoveValueFromList",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

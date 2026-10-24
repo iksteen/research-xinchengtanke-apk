@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2644
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6863
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6862
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3703
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6861
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "TankP_ButtonHand",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

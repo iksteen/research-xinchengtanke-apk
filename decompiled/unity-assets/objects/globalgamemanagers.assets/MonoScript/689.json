@@ -1,0 +1,25 @@
+{
+  "m_Name": "ControlSliderFrameMax",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 109,
+    "bytes[1]": 196,
+    "bytes[2]": 38,
+    "bytes[3]": 226,
+    "bytes[4]": 77,
+    "bytes[5]": 71,
+    "bytes[6]": 82,
+    "bytes[7]": 233,
+    "bytes[8]": 180,
+    "bytes[9]": 246,
+    "bytes[10]": 220,
+    "bytes[11]": 197,
+    "bytes[12]": 89,
+    "bytes[13]": 110,
+    "bytes[14]": 100,
+    "bytes[15]": 239
+  },
+  "m_ClassName": "ControlSliderFrameMax",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

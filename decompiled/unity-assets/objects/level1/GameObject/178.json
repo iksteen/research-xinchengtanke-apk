@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 291
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 784
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1063
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "EventSystem",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

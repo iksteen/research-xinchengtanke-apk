@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2535
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6328
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6323
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3689
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6326
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonBeforeCN",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "method": "HjdBluetoothHardwareInterface$$StartAdvertising",
+    "address": "0xdc4054",
+    "end_exclusive": "0xdc41dc",
+    "file": "HjdBluetoothHardwareInterface__StartAdvertising.asm"
+  },
+  {
+    "method": "HjdBluetoothHardwareInterface$$cal_AndroidBle_sumdata",
+    "address": "0xdc41dc",
+    "end_exclusive": "0xdc423c",
+    "file": "HjdBluetoothHardwareInterface__cal_AndroidBle_sumdata.asm"
+  },
+  {
+    "method": "HjdBluetoothHardwareInterface$$calDataIsTrue",
+    "address": "0xdc485c",
+    "end_exclusive": "0xdc4940",
+    "file": "HjdBluetoothHardwareInterface__calDataIsTrue.asm"
+  },
+  {
+    "method": "HjdBluetoothHardwareInterface$$bleuseNumber",
+    "address": "0xdc4940",
+    "end_exclusive": "0xdc4948",
+    "file": "HjdBluetoothHardwareInterface__bleuseNumber.asm"
+  },
+  {
+    "method": "ContainerBeforeSelectUIController$$InitBluethood",
+    "address": "0xdd6e94",
+    "end_exclusive": "0xdd70b8",
+    "file": "ContainerBeforeSelectUIController__InitBluethood.asm"
+  },
+  {
+    "method": "ContainerRemoteCarUIController$$Update",
+    "address": "0xdd8f6c",
+    "end_exclusive": "0xdd9878",
+    "file": "ContainerRemoteCarUIController__Update.asm"
+  },
+  {
+    "method": "ContainerRemoteTankUIController$$OnClickButtonBlesetting",
+    "address": "0xdddc3c",
+    "end_exclusive": "0xdde248",
+    "file": "ContainerRemoteTankUIController__OnClickButtonBlesetting.asm"
+  },
+  {
+    "method": "ContainerRemoteTankUIController$$Update",
+    "address": "0xdde248",
+    "end_exclusive": "0xddec84",
+    "file": "ContainerRemoteTankUIController__Update.asm"
+  },
+  {
+    "method": "ContainerRemoteTankUIController$$.ctor",
+    "address": "0xddf068",
+    "end_exclusive": "0xddf124",
+    "file": "ContainerRemoteTankUIController__.ctor.asm"
+  },
+  {
+    "method": "ContainerRemoteTankUIController$$<OnClickButtonBlesetting>b__21_4",
+    "address": "0xddf128",
+    "end_exclusive": "0xde07c4",
+    "file": "ContainerRemoteTankUIController___OnClickButtonBlesetting_b__21_4.asm"
+  },
+  {
+    "method": "TankEngineController$$Update",
+    "address": "0x6e0428",
+    "end_exclusive": "0x6e1004",
+    "file": "TankEngineController__Update.asm"
+  },
+  {
+    "method": "Assets.Scripts.Tools.HjdBleTool$$setIntegerSomeBit",
+    "address": "0x7f7068",
+    "end_exclusive": "0x7f7084",
+    "file": "Assets.Scripts.Tools.HjdBleTool__setIntegerSomeBit.asm"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2965
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6170
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6105
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerRemoveCarPrograme",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "AnimatedWidget",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 0,
+    "bytes[1]": 217,
+    "bytes[2]": 247,
+    "bytes[3]": 20,
+    "bytes[4]": 39,
+    "bytes[5]": 13,
+    "bytes[6]": 241,
+    "bytes[7]": 215,
+    "bytes[8]": 233,
+    "bytes[9]": 182,
+    "bytes[10]": 40,
+    "bytes[11]": 34,
+    "bytes[12]": 113,
+    "bytes[13]": 54,
+    "bytes[14]": 210,
+    "bytes[15]": 109
+  },
+  "m_ClassName": "AnimatedWidget",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

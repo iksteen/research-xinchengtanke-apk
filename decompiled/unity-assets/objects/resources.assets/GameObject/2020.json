@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5547
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8173
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8174
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8171
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8172
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8170
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins AddVariable",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

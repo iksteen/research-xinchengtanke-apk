@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2579
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6586
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6587
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6584
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3684
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5944
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "routeprogress",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

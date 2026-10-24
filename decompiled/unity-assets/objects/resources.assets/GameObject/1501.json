@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5056
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7825
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6413
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8003
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6319
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8155
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins DefineFunction",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

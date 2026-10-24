@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2725
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7119
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7118
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3655
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "UIMain",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

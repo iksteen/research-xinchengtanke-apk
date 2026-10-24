@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5135
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7134
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7135
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7136
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7128
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7137
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "HorizontalBlock Ins ChangeColor",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

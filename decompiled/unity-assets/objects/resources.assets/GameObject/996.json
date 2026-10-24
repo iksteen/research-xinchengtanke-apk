@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4905
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6468
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6467
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6466
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6465
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6464
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins ClearList",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

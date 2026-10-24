@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_UI_NewVariablePanel",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 19,
+    "bytes[1]": 109,
+    "bytes[2]": 161,
+    "bytes[3]": 165,
+    "bytes[4]": 142,
+    "bytes[5]": 159,
+    "bytes[6]": 49,
+    "bytes[7]": 220,
+    "bytes[8]": 164,
+    "bytes[9]": 17,
+    "bytes[10]": 212,
+    "bytes[11]": 159,
+    "bytes[12]": 70,
+    "bytes[13]": 40,
+    "bytes[14]": 101,
+    "bytes[15]": 190
+  },
+  "m_ClassName": "BE2_UI_NewVariablePanel",
+  "m_Namespace": "MG_BlocksEngine2.UI",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_UI_HorizontalCreateFunctionBlockMenu",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 64,
+    "bytes[1]": 150,
+    "bytes[2]": 177,
+    "bytes[3]": 30,
+    "bytes[4]": 225,
+    "bytes[5]": 244,
+    "bytes[6]": 207,
+    "bytes[7]": 169,
+    "bytes[8]": 132,
+    "bytes[9]": 8,
+    "bytes[10]": 108,
+    "bytes[11]": 112,
+    "bytes[12]": 95,
+    "bytes[13]": 38,
+    "bytes[14]": 199,
+    "bytes[15]": 43
+  },
+  "m_ClassName": "BE2_UI_HorizontalCreateFunctionBlockMenu",
+  "m_Namespace": "MG_BlocksEngine2.Horizontal.UI.FunctionBlock",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

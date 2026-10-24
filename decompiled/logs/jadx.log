@@ -1,0 +1,4 @@
+[0.001s][warning][perf,memops] Cannot use file /tmp/hsperfdata_ingmar/3 because it is locked by another process (errno = 11)
+INFO  - loading ...
+INFO  - processing ...
+INFO  - progress: 0 of 76 (0%)                                                             INFO  - done

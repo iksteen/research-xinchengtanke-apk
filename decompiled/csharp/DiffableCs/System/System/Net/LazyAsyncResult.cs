@@ -1,0 +1,91 @@
+namespace System.Net;
+
+internal class LazyAsyncResult : IAsyncResult
+{
+	private class ThreadContext
+	{
+		internal int m_NestedIOCount; //Field offset: 0x10
+
+		public ThreadContext() { }
+
+	}
+
+	[ThreadStatic]
+	private static ThreadContext t_ThreadContext; //Field offset: 0x80000000
+	private object m_AsyncObject; //Field offset: 0x10
+	private object m_AsyncState; //Field offset: 0x18
+	private AsyncCallback m_AsyncCallback; //Field offset: 0x20
+	private object m_Result; //Field offset: 0x28
+	private int m_IntCompleted; //Field offset: 0x30
+	private bool m_UserEvent; //Field offset: 0x34
+	private object m_Event; //Field offset: 0x38
+
+	internal object AsyncObject
+	{
+		internal get { } //Length: 8
+	}
+
+	public override object AsyncState
+	{
+		 get { } //Length: 8
+	}
+
+	public override WaitHandle AsyncWaitHandle
+	{
+		 get { } //Length: 176
+	}
+
+	public override bool CompletedSynchronously
+	{
+		 get { } //Length: 52
+	}
+
+	private static ThreadContext CurrentThreadContext
+	{
+		private get { } //Length: 144
+	}
+
+	internal bool InternalPeekCompleted
+	{
+		internal get { } //Length: 16
+	}
+
+	public override bool IsCompleted
+	{
+		 get { } //Length: 52
+	}
+
+	internal LazyAsyncResult(object myObject, object myState, AsyncCallback myCallBack) { }
+
+	protected override void Cleanup() { }
+
+	protected override void Complete(IntPtr userToken) { }
+
+	internal object get_AsyncObject() { }
+
+	public override object get_AsyncState() { }
+
+	public override WaitHandle get_AsyncWaitHandle() { }
+
+	public override bool get_CompletedSynchronously() { }
+
+	private static ThreadContext get_CurrentThreadContext() { }
+
+	internal bool get_InternalPeekCompleted() { }
+
+	public override bool get_IsCompleted() { }
+
+	internal object InternalWaitForCompletion() { }
+
+	internal void InvokeCallback(object result) { }
+
+	private bool LazilyCreateEvent(out ManualResetEvent waitHandle) { }
+
+	protected void ProtectedInvokeCallback(object result, IntPtr userToken) { }
+
+	private object WaitForCompletion(bool snap) { }
+
+	private void WorkerThreadComplete(object state) { }
+
+}
+

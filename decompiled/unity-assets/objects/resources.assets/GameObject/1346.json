@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5118
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7071
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7069
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7068
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7067
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7070
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "HorizontalBlock Ins BreakLoop",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

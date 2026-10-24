@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_Ins_DefineFunction",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 155,
+    "bytes[1]": 10,
+    "bytes[2]": 63,
+    "bytes[3]": 86,
+    "bytes[4]": 66,
+    "bytes[5]": 197,
+    "bytes[6]": 45,
+    "bytes[7]": 96,
+    "bytes[8]": 12,
+    "bytes[9]": 31,
+    "bytes[10]": 118,
+    "bytes[11]": 240,
+    "bytes[12]": 200,
+    "bytes[13]": 4,
+    "bytes[14]": 71,
+    "bytes[15]": 153
+  },
+  "m_ClassName": "BE2_Ins_DefineFunction",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

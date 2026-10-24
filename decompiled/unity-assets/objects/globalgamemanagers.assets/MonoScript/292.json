@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIKeyNavigation",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 178,
+    "bytes[1]": 159,
+    "bytes[2]": 59,
+    "bytes[3]": 84,
+    "bytes[4]": 108,
+    "bytes[5]": 76,
+    "bytes[6]": 141,
+    "bytes[7]": 170,
+    "bytes[8]": 248,
+    "bytes[9]": 100,
+    "bytes[10]": 73,
+    "bytes[11]": 30,
+    "bytes[12]": 108,
+    "bytes[13]": 137,
+    "bytes[14]": 163,
+    "bytes[15]": 236
+  },
+  "m_ClassName": "UIKeyNavigation",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

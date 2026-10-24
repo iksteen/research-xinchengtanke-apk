@@ -1,0 +1,25 @@
+{
+  "m_Name": "TMP_TextSelector_B",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 161,
+    "bytes[1]": 202,
+    "bytes[2]": 18,
+    "bytes[3]": 55,
+    "bytes[4]": 186,
+    "bytes[5]": 208,
+    "bytes[6]": 243,
+    "bytes[7]": 14,
+    "bytes[8]": 165,
+    "bytes[9]": 186,
+    "bytes[10]": 143,
+    "bytes[11]": 64,
+    "bytes[12]": 96,
+    "bytes[13]": 146,
+    "bytes[14]": 145,
+    "bytes[15]": 20
+  },
+  "m_ClassName": "TMP_TextSelector_B",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

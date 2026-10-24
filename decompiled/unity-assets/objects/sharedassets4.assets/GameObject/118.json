@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 127
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 145
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 136
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 155
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Bush01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

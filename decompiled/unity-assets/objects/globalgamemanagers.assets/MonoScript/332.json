@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_Ins_ReferenceFunctionBlock",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 26,
+    "bytes[1]": 238,
+    "bytes[2]": 118,
+    "bytes[3]": 156,
+    "bytes[4]": 7,
+    "bytes[5]": 85,
+    "bytes[6]": 79,
+    "bytes[7]": 50,
+    "bytes[8]": 87,
+    "bytes[9]": 206,
+    "bytes[10]": 200,
+    "bytes[11]": 194,
+    "bytes[12]": 181,
+    "bytes[13]": 41,
+    "bytes[14]": 71,
+    "bytes[15]": 239
+  },
+  "m_ClassName": "BE2_Ins_ReferenceFunctionBlock",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,20 @@
+version: 3.0.3
+apkFileName: xinchengtanke.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 23
+  targetSdkVersion: 30
+versionInfo:
+  versionCode: 1
+  versionName: 0.1
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc
+- png
+- assets/bin/Data/data.unity3d
+- assets/bin/Data/resources.resource
+- assets/bin/Data/sharedassets1.resource
+- assets/bin/Data/sharedassets2.resource

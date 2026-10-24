@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_HorizontalFunctionBlocksManager",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 54,
+    "bytes[1]": 233,
+    "bytes[2]": 164,
+    "bytes[3]": 223,
+    "bytes[4]": 217,
+    "bytes[5]": 167,
+    "bytes[6]": 135,
+    "bytes[7]": 65,
+    "bytes[8]": 70,
+    "bytes[9]": 214,
+    "bytes[10]": 200,
+    "bytes[11]": 89,
+    "bytes[12]": 156,
+    "bytes[13]": 72,
+    "bytes[14]": 89,
+    "bytes[15]": 110
+  },
+  "m_ClassName": "BE2_HorizontalFunctionBlocksManager",
+  "m_Namespace": "MG_BlocksEngine2.Horizontal.Environment",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

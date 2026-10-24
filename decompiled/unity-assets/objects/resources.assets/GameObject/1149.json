@@ -1,0 +1,50 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5011
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6721
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6722
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6723
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6724
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6725
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6720
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Op Sum",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

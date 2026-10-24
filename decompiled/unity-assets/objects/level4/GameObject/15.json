@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 322
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 793
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 640
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1108
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1026
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "CenterTemple",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIImageButton",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 193,
+    "bytes[1]": 192,
+    "bytes[2]": 142,
+    "bytes[3]": 74,
+    "bytes[4]": 114,
+    "bytes[5]": 80,
+    "bytes[6]": 29,
+    "bytes[7]": 26,
+    "bytes[8]": 209,
+    "bytes[9]": 237,
+    "bytes[10]": 11,
+    "bytes[11]": 239,
+    "bytes[12]": 126,
+    "bytes[13]": 15,
+    "bytes[14]": 245,
+    "bytes[15]": 69
+  },
+  "m_ClassName": "UIImageButton",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2219
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5691
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "CarP_ButtonControltext",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

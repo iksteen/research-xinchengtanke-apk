@@ -1,0 +1,50 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5328
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7604
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7608
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7607
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7606
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7605
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7603
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Op Xnor",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

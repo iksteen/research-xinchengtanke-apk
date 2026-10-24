@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 181
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 101
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 278
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 193
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 228
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 205
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Horizontal Template Body Middle",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

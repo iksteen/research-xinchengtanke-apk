@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIInput",
+  "m_ExecutionOrder": 1,
+  "m_PropertiesHash": {
+    "bytes[0]": 7,
+    "bytes[1]": 122,
+    "bytes[2]": 101,
+    "bytes[3]": 88,
+    "bytes[4]": 81,
+    "bytes[5]": 249,
+    "bytes[6]": 87,
+    "bytes[7]": 23,
+    "bytes[8]": 227,
+    "bytes[9]": 193,
+    "bytes[10]": 94,
+    "bytes[11]": 117,
+    "bytes[12]": 78,
+    "bytes[13]": 188,
+    "bytes[14]": 12,
+    "bytes[15]": 87
+  },
+  "m_ClassName": "UIInput",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

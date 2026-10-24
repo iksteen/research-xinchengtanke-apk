@@ -1,0 +1,25 @@
+{
+  "m_Name": "DynamicJoystick",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 130,
+    "bytes[1]": 78,
+    "bytes[2]": 141,
+    "bytes[3]": 76,
+    "bytes[4]": 180,
+    "bytes[5]": 127,
+    "bytes[6]": 253,
+    "bytes[7]": 136,
+    "bytes[8]": 221,
+    "bytes[9]": 249,
+    "bytes[10]": 89,
+    "bytes[11]": 219,
+    "bytes[12]": 212,
+    "bytes[13]": 82,
+    "bytes[14]": 101,
+    "bytes[15]": 133
+  },
+  "m_ClassName": "DynamicJoystick",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

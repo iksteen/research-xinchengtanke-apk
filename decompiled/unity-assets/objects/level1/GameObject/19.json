@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 541
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 516
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 855
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 854
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 853
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Canvas Create Function Block",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "ContainerYinsiUIController",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 87,
+    "bytes[1]": 119,
+    "bytes[2]": 216,
+    "bytes[3]": 149,
+    "bytes[4]": 148,
+    "bytes[5]": 221,
+    "bytes[6]": 166,
+    "bytes[7]": 227,
+    "bytes[8]": 177,
+    "bytes[9]": 10,
+    "bytes[10]": 171,
+    "bytes[11]": 130,
+    "bytes[12]": 158,
+    "bytes[13]": 151,
+    "bytes[14]": 244,
+    "bytes[15]": 40
+  },
+  "m_ClassName": "ContainerYinsiUIController",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

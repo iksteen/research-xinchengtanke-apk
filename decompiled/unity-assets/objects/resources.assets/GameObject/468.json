@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2276
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5865
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5831
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3668
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5886
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonGravityDapao",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

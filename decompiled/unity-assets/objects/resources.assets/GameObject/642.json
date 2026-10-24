@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4742
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4626
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6121
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6120
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "rightCanvas",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

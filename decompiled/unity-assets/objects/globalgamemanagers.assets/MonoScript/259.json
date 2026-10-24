@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_VariablesListManager",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 120,
+    "bytes[1]": 229,
+    "bytes[2]": 221,
+    "bytes[3]": 208,
+    "bytes[4]": 105,
+    "bytes[5]": 245,
+    "bytes[6]": 131,
+    "bytes[7]": 148,
+    "bytes[8]": 223,
+    "bytes[9]": 244,
+    "bytes[10]": 135,
+    "bytes[11]": 233,
+    "bytes[12]": 92,
+    "bytes[13]": 64,
+    "bytes[14]": 116,
+    "bytes[15]": 161
+  },
+  "m_ClassName": "BE2_VariablesListManager",
+  "m_Namespace": "MG_BlocksEngine2.Environment",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

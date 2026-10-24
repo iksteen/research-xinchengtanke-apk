@@ -1,0 +1,25 @@
+{
+  "m_Name": "JoystickSetterExample",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 158,
+    "bytes[1]": 39,
+    "bytes[2]": 244,
+    "bytes[3]": 75,
+    "bytes[4]": 191,
+    "bytes[5]": 72,
+    "bytes[6]": 34,
+    "bytes[7]": 143,
+    "bytes[8]": 32,
+    "bytes[9]": 58,
+    "bytes[10]": 55,
+    "bytes[11]": 37,
+    "bytes[12]": 77,
+    "bytes[13]": 64,
+    "bytes[14]": 248,
+    "bytes[15]": 174
+  },
+  "m_ClassName": "JoystickSetterExample",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

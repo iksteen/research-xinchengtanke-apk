@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2805
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7612
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7613
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3718
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7611
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonCompayintroReturn",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

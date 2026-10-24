@@ -1,0 +1,660 @@
+[
+  {
+    "Address": 14511544,
+    "Name": "ContainerBeforeSelectUIController$$Start",
+    "Signature": "void ContainerBeforeSelectUIController__Start (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14512312,
+    "Name": "ContainerBeforeSelectUIController$$InitButtonEvent",
+    "Signature": "void ContainerBeforeSelectUIController__InitButtonEvent (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14512812,
+    "Name": "ContainerBeforeSelectUIController$$OnClickButtonBeforeCN",
+    "Signature": "void ContainerBeforeSelectUIController__OnClickButtonBeforeCN (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14513248,
+    "Name": "ContainerBeforeSelectUIController$$OnClickButtonBeforeEN",
+    "Signature": "void ContainerBeforeSelectUIController__OnClickButtonBeforeEN (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14513688,
+    "Name": "ContainerBeforeSelectUIController$$OnClickButtonBeforeSysout",
+    "Signature": "void ContainerBeforeSelectUIController__OnClickButtonBeforeSysout (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14511764,
+    "Name": "ContainerBeforeSelectUIController$$InitBluethood",
+    "Signature": "void ContainerBeforeSelectUIController__InitBluethood (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14513696,
+    "Name": "ContainerBeforeSelectUIController$$Update",
+    "Signature": "void ContainerBeforeSelectUIController__Update (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14513700,
+    "Name": "ContainerBeforeSelectUIController$$Awake",
+    "Signature": "void ContainerBeforeSelectUIController__Awake (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14513976,
+    "Name": "ContainerBeforeSelectUIController$$.ctor",
+    "Signature": "void ContainerBeforeSelectUIController___ctor (ContainerBeforeSelectUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerBeforeSelectUIController"
+  },
+  {
+    "Address": 14517592,
+    "Name": "ContainerRemoteCarUIController$$Start",
+    "Signature": "void ContainerRemoteCarUIController__Start (ContainerRemoteCarUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14518000,
+    "Name": "ContainerRemoteCarUIController$$InitButtonEvent",
+    "Signature": "void ContainerRemoteCarUIController__InitButtonEvent (ContainerRemoteCarUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14518384,
+    "Name": "ContainerRemoteCarUIController$$OnClickButtonBlesetting",
+    "Signature": "void ContainerRemoteCarUIController__OnClickButtonBlesetting (ContainerRemoteCarUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14519932,
+    "Name": "ContainerRemoteCarUIController$$OnClickButtonBack",
+    "Signature": "void ContainerRemoteCarUIController__OnClickButtonBack (ContainerRemoteCarUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14520000,
+    "Name": "ContainerRemoteCarUIController$$LoadNewScene",
+    "Signature": "void ContainerRemoteCarUIController__LoadNewScene (ContainerRemoteCarUIController_o* __this, System_String_o* sceneName, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14520172,
+    "Name": "ContainerRemoteCarUIController$$Update",
+    "Signature": "void ContainerRemoteCarUIController__Update (ContainerRemoteCarUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14522488,
+    "Name": "ContainerRemoteCarUIController$$gethaomiao",
+    "Signature": "int64_t ContainerRemoteCarUIController__gethaomiao (ContainerRemoteCarUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "jii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14522668,
+    "Name": "ContainerRemoteCarUIController$$Awake",
+    "Signature": "void ContainerRemoteCarUIController__Awake (ContainerRemoteCarUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14522852,
+    "Name": "ContainerRemoteCarUIController$$.ctor",
+    "Signature": "void ContainerRemoteCarUIController___ctor (ContainerRemoteCarUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14523040,
+    "Name": "ContainerRemoteCarUIController$$.cctor",
+    "Signature": "void ContainerRemoteCarUIController___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14523044,
+    "Name": "ContainerRemoteCarUIController$$<OnClickButtonBlesetting>b__13_4",
+    "Signature": "void ContainerRemoteCarUIController___OnClickButtonBlesetting_b__13_4 (ContainerRemoteCarUIController_o* __this, System_String_o* data, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "ContainerRemoteCarUIController"
+  },
+  {
+    "Address": 14537600,
+    "Name": "ContainerRemoteTankUIController$$Start",
+    "Signature": "void ContainerRemoteTankUIController__Start (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14538008,
+    "Name": "ContainerRemoteTankUIController$$InitButtonEvent",
+    "Signature": "void ContainerRemoteTankUIController__InitButtonEvent (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14538896,
+    "Name": "ContainerRemoteTankUIController$$LoadTankBloodbar_data",
+    "Signature": "void ContainerRemoteTankUIController__LoadTankBloodbar_data (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14539596,
+    "Name": "ContainerRemoteTankUIController$$OnClickButtonBack",
+    "Signature": "void ContainerRemoteTankUIController__OnClickButtonBack (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14539836,
+    "Name": "ContainerRemoteTankUIController$$OnClickButtonBlesetting",
+    "Signature": "void ContainerRemoteTankUIController__OnClickButtonBlesetting (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14539664,
+    "Name": "ContainerRemoteTankUIController$$LoadNewScene",
+    "Signature": "void ContainerRemoteTankUIController__LoadNewScene (ContainerRemoteTankUIController_o* __this, System_String_o* sceneName, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14541384,
+    "Name": "ContainerRemoteTankUIController$$Update",
+    "Signature": "void ContainerRemoteTankUIController__Update (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14544004,
+    "Name": "ContainerRemoteTankUIController$$gethaomiao",
+    "Signature": "int64_t ContainerRemoteTankUIController__gethaomiao (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "jii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14544184,
+    "Name": "ContainerRemoteTankUIController$$Awake",
+    "Signature": "void ContainerRemoteTankUIController__Awake (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14545000,
+    "Name": "ContainerRemoteTankUIController$$.ctor",
+    "Signature": "void ContainerRemoteTankUIController___ctor (ContainerRemoteTankUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14545188,
+    "Name": "ContainerRemoteTankUIController$$.cctor",
+    "Signature": "void ContainerRemoteTankUIController___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 14545192,
+    "Name": "ContainerRemoteTankUIController$$<OnClickButtonBlesetting>b__21_4",
+    "Signature": "void ContainerRemoteTankUIController___OnClickButtonBlesetting_b__21_4 (ContainerRemoteTankUIController_o* __this, System_String_o* data, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "ContainerRemoteTankUIController"
+  },
+  {
+    "Address": 7573424,
+    "Name": "PanelMainUIController$$get_Instance",
+    "Signature": "PanelMainUIController_o* PanelMainUIController__get_Instance (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574400,
+    "Name": "PanelMainUIController$$GetDeviceUniqueIdentifier",
+    "Signature": "System_String_o* PanelMainUIController__GetDeviceUniqueIdentifier (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574408,
+    "Name": "PanelMainUIController$$Start",
+    "Signature": "void PanelMainUIController__Start (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574412,
+    "Name": "PanelMainUIController$$Update",
+    "Signature": "void PanelMainUIController__Update (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574416,
+    "Name": "PanelMainUIController$$OnDestroy",
+    "Signature": "void PanelMainUIController__OnDestroy (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574520,
+    "Name": "PanelMainUIController$$GetLayerContainer",
+    "Signature": "UnityEngine_GameObject_o* PanelMainUIController__GetLayerContainer (PanelMainUIController_o* __this, int32_t ul, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574604,
+    "Name": "PanelMainUIController$$AddUI",
+    "Signature": "UnityEngine_GameObject_o* PanelMainUIController__AddUI (PanelMainUIController_o* __this, int32_t layer, System_String_o* uiName, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574860,
+    "Name": "PanelMainUIController$$CleanAllUI",
+    "Signature": "void PanelMainUIController__CleanAllUI (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578012,
+    "Name": "PanelMainUIController$$EnterRemoveCust",
+    "Signature": "void PanelMainUIController__EnterRemoveCust (PanelMainUIController_o* __this, System_String_o* custname, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578060,
+    "Name": "PanelMainUIController$$EnterYinsi",
+    "Signature": "void PanelMainUIController__EnterYinsi (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578148,
+    "Name": "PanelMainUIController$$EnterCompayintro",
+    "Signature": "void PanelMainUIController__EnterCompayintro (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578236,
+    "Name": "PanelMainUIController$$EnterOperdoc",
+    "Signature": "void PanelMainUIController__EnterOperdoc (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578324,
+    "Name": "PanelMainUIController$$SwitchLandscapescreen",
+    "Signature": "void PanelMainUIController__SwitchLandscapescreen (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578552,
+    "Name": "PanelMainUIController$$SwitchVerticalscreen",
+    "Signature": "void PanelMainUIController__SwitchVerticalscreen (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578776,
+    "Name": "PanelMainUIController$$ClearNowScene",
+    "Signature": "void PanelMainUIController__ClearNowScene (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578780,
+    "Name": "PanelMainUIController$$EnterRemoveBeforeLogin",
+    "Signature": "void PanelMainUIController__EnterRemoveBeforeLogin (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578868,
+    "Name": "PanelMainUIController$$EnterRemoveBeforeSelect",
+    "Signature": "void PanelMainUIController__EnterRemoveBeforeSelect (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578956,
+    "Name": "PanelMainUIController$$EnterResultDevice",
+    "Signature": "void PanelMainUIController__EnterResultDevice (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579116,
+    "Name": "PanelMainUIController$$EnterRemoteCar",
+    "Signature": "void PanelMainUIController__EnterRemoteCar (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579288,
+    "Name": "PanelMainUIController$$EnterRemoteTank",
+    "Signature": "void PanelMainUIController__EnterRemoteTank (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579460,
+    "Name": "PanelMainUIController$$EnterRemoveCarRoute",
+    "Signature": "void PanelMainUIController__EnterRemoveCarRoute (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579548,
+    "Name": "PanelMainUIController$$EnterRemoveCarPrograme",
+    "Signature": "void PanelMainUIController__EnterRemoveCarPrograme (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579636,
+    "Name": "PanelMainUIController$$EnterRemoveCarGravity",
+    "Signature": "void PanelMainUIController__EnterRemoveCarGravity (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579724,
+    "Name": "PanelMainUIController$$EnterRemoveTankGravity",
+    "Signature": "void PanelMainUIController__EnterRemoveTankGravity (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579812,
+    "Name": "PanelMainUIController$$EnterLoginScreen",
+    "Signature": "void PanelMainUIController__EnterLoginScreen (PanelMainUIController_o* __this, System_String_o* nscreen, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579976,
+    "Name": "PanelMainUIController$$EnterRcTrack",
+    "Signature": "void PanelMainUIController__EnterRcTrack (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7580232,
+    "Name": "PanelMainUIController$$EnterRcTrackCeshi",
+    "Signature": "void PanelMainUIController__EnterRcTrackCeshi (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7580320,
+    "Name": "PanelMainUIController$$EnterRcIndoor",
+    "Signature": "void PanelMainUIController__EnterRcIndoor (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7580576,
+    "Name": "PanelMainUIController$$EnterRcForest",
+    "Signature": "void PanelMainUIController__EnterRcForest (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7580832,
+    "Name": "PanelMainUIController$$EnterRcSnow",
+    "Signature": "void PanelMainUIController__EnterRcSnow (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7581088,
+    "Name": "PanelMainUIController$$EnterRemoteHandTank",
+    "Signature": "void PanelMainUIController__EnterRemoteHandTank (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7581176,
+    "Name": "PanelMainUIController$$EnterRemoteHandCar",
+    "Signature": "void PanelMainUIController__EnterRemoteHandCar (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7581264,
+    "Name": "PanelMainUIController$$Awake",
+    "Signature": "void PanelMainUIController__Awake (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7582012,
+    "Name": "PanelMainUIController$$.ctor",
+    "Signature": "void PanelMainUIController___ctor (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7582020,
+    "Name": "PanelMainUIController$$.cctor",
+    "Signature": "void PanelMainUIController___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 8351272,
+    "Name": "Assets.Scripts.Tools.HjdBleTool$$data_isalike",
+    "Signature": "bool Assets_Scripts_Tools_HjdBleTool__data_isalike (System_Byte_array* newdata, System_Byte_array* olddata, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "HjdBleTool"
+  },
+  {
+    "Address": 8351400,
+    "Name": "Assets.Scripts.Tools.HjdBleTool$$data_copy",
+    "Signature": "void Assets_Scripts_Tools_HjdBleTool__data_copy (System_Byte_array* newdata, System_Byte_array* olddata, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBleTool"
+  },
+  {
+    "Address": 8351500,
+    "Name": "Assets.Scripts.Tools.HjdBleTool$$print_data",
+    "Signature": "System_String_o* Assets_Scripts_Tools_HjdBleTool__print_data (System_Byte_array* carbroad_data, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "HjdBleTool"
+  },
+  {
+    "Address": 8351848,
+    "Name": "Assets.Scripts.Tools.HjdBleTool$$setIntegerSomeBit",
+    "Signature": "uint8_t Assets_Scripts_Tools_HjdBleTool__setIntegerSomeBit (uint8_t data, int32_t _Mask, bool flag, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "HjdBleTool"
+  },
+  {
+    "Address": 8351876,
+    "Name": "Assets.Scripts.Tools.HjdBleTool$$setOrIntegerBit",
+    "Signature": "uint8_t Assets_Scripts_Tools_HjdBleTool__setOrIntegerBit (uint8_t data, uint8_t orbit, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "HjdBleTool"
+  },
+  {
+    "Address": 8351884,
+    "Name": "Assets.Scripts.Tools.HjdBleTool$$.ctor",
+    "Signature": "void Assets_Scripts_Tools_HjdBleTool___ctor (Assets_Scripts_Tools_HjdBleTool_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBleTool"
+  },
+  {
+    "Address": 14431928,
+    "Name": "HjdBluetoothDeviceScript$$Start",
+    "Signature": "void HjdBluetoothDeviceScript__Start (HjdBluetoothDeviceScript_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14431932,
+    "Name": "HjdBluetoothDeviceScript$$OnInitReturn",
+    "Signature": "void HjdBluetoothDeviceScript__OnInitReturn (HjdBluetoothDeviceScript_o* __this, System_String_o* msg, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432044,
+    "Name": "HjdBluetoothDeviceScript$$OnStartingAdvert",
+    "Signature": "void HjdBluetoothDeviceScript__OnStartingAdvert (HjdBluetoothDeviceScript_o* __this, System_String_o* msg, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432156,
+    "Name": "HjdBluetoothDeviceScript$$OnStopAdvert",
+    "Signature": "void HjdBluetoothDeviceScript__OnStopAdvert (HjdBluetoothDeviceScript_o* __this, System_String_o* msg, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432268,
+    "Name": "HjdBluetoothDeviceScript$$OnStartingScan",
+    "Signature": "void HjdBluetoothDeviceScript__OnStartingScan (HjdBluetoothDeviceScript_o* __this, System_String_o* msg, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432380,
+    "Name": "HjdBluetoothDeviceScript$$OnStopScan",
+    "Signature": "void HjdBluetoothDeviceScript__OnStopScan (HjdBluetoothDeviceScript_o* __this, System_String_o* msg, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432492,
+    "Name": "HjdBluetoothDeviceScript$$OnScanData",
+    "Signature": "void HjdBluetoothDeviceScript__OnScanData (HjdBluetoothDeviceScript_o* __this, System_String_o* msg, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432604,
+    "Name": "HjdBluetoothDeviceScript$$OnDeInitReturn",
+    "Signature": "void HjdBluetoothDeviceScript__OnDeInitReturn (HjdBluetoothDeviceScript_o* __this, System_String_o* msg, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432716,
+    "Name": "HjdBluetoothDeviceScript$$Update",
+    "Signature": "void HjdBluetoothDeviceScript__Update (HjdBluetoothDeviceScript_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432720,
+    "Name": "HjdBluetoothDeviceScript$$.ctor",
+    "Signature": "void HjdBluetoothDeviceScript___ctor (HjdBluetoothDeviceScript_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBluetoothDeviceScript"
+  },
+  {
+    "Address": 14432728,
+    "Name": "HjdBluetoothHardwareInterface$$Initialize",
+    "Signature": "void HjdBluetoothHardwareInterface__Initialize (System_Action_string__o* action, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14433876,
+    "Name": "HjdBluetoothHardwareInterface$$DeInitialize",
+    "Signature": "void HjdBluetoothHardwareInterface__DeInitialize (System_Action_string__o* action, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14434388,
+    "Name": "HjdBluetoothHardwareInterface$$StartAdvertising",
+    "Signature": "void HjdBluetoothHardwareInterface__StartAdvertising (System_Action_string__o* action, System_Byte_array* data, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14434876,
+    "Name": "HjdBluetoothHardwareInterface$$StopAdvertising",
+    "Signature": "void HjdBluetoothHardwareInterface__StopAdvertising (System_Action_string__o* action, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14435388,
+    "Name": "HjdBluetoothHardwareInterface$$StartingScanToGetData",
+    "Signature": "void HjdBluetoothHardwareInterface__StartingScanToGetData (System_Action_string__o* action, System_Action_string__o* dataaction, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14435932,
+    "Name": "HjdBluetoothHardwareInterface$$StopScanToGetData",
+    "Signature": "void HjdBluetoothHardwareInterface__StopScanToGetData (System_Action_string__o* action, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14434780,
+    "Name": "HjdBluetoothHardwareInterface$$cal_AndroidBle_sumdata",
+    "Signature": "System_Byte_array* HjdBluetoothHardwareInterface__cal_AndroidBle_sumdata (System_Byte_array* bledata, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14436444,
+    "Name": "HjdBluetoothHardwareInterface$$calDataIsTrue",
+    "Signature": "bool HjdBluetoothHardwareInterface__calDataIsTrue (System_Byte_array* codes, uint8_t machine_type, uint8_t revice_duima, uint8_t machine_a, uint8_t machine_b, uint8_t machine_c, System_Byte_array* resultdata, const MethodInfo* method);",
+    "TypeSignature": "iiiiiiiii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14436672,
+    "Name": "HjdBluetoothHardwareInterface$$bleuseNumber",
+    "Signature": "int32_t HjdBluetoothHardwareInterface__bleuseNumber (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14436680,
+    "Name": "HjdBluetoothHardwareInterface$$.ctor",
+    "Signature": "void HjdBluetoothHardwareInterface___ctor (HjdBluetoothHardwareInterface_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "HjdBluetoothHardwareInterface"
+  },
+  {
+    "Address": 14436688,
+    "Name": "HjdBluetoothHardwareInterface$$.cctor",
+    "Signature": "void HjdBluetoothHardwareInterface___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "HjdBluetoothHardwareInterface"
+  }
+]

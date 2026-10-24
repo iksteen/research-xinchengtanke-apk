@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 345
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 665
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 533
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 788
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 903
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "tire (110)",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

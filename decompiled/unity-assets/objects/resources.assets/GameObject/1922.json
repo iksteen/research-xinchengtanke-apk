@@ -1,0 +1,50 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5480
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8034
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8038
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8037
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8036
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8035
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8033
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "HorizontalBlock Ins WhenJoystickKeyPressed",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

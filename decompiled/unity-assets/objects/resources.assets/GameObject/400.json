@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2242
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5726
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5725
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3658
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5724
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "CarP_ButtonScene2",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

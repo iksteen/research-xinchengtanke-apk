@@ -1,0 +1,50 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5629
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8414
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8415
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8416
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8417
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8418
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8419
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Op Multiply",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

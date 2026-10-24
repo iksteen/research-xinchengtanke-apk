@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 232
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 678
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 427
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "mesh",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

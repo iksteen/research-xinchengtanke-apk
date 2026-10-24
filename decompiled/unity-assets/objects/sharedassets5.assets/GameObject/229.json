@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 544
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 950
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 777
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Neon_01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

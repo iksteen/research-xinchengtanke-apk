@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIDragObject",
+  "m_ExecutionOrder": -200,
+  "m_PropertiesHash": {
+    "bytes[0]": 141,
+    "bytes[1]": 218,
+    "bytes[2]": 212,
+    "bytes[3]": 172,
+    "bytes[4]": 214,
+    "bytes[5]": 219,
+    "bytes[6]": 146,
+    "bytes[7]": 75,
+    "bytes[8]": 8,
+    "bytes[9]": 237,
+    "bytes[10]": 52,
+    "bytes[11]": 91,
+    "bytes[12]": 125,
+    "bytes[13]": 83,
+    "bytes[14]": 219,
+    "bytes[15]": 197
+  },
+  "m_ClassName": "UIDragObject",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

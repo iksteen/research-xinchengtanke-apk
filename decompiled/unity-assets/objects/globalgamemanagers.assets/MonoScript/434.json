@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_SetIconOnDropdownChange",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 16,
+    "bytes[1]": 244,
+    "bytes[2]": 144,
+    "bytes[3]": 177,
+    "bytes[4]": 221,
+    "bytes[5]": 19,
+    "bytes[6]": 114,
+    "bytes[7]": 167,
+    "bytes[8]": 109,
+    "bytes[9]": 58,
+    "bytes[10]": 191,
+    "bytes[11]": 128,
+    "bytes[12]": 106,
+    "bytes[13]": 77,
+    "bytes[14]": 148,
+    "bytes[15]": 108
+  },
+  "m_ClassName": "BE2_SetIconOnDropdownChange",
+  "m_Namespace": "MG_BlocksEngine2.Horizontal.Block",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,56 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 98
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 187
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 262
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 188
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 189
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 190
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 191
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Horizontal Template InputField",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

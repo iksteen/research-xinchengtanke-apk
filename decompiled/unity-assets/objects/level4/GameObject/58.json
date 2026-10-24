@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 365
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 827
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 674
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1006
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1082
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Fence01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

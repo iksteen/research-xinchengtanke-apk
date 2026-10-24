@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_DragDropManager",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 36,
+    "bytes[1]": 202,
+    "bytes[2]": 106,
+    "bytes[3]": 114,
+    "bytes[4]": 253,
+    "bytes[5]": 225,
+    "bytes[6]": 186,
+    "bytes[7]": 114,
+    "bytes[8]": 81,
+    "bytes[9]": 190,
+    "bytes[10]": 49,
+    "bytes[11]": 177,
+    "bytes[12]": 169,
+    "bytes[13]": 133,
+    "bytes[14]": 241,
+    "bytes[15]": 151
+  },
+  "m_ClassName": "BE2_DragDropManager",
+  "m_Namespace": "MG_BlocksEngine2.DragDrop",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

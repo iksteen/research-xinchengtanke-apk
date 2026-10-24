@@ -1,0 +1,11 @@
+# Keep authored text consistent across checkouts.
+*.md text eol=lf
+*.py text eol=lf
+tools/*.java text eol=lf
+
+# Preserve extracted/decompiler output verbatim, including original line endings.
+# Generated code and asset dumps may contain intentional whitespace.
+decompiled/** -text -whitespace linguist-generated=true
+
+# This guide is maintained by hand.
+decompiled/README.md text eol=lf whitespace linguist-generated=false

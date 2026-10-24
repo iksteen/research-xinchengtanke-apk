@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2282
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5859
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5836
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3673
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5893
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonProgrameResult",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

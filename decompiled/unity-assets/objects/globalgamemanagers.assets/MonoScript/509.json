@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIPanel",
+  "m_ExecutionOrder": 300,
+  "m_PropertiesHash": {
+    "bytes[0]": 91,
+    "bytes[1]": 181,
+    "bytes[2]": 128,
+    "bytes[3]": 223,
+    "bytes[4]": 41,
+    "bytes[5]": 70,
+    "bytes[6]": 157,
+    "bytes[7]": 147,
+    "bytes[8]": 44,
+    "bytes[9]": 229,
+    "bytes[10]": 105,
+    "bytes[11]": 211,
+    "bytes[12]": 211,
+    "bytes[13]": 188,
+    "bytes[14]": 170,
+    "bytes[15]": 34
+  },
+  "m_ClassName": "UIPanel",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

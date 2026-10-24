@@ -1,0 +1,72 @@
+openjdk version "27.0.1.0.2" 2026-10-20
+OpenJDK Runtime Environment (build 27.0.1.0.2)
+OpenJDK 64-Bit Server VM (build 27.0.1.0.2, mixed mode)
+INFO  Using log config file: jar:file:/opt/ghidra/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml (LoggingInitialization)  
+INFO  Using log file: /home/ingmar/src/third/tank/tools/ghidra-config/ghidra/ghidra_12.1.2_DEV/application.log (LoggingInitialization)  
+INFO  Loading user preferences: /home/ingmar/src/third/tank/tools/ghidra-config/ghidra/ghidra_12.1.2_DEV/preferences (Preferences)  
+INFO  Loading previous preferences: /home/ingmar/.ghidra/.ghidra_11.0.3_DEV/preferences (Preferences)  
+INFO  Searching for classes... (ClassSearcher)  
+INFO  Class search complete (1063 ms) (ClassSearcher)  
+WARNING: Final field name in class ghidra.util.charset.CharsetInfo has been mutated reflectively by class com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$2 in unnamed module @25fb8912 (file:/opt/ghidra/Ghidra/Framework/Generic/lib/gson-2.13.2.jar)
+WARNING: Use --enable-final-field-mutation=ALL-UNNAMED to avoid a warning
+WARNING: Mutating final fields will be blocked in a future release unless final field mutation is enabled
+INFO  Initializing SSL Context (DefaultSSLContextInitializer)  
+INFO  Initializing Random Number Generator... (SecureRandomFactory)  
+INFO  Random Number Generator initialization complete: NativePRNGNonBlocking (SecureRandomFactory)  
+INFO  Trust manager disabled, cacerts have not been set (DefaultTrustManagerFactory)  
+INFO  Headless startup complete (2154 ms) (AnalyzeHeadless)  
+INFO  Class searcher loaded 59 extension points (20 false positives) (ClassSearcher)  
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::staticFieldOffset has been called by org.apache.felix.framework.util.SecureAction (file:/opt/ghidra/Ghidra/Features/Base/lib/org.apache.felix.framework-7.0.5.jar)
+WARNING: Please consider reporting this to the maintainers of class org.apache.felix.framework.util.SecureAction
+WARNING: sun.misc.Unsafe::staticFieldOffset will be removed in a future release
+INFO  HEADLESS Script Paths:
+    /opt/ghidra/Ghidra/Features/SystemEmulation/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/GnuDemangler/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/WildcardAssembler/ghidra_scripts
+    /opt/ghidra/Ghidra/Processors/DATA/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/DecompilerDependent/ghidra_scripts
+    /opt/ghidra/Ghidra/Processors/JVM/ghidra_scripts
+    /opt/ghidra/Ghidra/Debug/Debugger-rmi-trace/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/MicrosoftCodeAnalyzer/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/VersionTracking/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/PyGhidra/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/SwiftDemangler/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/Base/ghidra_scripts
+    /opt/ghidra/Ghidra/Processors/Atmel/ghidra_scripts
+    /opt/ghidra/Ghidra/Debug/Debugger/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/Decompiler/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/FunctionID/ghidra_scripts
+    /home/ingmar/src/third/tank/tools
+    /opt/ghidra/Ghidra/Features/PDB/ghidra_scripts
+    /opt/ghidra/Ghidra/Processors/8051/ghidra_scripts
+    /opt/ghidra/Ghidra/Processors/PIC/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/FileFormats/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/BSim/ghidra_scripts
+    /opt/ghidra/Ghidra/Features/BytePatterns/ghidra_scripts (HeadlessAnalyzer)  
+INFO  HEADLESS: execution starts (HeadlessAnalyzer)  
+INFO  Opening existing project: /home/ingmar/src/third/tank/decompiled/ghidra-project/xinchengtanke-native (HeadlessAnalyzer)  
+INFO  Opening project: /home/ingmar/src/third/tank/decompiled/ghidra-project/xinchengtanke-native (HeadlessProject)  
+INFO  REPORT: Processing project file: /libil2cpp.so (HeadlessAnalyzer)  
+INFO  REPORT: Execute script: ExportApplicationParallel.java '/home/ingmar/src/third/tank/decompiled/il2cpp-arm64/application-methods.json' '/home/ingmar/src/third/tank/decompiled/native-final' '60'  (HeadlessAnalyzer)  
+INFO  SCRIPT: /home/ingmar/src/third/tank/tools/ExportApplicationParallel.java (HeadlessAnalyzer)  
+INFO  ExportApplicationParallel.java> ELF address mapping check passed; image base 00000000 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 250/4417; successful 250 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 500/4417; successful 500 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 750/4417; successful 750 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 1000/4417; successful 1000 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 1250/4417; successful 1250 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 1500/4417; successful 1500 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 1750/4417; successful 1750 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 2000/4417; successful 2000 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 2250/4417; successful 2250 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 2500/4417; successful 2500 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 2750/4417; successful 2750 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 3000/4417; successful 3000 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 3250/4417; successful 3250 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 3500/4417; successful 3500 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 3750/4417; successful 3750 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 4000/4417; successful 4000 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Completed 4250/4417; successful 4250 (GhidraScript)  
+INFO  ExportApplicationParallel.java> Native export complete: 4417/4417 methods; 497 class files (GhidraScript)  
+INFO  REPORT: Save succeeded for processed file: /libil2cpp.so (HeadlessAnalyzer)  

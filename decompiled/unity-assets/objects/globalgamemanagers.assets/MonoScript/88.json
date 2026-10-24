@@ -1,0 +1,25 @@
+{
+  "m_Name": "CarTerrainController",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 175,
+    "bytes[1]": 29,
+    "bytes[2]": 187,
+    "bytes[3]": 220,
+    "bytes[4]": 145,
+    "bytes[5]": 215,
+    "bytes[6]": 12,
+    "bytes[7]": 140,
+    "bytes[8]": 248,
+    "bytes[9]": 92,
+    "bytes[10]": 57,
+    "bytes[11]": 96,
+    "bytes[12]": 101,
+    "bytes[13]": 27,
+    "bytes[14]": 244,
+    "bytes[15]": 99
+  },
+  "m_ClassName": "CarTerrainController",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

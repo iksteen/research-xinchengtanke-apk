@@ -1,0 +1,25 @@
+{
+  "m_Name": "TypewriterEffect",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 206,
+    "bytes[1]": 171,
+    "bytes[2]": 96,
+    "bytes[3]": 123,
+    "bytes[4]": 92,
+    "bytes[5]": 107,
+    "bytes[6]": 48,
+    "bytes[7]": 73,
+    "bytes[8]": 233,
+    "bytes[9]": 196,
+    "bytes[10]": 63,
+    "bytes[11]": 244,
+    "bytes[12]": 118,
+    "bytes[13]": 96,
+    "bytes[14]": 24,
+    "bytes[15]": 17
+  },
+  "m_ClassName": "TypewriterEffect",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

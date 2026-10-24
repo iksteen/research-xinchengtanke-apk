@@ -1,0 +1,25 @@
+{
+  "m_Name": "TextMeshProFloatingText",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 117,
+    "bytes[1]": 54,
+    "bytes[2]": 195,
+    "bytes[3]": 170,
+    "bytes[4]": 163,
+    "bytes[5]": 182,
+    "bytes[6]": 104,
+    "bytes[7]": 184,
+    "bytes[8]": 15,
+    "bytes[9]": 21,
+    "bytes[10]": 128,
+    "bytes[11]": 20,
+    "bytes[12]": 122,
+    "bytes[13]": 18,
+    "bytes[14]": 211,
+    "bytes[15]": 13
+  },
+  "m_ClassName": "TextMeshProFloatingText",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

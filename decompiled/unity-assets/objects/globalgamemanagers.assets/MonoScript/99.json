@@ -1,0 +1,25 @@
+{
+  "m_Name": "TMP_TextInfoDebugTool",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 182,
+    "bytes[1]": 81,
+    "bytes[2]": 79,
+    "bytes[3]": 85,
+    "bytes[4]": 43,
+    "bytes[5]": 210,
+    "bytes[6]": 238,
+    "bytes[7]": 158,
+    "bytes[8]": 115,
+    "bytes[9]": 106,
+    "bytes[10]": 86,
+    "bytes[11]": 120,
+    "bytes[12]": 170,
+    "bytes[13]": 127,
+    "bytes[14]": 125,
+    "bytes[15]": 227
+  },
+  "m_ClassName": "TMP_TextInfoDebugTool",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

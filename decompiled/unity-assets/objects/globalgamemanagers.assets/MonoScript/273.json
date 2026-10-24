@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIDragResize",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 17,
+    "bytes[1]": 155,
+    "bytes[2]": 231,
+    "bytes[3]": 209,
+    "bytes[4]": 41,
+    "bytes[5]": 111,
+    "bytes[6]": 118,
+    "bytes[7]": 27,
+    "bytes[8]": 25,
+    "bytes[9]": 126,
+    "bytes[10]": 46,
+    "bytes[11]": 195,
+    "bytes[12]": 43,
+    "bytes[13]": 187,
+    "bytes[14]": 114,
+    "bytes[15]": 1
+  },
+  "m_ClassName": "UIDragResize",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

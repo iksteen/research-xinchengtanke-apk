@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2658
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6887
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6886
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3708
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6885
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "TankP_ButtonBook",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

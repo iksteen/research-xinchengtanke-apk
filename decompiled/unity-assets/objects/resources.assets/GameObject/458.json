@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2285
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5857
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5842
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3676
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5895
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonGravityResult",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

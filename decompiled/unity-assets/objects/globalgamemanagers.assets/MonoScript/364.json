@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_VerticalFunctionBlocksManager",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 73,
+    "bytes[1]": 181,
+    "bytes[2]": 202,
+    "bytes[3]": 103,
+    "bytes[4]": 60,
+    "bytes[5]": 31,
+    "bytes[6]": 48,
+    "bytes[7]": 247,
+    "bytes[8]": 201,
+    "bytes[9]": 250,
+    "bytes[10]": 230,
+    "bytes[11]": 77,
+    "bytes[12]": 211,
+    "bytes[13]": 104,
+    "bytes[14]": 102,
+    "bytes[15]": 129
+  },
+  "m_ClassName": "BE2_VerticalFunctionBlocksManager",
+  "m_Namespace": "MG_BlocksEngine2.Environment",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

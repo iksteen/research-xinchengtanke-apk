@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_UI_ListItem",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 158,
+    "bytes[1]": 110,
+    "bytes[2]": 43,
+    "bytes[3]": 107,
+    "bytes[4]": 58,
+    "bytes[5]": 167,
+    "bytes[6]": 14,
+    "bytes[7]": 12,
+    "bytes[8]": 252,
+    "bytes[9]": 78,
+    "bytes[10]": 108,
+    "bytes[11]": 220,
+    "bytes[12]": 222,
+    "bytes[13]": 28,
+    "bytes[14]": 191,
+    "bytes[15]": 196
+  },
+  "m_ClassName": "BE2_UI_ListItem",
+  "m_Namespace": "MG_BlocksEngine2.UI",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,52 @@
+# Local agent mounts and credentials.
+/.agents/
+/.aws/
+/.codex/
+
+# Python environments, bytecode, and editor files.
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+*~
+.DS_Store
+
+# Source APKs and their unpacked binary copies; retain verification metadata.
+/*.apk
+/unpacked/
+
+# Upload responses contain deletion keys and are local administrative records.
+/*.apk.linx*.json
+
+# Downloaded tools and runtime caches; retain our scripts and provenance.
+/tools/*
+!/tools/*.java
+!/tools/*.py
+!/tools/provenance.json
+
+# Duplicate binaries copied by the Android decompilers.
+/decompiled/apktool/lib/
+/decompiled/apktool/build/
+/decompiled/apktool/dist/
+/decompiled/java/resources/lib/
+/decompiled/java/resources/assets/
+
+# Large raw Unity bundle members and mutable Ghidra databases.
+# Decoded Unity objects, images, and metadata remain tracked.
+/decompiled/unity-assets/bundle/
+/decompiled/ghidra-project/
+
+# Intermediate native exports; the canonical output is native-arm64/.
+/decompiled/native-final/
+/decompiled/native-protocol/
+/decompiled/native-retry/
+
+# Retain successful toolchain logs as evidence; omit intermediate attempts.
+/decompiled/logs/*
+!/decompiled/logs/apktool.log
+!/decompiled/logs/cpp2il.log
+!/decompiled/logs/ghidra-final-with-helpers.log
+!/decompiled/logs/il2cppdumper.log
+!/decompiled/logs/jadx.log
+!/decompiled/logs/unity-assets.log

@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 166
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 120
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 272
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 271
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 273
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Custom Header Item",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

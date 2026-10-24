@@ -1,0 +1,25 @@
+{
+  "m_Name": "Benchmark01",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 71,
+    "bytes[1]": 147,
+    "bytes[2]": 15,
+    "bytes[3]": 59,
+    "bytes[4]": 64,
+    "bytes[5]": 226,
+    "bytes[6]": 78,
+    "bytes[7]": 245,
+    "bytes[8]": 179,
+    "bytes[9]": 181,
+    "bytes[10]": 227,
+    "bytes[11]": 217,
+    "bytes[12]": 173,
+    "bytes[13]": 167,
+    "bytes[14]": 9,
+    "bytes[15]": 122
+  },
+  "m_ClassName": "Benchmark01",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

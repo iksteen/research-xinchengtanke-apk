@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 38
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 49
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 44
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 42
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 47
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "tree04",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

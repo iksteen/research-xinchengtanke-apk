@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2834
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7662
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7663
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3728
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7664
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "CarP_ButtonPrograme",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "MouseLook",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 35,
+    "bytes[1]": 223,
+    "bytes[2]": 51,
+    "bytes[3]": 198,
+    "bytes[4]": 60,
+    "bytes[5]": 133,
+    "bytes[6]": 220,
+    "bytes[7]": 116,
+    "bytes[8]": 79,
+    "bytes[9]": 88,
+    "bytes[10]": 152,
+    "bytes[11]": 88,
+    "bytes[12]": 59,
+    "bytes[13]": 35,
+    "bytes[14]": 254,
+    "bytes[15]": 9
+  },
+  "m_ClassName": "MouseLook",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

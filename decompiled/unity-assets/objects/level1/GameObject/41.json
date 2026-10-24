@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 562
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 341
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 889
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "ProgameAllText",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2655
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6880
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6879
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3706
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6878
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "TankP_ButtonPrograme",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

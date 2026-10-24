@@ -1,0 +1,16 @@
+namespace System.Reflection;
+
+[ComVisible(/*Cpp2IL Warning: missing at least one required parameter*/)]
+[Flags]
+public enum PropertyAttributes
+{
+	None = 0,
+	SpecialName = 512,
+	ReservedMask = 62464,
+	RTSpecialName = 1024,
+	HasDefault = 4096,
+	Reserved2 = 8192,
+	Reserved3 = 16384,
+	Reserved4 = 32768,
+}
+

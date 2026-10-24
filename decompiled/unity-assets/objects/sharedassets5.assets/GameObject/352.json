@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 667
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1020
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1061
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 847
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Quad",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

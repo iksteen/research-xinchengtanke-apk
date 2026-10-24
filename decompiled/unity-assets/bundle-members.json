@@ -1,0 +1,526 @@
+[
+  {
+    "name": "globalgamemanagers",
+    "size": 459428
+  },
+  {
+    "name": "Resources/unity_builtin_extra",
+    "size": 777316
+  },
+  {
+    "name": "globalgamemanagers.assets",
+    "size": 97000
+  },
+  {
+    "name": "sharedassets0.assets",
+    "size": 29500
+  },
+  {
+    "name": "sharedassets0.assets.resS",
+    "size": 44739248
+  },
+  {
+    "name": "level0",
+    "size": 14392
+  },
+  {
+    "name": "level0.resS",
+    "size": 65616
+  },
+  {
+    "name": "sharedassets1.assets",
+    "size": 70600
+  },
+  {
+    "name": "sharedassets1.assets.resS",
+    "size": 84512
+  },
+  {
+    "name": "level1",
+    "size": 184676
+  },
+  {
+    "name": "sharedassets2.assets",
+    "size": 4390
+  },
+  {
+    "name": "level2",
+    "size": 6396
+  },
+  {
+    "name": "level2.resS",
+    "size": 65616
+  },
+  {
+    "name": "sharedassets3.assets",
+    "size": 4397
+  },
+  {
+    "name": "level3",
+    "size": 77744
+  },
+  {
+    "name": "level3.resS",
+    "size": 65616
+  },
+  {
+    "name": "sharedassets4.assets",
+    "size": 10833904
+  },
+  {
+    "name": "sharedassets4.assets.resS",
+    "size": 28399728
+  },
+  {
+    "name": "level4",
+    "size": 130176
+  },
+  {
+    "name": "level4.resS",
+    "size": 65616
+  },
+  {
+    "name": "sharedassets5.assets",
+    "size": 436020
+  },
+  {
+    "name": "sharedassets5.assets.resS",
+    "size": 82538384
+  },
+  {
+    "name": "level5",
+    "size": 36544
+  },
+  {
+    "name": "level5.resS",
+    "size": 65616
+  },
+  {
+    "name": "sharedassets6.assets",
+    "size": 4272832
+  },
+  {
+    "name": "sharedassets6.assets.resS",
+    "size": 34286704
+  },
+  {
+    "name": "level6",
+    "size": 74744
+  },
+  {
+    "name": "level6.resS",
+    "size": 65616
+  },
+  {
+    "name": "GI/level6/10/1085cef7d31213206e71a7b0b8f04764.caw",
+    "size": 46802
+  },
+  {
+    "name": "GI/level6/10/1085cef7d31213206e71a7b0b8f04764.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/10/1085cef7d31213206e71a7b0b8f04764.iws.neo",
+    "size": 166520
+  },
+  {
+    "name": "GI/level6/10/1085cef7d31213206e71a7b0b8f04764.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/10/1085cef7d31213206e71a7b0b8f04764.rsc.neo",
+    "size": 809896
+  },
+  {
+    "name": "GI/level6/10/1085cef7d31213206e71a7b0b8f04764.vis",
+    "size": 72479
+  },
+  {
+    "name": "GI/level6/10/10b4b6ac4d1cbc5403a7e15f947c5ea1.caw",
+    "size": 43590
+  },
+  {
+    "name": "GI/level6/10/10b4b6ac4d1cbc5403a7e15f947c5ea1.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/10/10b4b6ac4d1cbc5403a7e15f947c5ea1.iws.neo",
+    "size": 143080
+  },
+  {
+    "name": "GI/level6/10/10b4b6ac4d1cbc5403a7e15f947c5ea1.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/10/10b4b6ac4d1cbc5403a7e15f947c5ea1.rsc.neo",
+    "size": 696536
+  },
+  {
+    "name": "GI/level6/10/10b4b6ac4d1cbc5403a7e15f947c5ea1.vis",
+    "size": 26755
+  },
+  {
+    "name": "GI/level6/1f/1f620a1cdcbd2e1e0da2001500931832.caw",
+    "size": 46088
+  },
+  {
+    "name": "GI/level6/1f/1f620a1cdcbd2e1e0da2001500931832.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/1f/1f620a1cdcbd2e1e0da2001500931832.iws.neo",
+    "size": 159960
+  },
+  {
+    "name": "GI/level6/1f/1f620a1cdcbd2e1e0da2001500931832.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/1f/1f620a1cdcbd2e1e0da2001500931832.rsc.neo",
+    "size": 765480
+  },
+  {
+    "name": "GI/level6/1f/1f620a1cdcbd2e1e0da2001500931832.vis",
+    "size": 48925
+  },
+  {
+    "name": "GI/level6/29/298241c3db6ab4a7c9823f14056d4079.caw",
+    "size": 45304
+  },
+  {
+    "name": "GI/level6/29/298241c3db6ab4a7c9823f14056d4079.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/29/298241c3db6ab4a7c9823f14056d4079.iws.neo",
+    "size": 153768
+  },
+  {
+    "name": "GI/level6/29/298241c3db6ab4a7c9823f14056d4079.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/29/298241c3db6ab4a7c9823f14056d4079.rsc.neo",
+    "size": 697688
+  },
+  {
+    "name": "GI/level6/29/298241c3db6ab4a7c9823f14056d4079.vis",
+    "size": 57925
+  },
+  {
+    "name": "GI/level6/2c/2cb6559fd63149b788554cafaf986593.caw",
+    "size": 48278
+  },
+  {
+    "name": "GI/level6/2c/2cb6559fd63149b788554cafaf986593.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/2c/2cb6559fd63149b788554cafaf986593.iws.neo",
+    "size": 178168
+  },
+  {
+    "name": "GI/level6/2c/2cb6559fd63149b788554cafaf986593.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/2c/2cb6559fd63149b788554cafaf986593.rsc.neo",
+    "size": 792456
+  },
+  {
+    "name": "GI/level6/2c/2cb6559fd63149b788554cafaf986593.vis",
+    "size": 87468
+  },
+  {
+    "name": "GI/level6/65/65256966ef40077fe2084304058ff732.pos",
+    "size": 4644
+  },
+  {
+    "name": "GI/level6/65/65256966ef40077fe2084304058ff732.rpc.neo",
+    "size": 304514
+  },
+  {
+    "name": "GI/level6/69/69054dd5f742de48801904ea6714ab26.caw",
+    "size": 47734
+  },
+  {
+    "name": "GI/level6/69/69054dd5f742de48801904ea6714ab26.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/69/69054dd5f742de48801904ea6714ab26.iws.neo",
+    "size": 172568
+  },
+  {
+    "name": "GI/level6/69/69054dd5f742de48801904ea6714ab26.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/69/69054dd5f742de48801904ea6714ab26.rsc.neo",
+    "size": 777864
+  },
+  {
+    "name": "GI/level6/69/69054dd5f742de48801904ea6714ab26.vis",
+    "size": 71731
+  },
+  {
+    "name": "GI/level6/73/73bfa326518719b3f3cc262e39336f89.caw",
+    "size": 47302
+  },
+  {
+    "name": "GI/level6/73/73bfa326518719b3f3cc262e39336f89.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/73/73bfa326518719b3f3cc262e39336f89.iws.neo",
+    "size": 169416
+  },
+  {
+    "name": "GI/level6/73/73bfa326518719b3f3cc262e39336f89.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/73/73bfa326518719b3f3cc262e39336f89.rsc.neo",
+    "size": 765368
+  },
+  {
+    "name": "GI/level6/73/73bfa326518719b3f3cc262e39336f89.vis",
+    "size": 66017
+  },
+  {
+    "name": "GI/level6/a1/a1ca5619ab094d7a713ace36087f6296.caw",
+    "size": 44262
+  },
+  {
+    "name": "GI/level6/a1/a1ca5619ab094d7a713ace36087f6296.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/a1/a1ca5619ab094d7a713ace36087f6296.iws.neo",
+    "size": 146952
+  },
+  {
+    "name": "GI/level6/a1/a1ca5619ab094d7a713ace36087f6296.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/a1/a1ca5619ab094d7a713ace36087f6296.rsc.neo",
+    "size": 617000
+  },
+  {
+    "name": "GI/level6/a1/a1ca5619ab094d7a713ace36087f6296.vis",
+    "size": 30565
+  },
+  {
+    "name": "GI/level6/e5/e5f7d65e9b815249af3af1e199aa9609.caw",
+    "size": 47836
+  },
+  {
+    "name": "GI/level6/e5/e5f7d65e9b815249af3af1e199aa9609.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/e5/e5f7d65e9b815249af3af1e199aa9609.iws.neo",
+    "size": 172312
+  },
+  {
+    "name": "GI/level6/e5/e5f7d65e9b815249af3af1e199aa9609.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/e5/e5f7d65e9b815249af3af1e199aa9609.rsc.neo",
+    "size": 761592
+  },
+  {
+    "name": "GI/level6/e5/e5f7d65e9b815249af3af1e199aa9609.vis",
+    "size": 69228
+  },
+  {
+    "name": "GI/level6/e7/e71ebbeeadfcb899df468f20d8158ab8.caw",
+    "size": 45494
+  },
+  {
+    "name": "GI/level6/e7/e71ebbeeadfcb899df468f20d8158ab8.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/e7/e71ebbeeadfcb899df468f20d8158ab8.iws.neo",
+    "size": 156040
+  },
+  {
+    "name": "GI/level6/e7/e71ebbeeadfcb899df468f20d8158ab8.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/e7/e71ebbeeadfcb899df468f20d8158ab8.rsc.neo",
+    "size": 677784
+  },
+  {
+    "name": "GI/level6/e7/e71ebbeeadfcb899df468f20d8158ab8.vis",
+    "size": 50783
+  },
+  {
+    "name": "GI/level6/e9/e9e9fe545d969668e25975a7cb06e35c.caw",
+    "size": 44950
+  },
+  {
+    "name": "GI/level6/e9/e9e9fe545d969668e25975a7cb06e35c.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/e9/e9e9fe545d969668e25975a7cb06e35c.iws.neo",
+    "size": 151400
+  },
+  {
+    "name": "GI/level6/e9/e9e9fe545d969668e25975a7cb06e35c.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/e9/e9e9fe545d969668e25975a7cb06e35c.rsc.neo",
+    "size": 738104
+  },
+  {
+    "name": "GI/level6/e9/e9e9fe545d969668e25975a7cb06e35c.vis",
+    "size": 41723
+  },
+  {
+    "name": "GI/level6/ec/ecac266cdf3a62040baf1c133ef621f2.caw",
+    "size": 47122
+  },
+  {
+    "name": "GI/level6/ec/ecac266cdf3a62040baf1c133ef621f2.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/ec/ecac266cdf3a62040baf1c133ef621f2.iws.neo",
+    "size": 167400
+  },
+  {
+    "name": "GI/level6/ec/ecac266cdf3a62040baf1c133ef621f2.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/ec/ecac266cdf3a62040baf1c133ef621f2.rsc.neo",
+    "size": 813208
+  },
+  {
+    "name": "GI/level6/ec/ecac266cdf3a62040baf1c133ef621f2.vis",
+    "size": 67275
+  },
+  {
+    "name": "GI/level6/f0/f01521720de5016fa22ec2f814e4fe20.caw",
+    "size": 45292
+  },
+  {
+    "name": "GI/level6/f0/f01521720de5016fa22ec2f814e4fe20.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/f0/f01521720de5016fa22ec2f814e4fe20.iws.neo",
+    "size": 154888
+  },
+  {
+    "name": "GI/level6/f0/f01521720de5016fa22ec2f814e4fe20.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/f0/f01521720de5016fa22ec2f814e4fe20.rsc.neo",
+    "size": 701384
+  },
+  {
+    "name": "GI/level6/f0/f01521720de5016fa22ec2f814e4fe20.vis",
+    "size": 48986
+  },
+  {
+    "name": "GI/level6/f0/f0d6cd913e57f930883cbd3304ee14b8.caw",
+    "size": 45286
+  },
+  {
+    "name": "GI/level6/f0/f0d6cd913e57f930883cbd3304ee14b8.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/f0/f0d6cd913e57f930883cbd3304ee14b8.iws.neo",
+    "size": 152072
+  },
+  {
+    "name": "GI/level6/f0/f0d6cd913e57f930883cbd3304ee14b8.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/f0/f0d6cd913e57f930883cbd3304ee14b8.rsc.neo",
+    "size": 685544
+  },
+  {
+    "name": "GI/level6/f0/f0d6cd913e57f930883cbd3304ee14b8.vis",
+    "size": 44622
+  },
+  {
+    "name": "GI/level6/f2/f2da040f01be7e694d7d0bed81ea786d.caw",
+    "size": 43644
+  },
+  {
+    "name": "GI/level6/f2/f2da040f01be7e694d7d0bed81ea786d.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/f2/f2da040f01be7e694d7d0bed81ea786d.iws.neo",
+    "size": 142392
+  },
+  {
+    "name": "GI/level6/f2/f2da040f01be7e694d7d0bed81ea786d.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/f2/f2da040f01be7e694d7d0bed81ea786d.rsc.neo",
+    "size": 615688
+  },
+  {
+    "name": "GI/level6/f2/f2da040f01be7e694d7d0bed81ea786d.vis",
+    "size": 21705
+  },
+  {
+    "name": "GI/level6/f8/f8b9c48c7e09c1246367156e9df0c558.caw",
+    "size": 46548
+  },
+  {
+    "name": "GI/level6/f8/f8b9c48c7e09c1246367156e9df0c558.ecm",
+    "size": 16392
+  },
+  {
+    "name": "GI/level6/f8/f8b9c48c7e09c1246367156e9df0c558.iws.neo",
+    "size": 162984
+  },
+  {
+    "name": "GI/level6/f8/f8b9c48c7e09c1246367156e9df0c558.rgb",
+    "size": 16432
+  },
+  {
+    "name": "GI/level6/f8/f8b9c48c7e09c1246367156e9df0c558.rsc.neo",
+    "size": 762424
+  },
+  {
+    "name": "GI/level6/f8/f8b9c48c7e09c1246367156e9df0c558.vis",
+    "size": 56805
+  },
+  {
+    "name": "sharedassets7.assets",
+    "size": 6917
+  },
+  {
+    "name": "level7",
+    "size": 102280
+  },
+  {
+    "name": "level7.resS",
+    "size": 65616
+  },
+  {
+    "name": "resources.assets",
+    "size": 42967776
+  },
+  {
+    "name": "resources.assets.resS",
+    "size": 244579184
+  }
+]

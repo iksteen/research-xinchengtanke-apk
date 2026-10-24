@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5599
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4581
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8353
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8352
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Template",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

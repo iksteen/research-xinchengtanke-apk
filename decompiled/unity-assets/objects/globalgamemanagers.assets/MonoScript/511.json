@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_UI_VariableListViewer",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 129,
+    "bytes[1]": 62,
+    "bytes[2]": 174,
+    "bytes[3]": 251,
+    "bytes[4]": 0,
+    "bytes[5]": 148,
+    "bytes[6]": 23,
+    "bytes[7]": 72,
+    "bytes[8]": 169,
+    "bytes[9]": 175,
+    "bytes[10]": 192,
+    "bytes[11]": 24,
+    "bytes[12]": 64,
+    "bytes[13]": 35,
+    "bytes[14]": 148,
+    "bytes[15]": 241
+  },
+  "m_ClassName": "BE2_UI_VariableListViewer",
+  "m_Namespace": "MG_BlocksEngine2.UI",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

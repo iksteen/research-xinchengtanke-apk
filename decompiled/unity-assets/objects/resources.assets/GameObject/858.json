@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4822
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6296
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6295
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6299
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6298
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6297
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins RemoveIndexFromList",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

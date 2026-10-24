@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIForwardEvents",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 218,
+    "bytes[1]": 10,
+    "bytes[2]": 33,
+    "bytes[3]": 190,
+    "bytes[4]": 59,
+    "bytes[5]": 36,
+    "bytes[6]": 232,
+    "bytes[7]": 182,
+    "bytes[8]": 101,
+    "bytes[9]": 139,
+    "bytes[10]": 56,
+    "bytes[11]": 56,
+    "bytes[12]": 191,
+    "bytes[13]": 60,
+    "bytes[14]": 27,
+    "bytes[15]": 62
+  },
+  "m_ClassName": "UIForwardEvents",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

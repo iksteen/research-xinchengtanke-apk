@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2273
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5869
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5851
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3664
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5883
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonHTankBack",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

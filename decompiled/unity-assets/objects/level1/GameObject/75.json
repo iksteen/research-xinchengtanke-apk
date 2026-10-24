@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 594
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 366
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 922
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 923
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Panel Cancel",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

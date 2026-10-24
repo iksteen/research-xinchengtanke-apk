@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 594
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 975
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 802
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1052
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Wall_Door_01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 547
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 953
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 780
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1048
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Floor_Roof_01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

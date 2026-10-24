@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3005
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8392
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5736
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5697
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerRemoteHandTank",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

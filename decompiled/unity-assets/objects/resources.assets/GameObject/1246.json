@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2648
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6868
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6869
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3704
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6867
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "TankP_ButtonDrive",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

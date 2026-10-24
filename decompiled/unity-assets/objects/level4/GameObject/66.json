@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 373
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 833
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 680
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1009
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "dode_tak_02",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

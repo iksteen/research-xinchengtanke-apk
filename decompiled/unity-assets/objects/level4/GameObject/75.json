@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 382
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 840
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 687
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1128
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1049
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "PlaneWrack02",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

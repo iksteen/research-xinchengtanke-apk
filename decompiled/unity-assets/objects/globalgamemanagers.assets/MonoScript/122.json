@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_UI_SelectionBlock",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 77,
+    "bytes[1]": 231,
+    "bytes[2]": 99,
+    "bytes[3]": 26,
+    "bytes[4]": 12,
+    "bytes[5]": 5,
+    "bytes[6]": 89,
+    "bytes[7]": 179,
+    "bytes[8]": 16,
+    "bytes[9]": 73,
+    "bytes[10]": 197,
+    "bytes[11]": 129,
+    "bytes[12]": 80,
+    "bytes[13]": 131,
+    "bytes[14]": 156,
+    "bytes[15]": 166
+  },
+  "m_ClassName": "BE2_UI_SelectionBlock",
+  "m_Namespace": "MG_BlocksEngine2.UI",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

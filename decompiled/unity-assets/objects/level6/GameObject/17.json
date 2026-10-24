@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 210
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 545
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 542
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Terrain",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

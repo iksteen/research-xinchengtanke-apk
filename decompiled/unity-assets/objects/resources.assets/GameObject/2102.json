@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5590
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8325
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8324
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8327
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8328
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8326
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "HorizontalBlock Ins Wait",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

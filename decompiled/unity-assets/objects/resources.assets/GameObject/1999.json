@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5527
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8146
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8148
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8147
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8145
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8144
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins SlideForward",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

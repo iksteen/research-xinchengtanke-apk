@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5564
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4558
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8225
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7598
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Image",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 551
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1224
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 943
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "PanelPopupWindow",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

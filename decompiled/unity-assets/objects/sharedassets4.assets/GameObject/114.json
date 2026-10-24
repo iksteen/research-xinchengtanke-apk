@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 123
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 141
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 132
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 152
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Yucca01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

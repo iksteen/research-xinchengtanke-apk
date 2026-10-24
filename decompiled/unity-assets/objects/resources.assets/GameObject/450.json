@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2266
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5870
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5844
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3663
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5876
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonTanKe1",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

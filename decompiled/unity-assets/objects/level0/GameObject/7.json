@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 26
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 72
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 70
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 53
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 71
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonBeforeEN",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

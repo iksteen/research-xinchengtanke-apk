@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2213
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3851
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "CollisionObject7",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

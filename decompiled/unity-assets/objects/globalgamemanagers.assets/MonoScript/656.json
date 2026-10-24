@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIButtonMessage",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 90,
+    "bytes[1]": 115,
+    "bytes[2]": 23,
+    "bytes[3]": 248,
+    "bytes[4]": 32,
+    "bytes[5]": 65,
+    "bytes[6]": 122,
+    "bytes[7]": 143,
+    "bytes[8]": 1,
+    "bytes[9]": 214,
+    "bytes[10]": 108,
+    "bytes[11]": 188,
+    "bytes[12]": 62,
+    "bytes[13]": 160,
+    "bytes[14]": 58,
+    "bytes[15]": 183
+  },
+  "m_ClassName": "UIButtonMessage",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

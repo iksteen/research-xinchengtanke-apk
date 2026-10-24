@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 371
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 605
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 568
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 604
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerRemoteTank",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "SpringPosition",
+  "m_ExecutionOrder": -99,
+  "m_PropertiesHash": {
+    "bytes[0]": 50,
+    "bytes[1]": 72,
+    "bytes[2]": 95,
+    "bytes[3]": 158,
+    "bytes[4]": 160,
+    "bytes[5]": 213,
+    "bytes[6]": 209,
+    "bytes[7]": 65,
+    "bytes[8]": 76,
+    "bytes[9]": 104,
+    "bytes[10]": 114,
+    "bytes[11]": 192,
+    "bytes[12]": 160,
+    "bytes[13]": 17,
+    "bytes[14]": 33,
+    "bytes[15]": 170
+  },
+  "m_ClassName": "SpringPosition",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

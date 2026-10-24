@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2639
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6854
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6853
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3701
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6852
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "TankP_ButtonRoute",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

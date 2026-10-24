@@ -1,0 +1,25 @@
+{
+  "m_Name": "VertexZoom",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 230,
+    "bytes[1]": 57,
+    "bytes[2]": 68,
+    "bytes[3]": 49,
+    "bytes[4]": 125,
+    "bytes[5]": 47,
+    "bytes[6]": 89,
+    "bytes[7]": 88,
+    "bytes[8]": 227,
+    "bytes[9]": 25,
+    "bytes[10]": 99,
+    "bytes[11]": 102,
+    "bytes[12]": 139,
+    "bytes[13]": 178,
+    "bytes[14]": 145,
+    "bytes[15]": 88
+  },
+  "m_ClassName": "VertexZoom",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

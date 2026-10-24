@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2201
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3299
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3054
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3886
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Broadleaf_Desktop_LOD2",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

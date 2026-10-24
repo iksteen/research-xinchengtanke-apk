@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 130
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 148
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 139
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 156
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "BananaPlant02",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "Waypoint",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 3,
+    "bytes[1]": 206,
+    "bytes[2]": 120,
+    "bytes[3]": 227,
+    "bytes[4]": 216,
+    "bytes[5]": 108,
+    "bytes[6]": 227,
+    "bytes[7]": 77,
+    "bytes[8]": 98,
+    "bytes[9]": 188,
+    "bytes[10]": 158,
+    "bytes[11]": 25,
+    "bytes[12]": 164,
+    "bytes[13]": 107,
+    "bytes[14]": 33,
+    "bytes[15]": 139
+  },
+  "m_ClassName": "Waypoint",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

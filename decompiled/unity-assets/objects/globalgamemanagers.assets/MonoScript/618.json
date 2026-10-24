@@ -1,0 +1,25 @@
+{
+  "m_Name": "UITexture",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 112,
+    "bytes[1]": 220,
+    "bytes[2]": 96,
+    "bytes[3]": 224,
+    "bytes[4]": 100,
+    "bytes[5]": 139,
+    "bytes[6]": 172,
+    "bytes[7]": 233,
+    "bytes[8]": 226,
+    "bytes[9]": 237,
+    "bytes[10]": 61,
+    "bytes[11]": 159,
+    "bytes[12]": 105,
+    "bytes[13]": 239,
+    "bytes[14]": 70,
+    "bytes[15]": 45
+  },
+  "m_ClassName": "UITexture",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

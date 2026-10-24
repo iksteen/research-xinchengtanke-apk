@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4960
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6597
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6595
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6594
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6593
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6596
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins IfElse",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5587
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8318
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8317
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8316
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8315
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8319
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins SpacecraftShoot",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4763
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6190
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6187
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6186
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6189
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6188
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "HorizontalBlock Ins SpacecraftShoot",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

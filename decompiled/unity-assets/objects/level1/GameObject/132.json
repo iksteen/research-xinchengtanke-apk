@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 647
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 519
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1004
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1003
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1002
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1005
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Canvas Context Menu",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

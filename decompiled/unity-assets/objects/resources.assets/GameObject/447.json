@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2271
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5866
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5849
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3666
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5882
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonGravityToptool",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

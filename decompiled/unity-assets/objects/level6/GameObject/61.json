@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 338
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 401
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Active Camera 1",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

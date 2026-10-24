@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2976
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8278
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8279
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3734
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8277
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonClose",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

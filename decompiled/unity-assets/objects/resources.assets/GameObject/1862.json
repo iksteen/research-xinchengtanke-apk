@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5425
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7891
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7892
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7889
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7890
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7888
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins RotateAxis",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

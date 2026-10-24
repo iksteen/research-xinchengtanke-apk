@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2832
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7658
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7659
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3727
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7660
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "CarP_ButtonControl",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

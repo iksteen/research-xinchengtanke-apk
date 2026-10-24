@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2828
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7650
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7651
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3725
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7652
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "CarP_ButtonBook",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

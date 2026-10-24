@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 641
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 403
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 994
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 993
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Button Delete",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

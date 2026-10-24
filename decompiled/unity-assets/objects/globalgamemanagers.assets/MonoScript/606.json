@@ -1,0 +1,25 @@
+{
+  "m_Name": "InputField",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 163,
+    "bytes[1]": 6,
+    "bytes[2]": 225,
+    "bytes[3]": 45,
+    "bytes[4]": 137,
+    "bytes[5]": 109,
+    "bytes[6]": 220,
+    "bytes[7]": 202,
+    "bytes[8]": 148,
+    "bytes[9]": 153,
+    "bytes[10]": 35,
+    "bytes[11]": 200,
+    "bytes[12]": 5,
+    "bytes[13]": 105,
+    "bytes[14]": 16,
+    "bytes[15]": 39
+  },
+  "m_ClassName": "InputField",
+  "m_Namespace": "UnityEngine.UI",
+  "m_AssemblyName": "UnityEngine.UI.dll"
+}

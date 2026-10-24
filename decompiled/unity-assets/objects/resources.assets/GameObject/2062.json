@@ -1,0 +1,50 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5565
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4559
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8228
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8232
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8231
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8230
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8229
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Dropdown (TMP)",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

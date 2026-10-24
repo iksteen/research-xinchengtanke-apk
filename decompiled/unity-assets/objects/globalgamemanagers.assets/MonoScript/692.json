@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_UI_SaveLoadContextMenu",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 131,
+    "bytes[1]": 123,
+    "bytes[2]": 83,
+    "bytes[3]": 186,
+    "bytes[4]": 183,
+    "bytes[5]": 94,
+    "bytes[6]": 44,
+    "bytes[7]": 162,
+    "bytes[8]": 84,
+    "bytes[9]": 133,
+    "bytes[10]": 183,
+    "bytes[11]": 73,
+    "bytes[12]": 107,
+    "bytes[13]": 88,
+    "bytes[14]": 224,
+    "bytes[15]": 215
+  },
+  "m_ClassName": "BE2_UI_SaveLoadContextMenu",
+  "m_Namespace": "MG_BlocksEngine2.UI",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

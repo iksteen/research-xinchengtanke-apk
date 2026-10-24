@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIButtonKeys",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 179,
+    "bytes[1]": 237,
+    "bytes[2]": 3,
+    "bytes[3]": 211,
+    "bytes[4]": 2,
+    "bytes[5]": 194,
+    "bytes[6]": 156,
+    "bytes[7]": 208,
+    "bytes[8]": 20,
+    "bytes[9]": 125,
+    "bytes[10]": 102,
+    "bytes[11]": 168,
+    "bytes[12]": 151,
+    "bytes[13]": 87,
+    "bytes[14]": 89,
+    "bytes[15]": 183
+  },
+  "m_ClassName": "UIButtonKeys",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

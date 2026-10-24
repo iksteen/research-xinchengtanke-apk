@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_Block",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 190,
+    "bytes[1]": 188,
+    "bytes[2]": 175,
+    "bytes[3]": 41,
+    "bytes[4]": 64,
+    "bytes[5]": 239,
+    "bytes[6]": 39,
+    "bytes[7]": 50,
+    "bytes[8]": 27,
+    "bytes[9]": 191,
+    "bytes[10]": 4,
+    "bytes[11]": 185,
+    "bytes[12]": 146,
+    "bytes[13]": 217,
+    "bytes[14]": 169,
+    "bytes[15]": 204
+  },
+  "m_ClassName": "BE2_Block",
+  "m_Namespace": "MG_BlocksEngine2.Block",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

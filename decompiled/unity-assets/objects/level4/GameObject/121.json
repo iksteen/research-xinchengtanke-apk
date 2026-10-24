@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 428
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 871
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 718
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1100
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1040
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "BoatWreck",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

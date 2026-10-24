@@ -1,0 +1,25 @@
+{
+  "m_Name": "UITextList",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 14,
+    "bytes[1]": 153,
+    "bytes[2]": 111,
+    "bytes[3]": 208,
+    "bytes[4]": 84,
+    "bytes[5]": 196,
+    "bytes[6]": 68,
+    "bytes[7]": 91,
+    "bytes[8]": 103,
+    "bytes[9]": 60,
+    "bytes[10]": 81,
+    "bytes[11]": 10,
+    "bytes[12]": 192,
+    "bytes[13]": 73,
+    "bytes[14]": 169,
+    "bytes[15]": 76
+  },
+  "m_ClassName": "UITextList",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

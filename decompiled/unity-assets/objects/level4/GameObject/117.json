@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 424
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1172
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1183
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "JoystickSysEvent",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

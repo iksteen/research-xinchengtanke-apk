@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2983
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8322
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "CarSprite",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

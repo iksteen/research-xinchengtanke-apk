@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_BlockSectionHeader_Custom",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 178,
+    "bytes[1]": 128,
+    "bytes[2]": 191,
+    "bytes[3]": 138,
+    "bytes[4]": 244,
+    "bytes[5]": 1,
+    "bytes[6]": 141,
+    "bytes[7]": 210,
+    "bytes[8]": 73,
+    "bytes[9]": 98,
+    "bytes[10]": 6,
+    "bytes[11]": 94,
+    "bytes[12]": 30,
+    "bytes[13]": 108,
+    "bytes[14]": 242,
+    "bytes[15]": 21
+  },
+  "m_ClassName": "BE2_BlockSectionHeader_Custom",
+  "m_Namespace": "MG_BlocksEngine2.Block",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

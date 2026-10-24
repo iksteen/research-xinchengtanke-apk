@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_UI_BlocksSelectionViewer",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 126,
+    "bytes[1]": 120,
+    "bytes[2]": 240,
+    "bytes[3]": 73,
+    "bytes[4]": 61,
+    "bytes[5]": 117,
+    "bytes[6]": 52,
+    "bytes[7]": 118,
+    "bytes[8]": 84,
+    "bytes[9]": 70,
+    "bytes[10]": 168,
+    "bytes[11]": 175,
+    "bytes[12]": 72,
+    "bytes[13]": 93,
+    "bytes[14]": 73,
+    "bytes[15]": 113
+  },
+  "m_ClassName": "BE2_UI_BlocksSelectionViewer",
+  "m_Namespace": "MG_BlocksEngine2.UI",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

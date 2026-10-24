@@ -1,0 +1,25 @@
+{
+  "m_Name": "ObjectSpin",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 17,
+    "bytes[1]": 49,
+    "bytes[2]": 147,
+    "bytes[3]": 52,
+    "bytes[4]": 229,
+    "bytes[5]": 54,
+    "bytes[6]": 87,
+    "bytes[7]": 151,
+    "bytes[8]": 248,
+    "bytes[9]": 5,
+    "bytes[10]": 102,
+    "bytes[11]": 148,
+    "bytes[12]": 249,
+    "bytes[13]": 181,
+    "bytes[14]": 218,
+    "bytes[15]": 228
+  },
+  "m_ClassName": "ObjectSpin",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

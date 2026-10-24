@@ -1,0 +1,32 @@
+namespace System;
+
+public struct ConsoleKeyInfo
+{
+	private char _keyChar; //Field offset: 0x0
+	private ConsoleKey _key; //Field offset: 0x4
+	private ConsoleModifiers _mods; //Field offset: 0x8
+
+	public ConsoleKey Key
+	{
+		 get { } //Length: 8
+	}
+
+	public char KeyChar
+	{
+		 get { } //Length: 8
+	}
+
+	public ConsoleKeyInfo(char keyChar, ConsoleKey key, bool shift, bool alt, bool control) { }
+
+	public virtual bool Equals(object value) { }
+
+	public bool Equals(ConsoleKeyInfo obj) { }
+
+	public ConsoleKey get_Key() { }
+
+	public char get_KeyChar() { }
+
+	public virtual int GetHashCode() { }
+
+}
+

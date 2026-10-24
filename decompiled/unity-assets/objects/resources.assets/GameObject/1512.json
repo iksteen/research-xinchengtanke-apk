@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2762
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7292
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7290
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3715
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7291
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonGravityStart",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

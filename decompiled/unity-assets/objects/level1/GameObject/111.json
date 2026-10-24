@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 284
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 298
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 296
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 306
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 300
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Bullet",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

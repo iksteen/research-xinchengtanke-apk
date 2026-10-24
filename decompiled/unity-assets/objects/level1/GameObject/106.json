@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 283
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 969
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "BE2 Events Manager",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

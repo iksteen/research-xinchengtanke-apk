@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 281
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 955
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "BE2 Input Manager",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,2977 @@
+[
+  {
+    "Address": 11427548,
+    "Name": "UIKeyNavigation$$get_current",
+    "Signature": "UIKeyNavigation_o* UIKeyNavigation__get_current (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11427764,
+    "Name": "UIKeyNavigation$$get_isColliderEnabled",
+    "Signature": "bool UIKeyNavigation__get_isColliderEnabled (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11428116,
+    "Name": "UIKeyNavigation$$OnEnable",
+    "Signature": "void UIKeyNavigation__OnEnable (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11428320,
+    "Name": "UIKeyNavigation$$Start",
+    "Signature": "void UIKeyNavigation__Start (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11428480,
+    "Name": "UIKeyNavigation$$OnDisable",
+    "Signature": "void UIKeyNavigation__OnDisable (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11428620,
+    "Name": "UIKeyNavigation$$IsActive",
+    "Signature": "bool UIKeyNavigation__IsActive (UnityEngine_GameObject_o* go, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11428988,
+    "Name": "UIKeyNavigation$$GetLeft",
+    "Signature": "UnityEngine_GameObject_o* UIKeyNavigation__GetLeft (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11430020,
+    "Name": "UIKeyNavigation$$GetRight",
+    "Signature": "UnityEngine_GameObject_o* UIKeyNavigation__GetRight (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11430188,
+    "Name": "UIKeyNavigation$$GetUp",
+    "Signature": "UnityEngine_GameObject_o* UIKeyNavigation__GetUp (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11430356,
+    "Name": "UIKeyNavigation$$GetDown",
+    "Signature": "UnityEngine_GameObject_o* UIKeyNavigation__GetDown (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11429156,
+    "Name": "UIKeyNavigation$$Get",
+    "Signature": "UnityEngine_GameObject_o* UIKeyNavigation__Get (UIKeyNavigation_o* __this, UnityEngine_Vector3_o myDir, float x, float y, const MethodInfo* method);",
+    "TypeSignature": "iiiffi",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11430524,
+    "Name": "UIKeyNavigation$$GetCenter",
+    "Signature": "UnityEngine_Vector3_o UIKeyNavigation__GetCenter (UnityEngine_GameObject_o* go, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11431168,
+    "Name": "UIKeyNavigation$$OnNavigate",
+    "Signature": "void UIKeyNavigation__OnNavigate (UIKeyNavigation_o* __this, int32_t key, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11431628,
+    "Name": "UIKeyNavigation$$OnKey",
+    "Signature": "void UIKeyNavigation__OnKey (UIKeyNavigation_o* __this, int32_t key, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11432668,
+    "Name": "UIKeyNavigation$$OnClick",
+    "Signature": "void UIKeyNavigation__OnClick (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11432848,
+    "Name": "UIKeyNavigation$$.ctor",
+    "Signature": "void UIKeyNavigation___ctor (UIKeyNavigation_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 11432856,
+    "Name": "UIKeyNavigation$$.cctor",
+    "Signature": "void UIKeyNavigation___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "UIKeyNavigation"
+  },
+  {
+    "Address": 8423524,
+    "Name": "NGUIText$$Update",
+    "Signature": "void NGUIText__Update (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8423616,
+    "Name": "NGUIText$$Update",
+    "Signature": "void NGUIText__Update (bool request, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8424580,
+    "Name": "NGUIText$$Prepare",
+    "Signature": "void NGUIText__Prepare (System_String_o* text, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8428708,
+    "Name": "NGUIText$$GetSymbol",
+    "Signature": "BMSymbol_o* NGUIText__GetSymbol (System_String_o** text, int32_t index, int32_t textLength, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8429032,
+    "Name": "NGUIText$$GetGlyphWidth",
+    "Signature": "float NGUIText__GetGlyphWidth (int32_t ch, int32_t prev, float fontScale, bool bold, bool italic, const MethodInfo* method);",
+    "TypeSignature": "fiifiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8429940,
+    "Name": "NGUIText$$GetGlyph",
+    "Signature": "NGUIText_GlyphInfo_o* NGUIText__GetGlyph (int32_t ch, int32_t prev, bool bold, bool italic, float fontScale, const MethodInfo* method);",
+    "TypeSignature": "iiiiifi",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8432936,
+    "Name": "NGUIText$$ParseAlpha",
+    "Signature": "float NGUIText__ParseAlpha (System_String_o* text, int32_t index, const MethodInfo* method);",
+    "TypeSignature": "fiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8433136,
+    "Name": "NGUIText$$ParseColor",
+    "Signature": "UnityEngine_Color_o NGUIText__ParseColor (System_String_o* text, int32_t offset, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8433248,
+    "Name": "NGUIText$$ParseColor24",
+    "Signature": "UnityEngine_Color_o NGUIText__ParseColor24 (System_String_o* text, int32_t offset, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8433612,
+    "Name": "NGUIText$$ParseColor24",
+    "Signature": "bool NGUIText__ParseColor24 (System_String_o** text, int32_t offset, UnityEngine_Color_o* c, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8434092,
+    "Name": "NGUIText$$ParseColor32",
+    "Signature": "UnityEngine_Color_o NGUIText__ParseColor32 (System_String_o* text, int32_t offset, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8434520,
+    "Name": "NGUIText$$ParseColor32",
+    "Signature": "bool NGUIText__ParseColor32 (System_String_o** text, int32_t offset, UnityEngine_Color_o* c, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8435100,
+    "Name": "NGUIText$$EncodeColor",
+    "Signature": "System_String_o* NGUIText__EncodeColor (UnityEngine_Color_o c, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8435380,
+    "Name": "NGUIText$$EncodeColor",
+    "Signature": "System_String_o* NGUIText__EncodeColor (System_String_o* text, UnityEngine_Color_o c, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8435952,
+    "Name": "NGUIText$$EncodeAlpha",
+    "Signature": "System_String_o* NGUIText__EncodeAlpha (float a, const MethodInfo* method);",
+    "TypeSignature": "ifi",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8435236,
+    "Name": "NGUIText$$EncodeColor24",
+    "Signature": "System_String_o* NGUIText__EncodeColor24 (UnityEngine_Color_o c, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8436100,
+    "Name": "NGUIText$$EncodeColor32",
+    "Signature": "System_String_o* NGUIText__EncodeColor32 (UnityEngine_Color_o c, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8436240,
+    "Name": "NGUIText$$ParseSymbol",
+    "Signature": "bool NGUIText__ParseSymbol (System_String_o* text, int32_t* index, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8436448,
+    "Name": "NGUIText$$IsHex",
+    "Signature": "bool NGUIText__IsHex (uint16_t ch, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8425892,
+    "Name": "NGUIText$$ParseSymbol",
+    "Signature": "bool NGUIText__ParseSymbol (System_String_o* text, int32_t* index, BetterList_Color__o* colors, bool premultiply, int32_t* sub, float* fontScaleMult, bool* bold, bool* italic, bool* underline, bool* strike, bool* ignoreColor, bool* forceSpriteColor, const MethodInfo* method);",
+    "TypeSignature": "iiiiiiiiiiiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8436508,
+    "Name": "NGUIText$$StripSymbols",
+    "Signature": "System_String_o* NGUIText__StripSymbols (System_String_o* text, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8436872,
+    "Name": "NGUIText$$Align",
+    "Signature": "void NGUIText__Align (System_Collections_Generic_List_Vector3__o* verts, int32_t indexOffset, float printedWidth, int32_t elements, const MethodInfo* method);",
+    "TypeSignature": "viifii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8438656,
+    "Name": "NGUIText$$GetExactCharacterIndex",
+    "Signature": "int32_t NGUIText__GetExactCharacterIndex (System_Collections_Generic_List_Vector3__o* verts, System_Collections_Generic_List_int__o* indices, UnityEngine_Vector2_o pos, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8439100,
+    "Name": "NGUIText$$GetApproximateCharacterIndex",
+    "Signature": "int32_t NGUIText__GetApproximateCharacterIndex (System_Collections_Generic_List_Vector3__o* verts, System_Collections_Generic_List_int__o* indices, UnityEngine_Vector2_o pos, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8439480,
+    "Name": "NGUIText$$IsSpace",
+    "Signature": "bool NGUIText__IsSpace (int32_t ch, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8439528,
+    "Name": "NGUIText$$EndLine",
+    "Signature": "void NGUIText__EndLine (System_Text_StringBuilder_o** s, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8439784,
+    "Name": "NGUIText$$ReplaceSpaceWithNewline",
+    "Signature": "void NGUIText__ReplaceSpaceWithNewline (System_Text_StringBuilder_o** s, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8440024,
+    "Name": "NGUIText$$get_symbolScale",
+    "Signature": "float NGUIText__get_symbolScale (const MethodInfo* method);",
+    "TypeSignature": "fi",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8440352,
+    "Name": "NGUIText$$get_symbolOffset",
+    "Signature": "float NGUIText__get_symbolOffset (const MethodInfo* method);",
+    "TypeSignature": "fi",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8440616,
+    "Name": "NGUIText$$get_symbolMaxHeight",
+    "Signature": "int32_t NGUIText__get_symbolMaxHeight (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8440876,
+    "Name": "NGUIText$$get_symbolCentered",
+    "Signature": "bool NGUIText__get_symbolCentered (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8441144,
+    "Name": "NGUIText$$CalculatePrintedSize",
+    "Signature": "UnityEngine_Vector2_o NGUIText__CalculatePrintedSize (System_String_o* text, bool prepare, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8443308,
+    "Name": "NGUIText$$CalculateOffsetToFit",
+    "Signature": "int32_t NGUIText__CalculateOffsetToFit (System_String_o* text, bool prepare, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8445028,
+    "Name": "NGUIText$$GetEndOfLineThatFits",
+    "Signature": "System_String_o* NGUIText__GetEndOfLineThatFits (System_String_o* text, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8445160,
+    "Name": "NGUIText$$WrapText",
+    "Signature": "bool NGUIText__WrapText (System_String_o* text, System_String_o** finalText, bool wrapLineColors, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8445288,
+    "Name": "NGUIText$$WrapText",
+    "Signature": "bool NGUIText__WrapText (System_String_o* text, System_String_o** finalText, bool keepCharCount, bool wrapLineColors, bool useEllipsis, const MethodInfo* method);",
+    "TypeSignature": "iiiiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8452124,
+    "Name": "NGUIText$$Print",
+    "Signature": "void NGUIText__Print (System_String_o* text, System_Collections_Generic_List_Vector3__o* verts, System_Collections_Generic_List_Vector2__o* uvs, System_Collections_Generic_List_Color__o* cols, System_Collections_Generic_List_Vector3__o* sverts, System_Collections_Generic_List_Vector2__o* suvs, System_Collections_Generic_List_Color__o* scols, const MethodInfo* method);",
+    "TypeSignature": "viiiiiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8461932,
+    "Name": "NGUIText$$PrintApproximateCharacterPositions",
+    "Signature": "void NGUIText__PrintApproximateCharacterPositions (System_String_o* text, System_Collections_Generic_List_Vector3__o* verts, System_Collections_Generic_List_int__o* indices, const MethodInfo* method);",
+    "TypeSignature": "viiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8464248,
+    "Name": "NGUIText$$PrintExactCharacterPositions",
+    "Signature": "void NGUIText__PrintExactCharacterPositions (System_String_o* text, System_Collections_Generic_List_Vector3__o* verts, System_Collections_Generic_List_int__o* indices, const MethodInfo* method);",
+    "TypeSignature": "viiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8466412,
+    "Name": "NGUIText$$PrintCaretAndSelection",
+    "Signature": "void NGUIText__PrintCaretAndSelection (System_String_o* text, int32_t start, int32_t end, System_Collections_Generic_List_Vector3__o* caret, System_Collections_Generic_List_Vector3__o* highlight, const MethodInfo* method);",
+    "TypeSignature": "viiiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8470012,
+    "Name": "NGUIText$$ReplaceLink",
+    "Signature": "bool NGUIText__ReplaceLink (System_String_o** text, int32_t* index, System_String_o* type, System_String_o* prefix, System_String_o* suffix, const MethodInfo* method);",
+    "TypeSignature": "iiiiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8471556,
+    "Name": "NGUIText$$InsertHyperlink",
+    "Signature": "bool NGUIText__InsertHyperlink (System_String_o** text, int32_t* index, System_String_o* keyword, System_String_o* link, System_String_o* prefix, System_String_o* suffix, const MethodInfo* method);",
+    "TypeSignature": "iiiiiiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8472460,
+    "Name": "NGUIText$$ReplaceLinks",
+    "Signature": "void NGUIText__ReplaceLinks (System_String_o** text, System_String_o* prefix, System_String_o* suffix, const MethodInfo* method);",
+    "TypeSignature": "viiii",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 8472756,
+    "Name": "NGUIText$$.cctor",
+    "Signature": "void NGUIText___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "NGUIText"
+  },
+  {
+    "Address": 13189672,
+    "Name": "UICamera$$get_stickyPress",
+    "Signature": "bool UICamera__get_stickyPress (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13189680,
+    "Name": "UICamera$$get_disableController",
+    "Signature": "bool UICamera__get_disableController (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13189844,
+    "Name": "UICamera$$set_disableController",
+    "Signature": "void UICamera__set_disableController (bool value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13189952,
+    "Name": "UICamera$$get_lastTouchPosition",
+    "Signature": "UnityEngine_Vector2_o UICamera__get_lastTouchPosition (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13190052,
+    "Name": "UICamera$$set_lastTouchPosition",
+    "Signature": "void UICamera__set_lastTouchPosition (UnityEngine_Vector2_o value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13190168,
+    "Name": "UICamera$$get_lastEventPosition",
+    "Signature": "UnityEngine_Vector2_o UICamera__get_lastEventPosition (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13190636,
+    "Name": "UICamera$$set_lastEventPosition",
+    "Signature": "void UICamera__set_lastEventPosition (UnityEngine_Vector2_o value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13190752,
+    "Name": "UICamera$$get_first",
+    "Signature": "UICamera_o* UICamera__get_first (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13182232,
+    "Name": "UICamera$$get_currentScheme",
+    "Signature": "int32_t UICamera__get_currentScheme (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13190980,
+    "Name": "UICamera$$set_currentScheme",
+    "Signature": "void UICamera__set_currentScheme (int32_t value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13191864,
+    "Name": "UICamera$$get_currentKey",
+    "Signature": "int32_t UICamera__get_currentKey (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13191256,
+    "Name": "UICamera$$set_currentKey",
+    "Signature": "void UICamera__set_currentKey (int32_t value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13192056,
+    "Name": "UICamera$$get_currentRay",
+    "Signature": "UnityEngine_Ray_o UICamera__get_currentRay (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13192380,
+    "Name": "UICamera$$get_inputHasFocus",
+    "Signature": "bool UICamera__get_inputHasFocus (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13192644,
+    "Name": "UICamera$$get_genericEventHandler",
+    "Signature": "UnityEngine_GameObject_o* UICamera__get_genericEventHandler (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13192744,
+    "Name": "UICamera$$set_genericEventHandler",
+    "Signature": "void UICamera__set_genericEventHandler (UnityEngine_GameObject_o* value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13192852,
+    "Name": "UICamera$$get_mouse0",
+    "Signature": "UICamera_MouseOrTouch_o* UICamera__get_mouse0 (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13192984,
+    "Name": "UICamera$$get_mouse1",
+    "Signature": "UICamera_MouseOrTouch_o* UICamera__get_mouse1 (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13193120,
+    "Name": "UICamera$$get_mouse2",
+    "Signature": "UICamera_MouseOrTouch_o* UICamera__get_mouse2 (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13193256,
+    "Name": "UICamera$$get_handlesEvents",
+    "Signature": "bool UICamera__get_handlesEvents (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13193812,
+    "Name": "UICamera$$get_cachedCamera",
+    "Signature": "UnityEngine_Camera_o* UICamera__get_cachedCamera (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13193992,
+    "Name": "UICamera$$get_tooltipObject",
+    "Signature": "UnityEngine_GameObject_o* UICamera__get_tooltipObject (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13194092,
+    "Name": "UICamera$$set_tooltipObject",
+    "Signature": "void UICamera__set_tooltipObject (UnityEngine_GameObject_o* value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13194984,
+    "Name": "UICamera$$IsPartOfUI",
+    "Signature": "bool UICamera__IsPartOfUI (UnityEngine_GameObject_o* go, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13195348,
+    "Name": "UICamera$$get_isOverUI",
+    "Signature": "bool UICamera__get_isOverUI (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13196328,
+    "Name": "UICamera$$get_uiHasFocus",
+    "Signature": "bool UICamera__get_uiHasFocus (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13197208,
+    "Name": "UICamera$$get_interactingWithUI",
+    "Signature": "bool UICamera__get_interactingWithUI (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13177164,
+    "Name": "UICamera$$get_hoveredObject",
+    "Signature": "UnityEngine_GameObject_o* UICamera__get_hoveredObject (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13197868,
+    "Name": "UICamera$$set_hoveredObject",
+    "Signature": "void UICamera__set_hoveredObject (UnityEngine_GameObject_o* value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13201036,
+    "Name": "UICamera$$get_controllerNavigationObject",
+    "Signature": "UnityEngine_GameObject_o* UICamera__get_controllerNavigationObject (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13202236,
+    "Name": "UICamera$$set_controllerNavigationObject",
+    "Signature": "void UICamera__set_controllerNavigationObject (UnityEngine_GameObject_o* value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13202796,
+    "Name": "UICamera$$get_selectedObject",
+    "Signature": "UnityEngine_GameObject_o* UICamera__get_selectedObject (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13203108,
+    "Name": "UICamera$$set_selectedObject",
+    "Signature": "void UICamera__set_selectedObject (UnityEngine_GameObject_o* value, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13205176,
+    "Name": "UICamera$$IsPressed",
+    "Signature": "bool UICamera__IsPressed (UnityEngine_GameObject_o* go, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13205768,
+    "Name": "UICamera$$get_touchCount",
+    "Signature": "int32_t UICamera__get_touchCount (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13205856,
+    "Name": "UICamera$$CountInputSources",
+    "Signature": "int32_t UICamera__CountInputSources (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13206480,
+    "Name": "UICamera$$get_dragCount",
+    "Signature": "int32_t UICamera__get_dragCount (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13207104,
+    "Name": "UICamera$$get_mainCamera",
+    "Signature": "UnityEngine_Camera_o* UICamera__get_mainCamera (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13193416,
+    "Name": "UICamera$$get_eventHandler",
+    "Signature": "UICamera_o* UICamera__get_eventHandler (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13207296,
+    "Name": "UICamera$$CompareFunc",
+    "Signature": "int32_t UICamera__CompareFunc (UICamera_o* a, UICamera_o* b, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13207456,
+    "Name": "UICamera$$FindRootRigidbody",
+    "Signature": "UnityEngine_Rigidbody_o* UICamera__FindRootRigidbody (UnityEngine_Transform_o* trans, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13207780,
+    "Name": "UICamera$$FindRootRigidbody2D",
+    "Signature": "UnityEngine_Rigidbody2D_o* UICamera__FindRootRigidbody2D (UnityEngine_Transform_o* trans, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13208104,
+    "Name": "UICamera$$Raycast",
+    "Signature": "void UICamera__Raycast (UICamera_MouseOrTouch_o* touch, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13208528,
+    "Name": "UICamera$$Raycast",
+    "Signature": "bool UICamera__Raycast (UnityEngine_Vector3_o inPos, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13215084,
+    "Name": "UICamera$$IsVisible",
+    "Signature": "bool UICamera__IsVisible (UnityEngine_Vector3_o worldPoint, UnityEngine_GameObject_o* go, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13214828,
+    "Name": "UICamera$$IsVisible",
+    "Signature": "bool UICamera__IsVisible (UICamera_DepthEntry_o* de, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13180948,
+    "Name": "UICamera$$IsHighlighted",
+    "Signature": "bool UICamera__IsHighlighted (UnityEngine_GameObject_o* go, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13200684,
+    "Name": "UICamera$$FindCameraForLayer",
+    "Signature": "UICamera_o* UICamera__FindCameraForLayer (int32_t layer, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13215360,
+    "Name": "UICamera$$GetDirection",
+    "Signature": "int32_t UICamera__GetDirection (int32_t up, int32_t down, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13215640,
+    "Name": "UICamera$$GetDirection",
+    "Signature": "int32_t UICamera__GetDirection (int32_t up0, int32_t up1, int32_t down0, int32_t down1, const MethodInfo* method);",
+    "TypeSignature": "iiiiii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13216112,
+    "Name": "UICamera$$GetDirection",
+    "Signature": "int32_t UICamera__GetDirection (System_String_o* axis, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13199880,
+    "Name": "UICamera$$Notify",
+    "Signature": "void UICamera__Notify (UnityEngine_GameObject_o* go, System_String_o* funcName, Il2CppObject* obj, const MethodInfo* method);",
+    "TypeSignature": "viiii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13216456,
+    "Name": "UICamera$$Awake",
+    "Signature": "void UICamera__Awake (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13216876,
+    "Name": "UICamera$$OnEnable",
+    "Signature": "void UICamera__OnEnable (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13217156,
+    "Name": "UICamera$$OnDisable",
+    "Signature": "void UICamera__OnDisable (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13217296,
+    "Name": "UICamera$$Start",
+    "Signature": "void UICamera__Start (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13217976,
+    "Name": "UICamera$$StartIgnoring",
+    "Signature": "void UICamera__StartIgnoring (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13218080,
+    "Name": "UICamera$$StopIgnoring",
+    "Signature": "void UICamera__StopIgnoring (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13218180,
+    "Name": "UICamera$$Update",
+    "Signature": "void UICamera__Update (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13219960,
+    "Name": "UICamera$$LateUpdate",
+    "Signature": "void UICamera__LateUpdate (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13218324,
+    "Name": "UICamera$$ProcessEvents",
+    "Signature": "void UICamera__ProcessEvents (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13221696,
+    "Name": "UICamera$$ProcessMouse",
+    "Signature": "void UICamera__ProcessMouse (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13220384,
+    "Name": "UICamera$$ProcessTouches",
+    "Signature": "void UICamera__ProcessTouches (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13228888,
+    "Name": "UICamera$$ProcessFakeTouches",
+    "Signature": "void UICamera__ProcessFakeTouches (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13224552,
+    "Name": "UICamera$$ProcessOthers",
+    "Signature": "void UICamera__ProcessOthers (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13229784,
+    "Name": "UICamera$$ProcessPress",
+    "Signature": "void UICamera__ProcessPress (UICamera_o* __this, bool pressed, float click, float drag, const MethodInfo* method);",
+    "TypeSignature": "viiffi",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13234292,
+    "Name": "UICamera$$ProcessRelease",
+    "Signature": "void UICamera__ProcessRelease (UICamera_o* __this, bool isMouse, float drag, const MethodInfo* method);",
+    "TypeSignature": "viifi",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13236832,
+    "Name": "UICamera$$HasCollider",
+    "Signature": "bool UICamera__HasCollider (UICamera_o* __this, UnityEngine_GameObject_o* go, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13227968,
+    "Name": "UICamera$$ProcessTouch",
+    "Signature": "void UICamera__ProcessTouch (UICamera_o* __this, bool pressed, bool released, const MethodInfo* method);",
+    "TypeSignature": "viiii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13237188,
+    "Name": "UICamera$$CancelNextTooltip",
+    "Signature": "void UICamera__CancelNextTooltip (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13194188,
+    "Name": "UICamera$$ShowTooltip",
+    "Signature": "bool UICamera__ShowTooltip (UnityEngine_GameObject_o* go, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13191964,
+    "Name": "UICamera$$HideTooltip",
+    "Signature": "bool UICamera__HideTooltip (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13237288,
+    "Name": "UICamera$$ResetTooltip",
+    "Signature": "void UICamera__ResetTooltip (float delay, const MethodInfo* method);",
+    "TypeSignature": "vfi",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13237420,
+    "Name": "UICamera$$.ctor",
+    "Signature": "void UICamera___ctor (UICamera_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 13237672,
+    "Name": "UICamera$$.cctor",
+    "Signature": "void UICamera___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "UICamera"
+  },
+  {
+    "Address": 10426712,
+    "Name": "UIInput$$get_defaultText",
+    "Signature": "System_String_o* UIInput__get_defaultText (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10427104,
+    "Name": "UIInput$$set_defaultText",
+    "Signature": "void UIInput__set_defaultText (UIInput_o* __this, System_String_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430344,
+    "Name": "UIInput$$get_defaultColor",
+    "Signature": "UnityEngine_Color_o UIInput__get_defaultColor (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430396,
+    "Name": "UIInput$$set_defaultColor",
+    "Signature": "void UIInput__set_defaultColor (UIInput_o* __this, UnityEngine_Color_o value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430688,
+    "Name": "UIInput$$get_inputShouldBeHidden",
+    "Signature": "bool UIInput__get_inputShouldBeHidden (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430856,
+    "Name": "UIInput$$get_text",
+    "Signature": "System_String_o* UIInput__get_text (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430952,
+    "Name": "UIInput$$set_text",
+    "Signature": "void UIInput__set_text (UIInput_o* __this, System_String_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430904,
+    "Name": "UIInput$$get_value",
+    "Signature": "System_String_o* UIInput__get_value (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430960,
+    "Name": "UIInput$$set_value",
+    "Signature": "void UIInput__set_value (UIInput_o* __this, System_String_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430968,
+    "Name": "UIInput$$Set",
+    "Signature": "void UIInput__Set (UIInput_o* __this, System_String_o* value, bool notify, const MethodInfo* method);",
+    "TypeSignature": "viiii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10432444,
+    "Name": "UIInput$$get_selected",
+    "Signature": "bool UIInput__get_selected (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10432448,
+    "Name": "UIInput$$set_selected",
+    "Signature": "void UIInput__set_selected (UIInput_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10430524,
+    "Name": "UIInput$$get_isSelected",
+    "Signature": "bool UIInput__get_isSelected (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10432456,
+    "Name": "UIInput$$set_isSelected",
+    "Signature": "void UIInput__set_isSelected (UIInput_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10432656,
+    "Name": "UIInput$$get_cursorPosition",
+    "Signature": "int32_t UIInput__get_cursorPosition (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10432832,
+    "Name": "UIInput$$set_cursorPosition",
+    "Signature": "void UIInput__set_cursorPosition (UIInput_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10433000,
+    "Name": "UIInput$$get_selectionStart",
+    "Signature": "int32_t UIInput__get_selectionStart (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10433184,
+    "Name": "UIInput$$set_selectionStart",
+    "Signature": "void UIInput__set_selectionStart (UIInput_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10433352,
+    "Name": "UIInput$$get_selectionEnd",
+    "Signature": "int32_t UIInput__get_selectionEnd (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10433528,
+    "Name": "UIInput$$set_selectionEnd",
+    "Signature": "void UIInput__set_selectionEnd (UIInput_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10433696,
+    "Name": "UIInput$$get_caret",
+    "Signature": "UITexture_o* UIInput__get_caret (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10431464,
+    "Name": "UIInput$$Validate",
+    "Signature": "System_String_o* UIInput__Validate (UIInput_o* __this, System_String_o* val, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10434560,
+    "Name": "UIInput$$Start",
+    "Signature": "void UIInput__Start (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10426760,
+    "Name": "UIInput$$Init",
+    "Signature": "void UIInput__Init (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10431972,
+    "Name": "UIInput$$SaveToPlayerPrefs",
+    "Signature": "void UIInput__SaveToPlayerPrefs (UIInput_o* __this, System_String_o* val, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10435308,
+    "Name": "UIInput$$OnSelect",
+    "Signature": "void UIInput__OnSelect (UIInput_o* __this, bool isSelected, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10435488,
+    "Name": "UIInput$$OnSelectEvent",
+    "Signature": "void UIInput__OnSelectEvent (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10435856,
+    "Name": "UIInput$$OnDeselectEvent",
+    "Signature": "void UIInput__OnDeselectEvent (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10436924,
+    "Name": "UIInput$$Update",
+    "Signature": "void UIInput__Update (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10440932,
+    "Name": "UIInput$$OnKey",
+    "Signature": "void UIInput__OnKey (UIInput_o* __this, int32_t key, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10440796,
+    "Name": "UIInput$$DoBackspace",
+    "Signature": "void UIInput__DoBackspace (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10441428,
+    "Name": "UIInput$$Insert",
+    "Signature": "void UIInput__Insert (UIInput_o* __this, System_String_o* text, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10442164,
+    "Name": "UIInput$$GetLeftText",
+    "Signature": "System_String_o* UIInput__GetLeftText (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10442412,
+    "Name": "UIInput$$GetRightText",
+    "Signature": "System_String_o* UIInput__GetRightText (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10442564,
+    "Name": "UIInput$$GetSelection",
+    "Signature": "System_String_o* UIInput__GetSelection (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10442732,
+    "Name": "UIInput$$GetCharUnderMouse",
+    "Signature": "int32_t UIInput__GetCharUnderMouse (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10443136,
+    "Name": "UIInput$$OnPress",
+    "Signature": "void UIInput__OnPress (UIInput_o* __this, bool isPressed, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10443452,
+    "Name": "UIInput$$OnDrag",
+    "Signature": "void UIInput__OnDrag (UIInput_o* __this, UnityEngine_Vector2_o delta, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10443692,
+    "Name": "UIInput$$OnDisable",
+    "Signature": "void UIInput__OnDisable (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10443896,
+    "Name": "UIInput$$Cleanup",
+    "Signature": "void UIInput__Cleanup (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10436508,
+    "Name": "UIInput$$Submit",
+    "Signature": "void UIInput__Submit (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10427172,
+    "Name": "UIInput$$UpdateLabel",
+    "Signature": "void UIInput__UpdateLabel (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10433704,
+    "Name": "UIInput$$Validate",
+    "Signature": "uint16_t UIInput__Validate (UIInput_o* __this, System_String_o* text, int32_t pos, uint16_t ch, const MethodInfo* method);",
+    "TypeSignature": "iiiiii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10432084,
+    "Name": "UIInput$$ExecuteOnChange",
+    "Signature": "void UIInput__ExecuteOnChange (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10444236,
+    "Name": "UIInput$$RemoveFocus",
+    "Signature": "void UIInput__RemoveFocus (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10444244,
+    "Name": "UIInput$$SaveValue",
+    "Signature": "void UIInput__SaveValue (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10435064,
+    "Name": "UIInput$$LoadValue",
+    "Signature": "void UIInput__LoadValue (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10444252,
+    "Name": "UIInput$$.ctor",
+    "Signature": "void UIInput___ctor (UIInput_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 10444664,
+    "Name": "UIInput$$.cctor",
+    "Signature": "void UIInput___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "UIInput"
+  },
+  {
+    "Address": 11433012,
+    "Name": "UILabel$$get_finalFontSize",
+    "Signature": "int32_t UILabel__get_finalFontSize (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11433436,
+    "Name": "UILabel$$get_shouldBeProcessed",
+    "Signature": "bool UILabel__get_shouldBeProcessed (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11433444,
+    "Name": "UILabel$$set_shouldBeProcessed",
+    "Signature": "void UILabel__set_shouldBeProcessed (UILabel_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11433472,
+    "Name": "UILabel$$get_isAnchoredHorizontally",
+    "Signature": "bool UILabel__get_isAnchoredHorizontally (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11433532,
+    "Name": "UILabel$$get_isAnchoredVertically",
+    "Signature": "bool UILabel__get_isAnchoredVertically (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11433596,
+    "Name": "UILabel$$get_material",
+    "Signature": "UnityEngine_Material_o* UILabel__get_material (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11434036,
+    "Name": "UILabel$$set_material",
+    "Signature": "void UILabel__set_material (UILabel_o* __this, UnityEngine_Material_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11434044,
+    "Name": "UILabel$$get_mainTexture",
+    "Signature": "UnityEngine_Texture_o* UILabel__get_mainTexture (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11434420,
+    "Name": "UILabel$$set_mainTexture",
+    "Signature": "void UILabel__set_mainTexture (UILabel_o* __this, UnityEngine_Texture_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11434428,
+    "Name": "UILabel$$get_bitmapFont",
+    "Signature": "INGUIFont_o* UILabel__get_bitmapFont (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11434432,
+    "Name": "UILabel$$set_bitmapFont",
+    "Signature": "void UILabel__set_bitmapFont (UILabel_o* __this, INGUIFont_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11433960,
+    "Name": "UILabel$$get_font",
+    "Signature": "INGUIFont_o* UILabel__get_font (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11434436,
+    "Name": "UILabel$$set_font",
+    "Signature": "void UILabel__set_font (UILabel_o* __this, INGUIFont_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11434688,
+    "Name": "UILabel$$get_atlas",
+    "Signature": "INGUIAtlas_o* UILabel__get_atlas (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11434880,
+    "Name": "UILabel$$set_atlas",
+    "Signature": "void UILabel__set_atlas (UILabel_o* __this, INGUIAtlas_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11433168,
+    "Name": "UILabel$$get_trueTypeFont",
+    "Signature": "UnityEngine_Font_o* UILabel__get_trueTypeFont (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11435092,
+    "Name": "UILabel$$set_trueTypeFont",
+    "Signature": "void UILabel__set_trueTypeFont (UILabel_o* __this, UnityEngine_Font_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11436148,
+    "Name": "UILabel$$get_ambigiousFont",
+    "Signature": "UnityEngine_Object_o* UILabel__get_ambigiousFont (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11436276,
+    "Name": "UILabel$$set_ambigiousFont",
+    "Signature": "void UILabel__set_ambigiousFont (UILabel_o* __this, UnityEngine_Object_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11436448,
+    "Name": "UILabel$$get_text",
+    "Signature": "System_String_o* UILabel__get_text (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11436456,
+    "Name": "UILabel$$set_text",
+    "Signature": "void UILabel__set_text (UILabel_o* __this, System_String_o* value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11436708,
+    "Name": "UILabel$$get_defaultFontSize",
+    "Signature": "int32_t UILabel__get_defaultFontSize (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11436992,
+    "Name": "UILabel$$get_fontSize",
+    "Signature": "int32_t UILabel__get_fontSize (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437000,
+    "Name": "UILabel$$set_fontSize",
+    "Signature": "void UILabel__set_fontSize (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437092,
+    "Name": "UILabel$$get_fontStyle",
+    "Signature": "int32_t UILabel__get_fontStyle (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437100,
+    "Name": "UILabel$$set_fontStyle",
+    "Signature": "void UILabel__set_fontStyle (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437136,
+    "Name": "UILabel$$get_alignment",
+    "Signature": "int32_t UILabel__get_alignment (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437144,
+    "Name": "UILabel$$set_alignment",
+    "Signature": "void UILabel__set_alignment (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437180,
+    "Name": "UILabel$$get_applyGradient",
+    "Signature": "bool UILabel__get_applyGradient (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437188,
+    "Name": "UILabel$$set_applyGradient",
+    "Signature": "void UILabel__set_applyGradient (UILabel_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437236,
+    "Name": "UILabel$$get_gradientTop",
+    "Signature": "UnityEngine_Color_o UILabel__get_gradientTop (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437256,
+    "Name": "UILabel$$set_gradientTop",
+    "Signature": "void UILabel__set_gradientTop (UILabel_o* __this, UnityEngine_Color_o value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437424,
+    "Name": "UILabel$$get_gradientBottom",
+    "Signature": "UnityEngine_Color_o UILabel__get_gradientBottom (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437444,
+    "Name": "UILabel$$set_gradientBottom",
+    "Signature": "void UILabel__set_gradientBottom (UILabel_o* __this, UnityEngine_Color_o value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437612,
+    "Name": "UILabel$$get_spacingX",
+    "Signature": "int32_t UILabel__get_spacingX (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437620,
+    "Name": "UILabel$$set_spacingX",
+    "Signature": "void UILabel__set_spacingX (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437656,
+    "Name": "UILabel$$get_spacingY",
+    "Signature": "int32_t UILabel__get_spacingY (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437664,
+    "Name": "UILabel$$set_spacingY",
+    "Signature": "void UILabel__set_spacingY (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437700,
+    "Name": "UILabel$$get_useFloatSpacing",
+    "Signature": "bool UILabel__get_useFloatSpacing (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437708,
+    "Name": "UILabel$$set_useFloatSpacing",
+    "Signature": "void UILabel__set_useFloatSpacing (UILabel_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437752,
+    "Name": "UILabel$$get_floatSpacingX",
+    "Signature": "float UILabel__get_floatSpacingX (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "fii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437760,
+    "Name": "UILabel$$set_floatSpacingX",
+    "Signature": "void UILabel__set_floatSpacingX (UILabel_o* __this, float value, const MethodInfo* method);",
+    "TypeSignature": "vifi",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437860,
+    "Name": "UILabel$$get_floatSpacingY",
+    "Signature": "float UILabel__get_floatSpacingY (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "fii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437868,
+    "Name": "UILabel$$set_floatSpacingY",
+    "Signature": "void UILabel__set_floatSpacingY (UILabel_o* __this, float value, const MethodInfo* method);",
+    "TypeSignature": "vifi",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437968,
+    "Name": "UILabel$$get_effectiveSpacingY",
+    "Signature": "float UILabel__get_effectiveSpacingY (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "fii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11437996,
+    "Name": "UILabel$$get_effectiveSpacingX",
+    "Signature": "float UILabel__get_effectiveSpacingX (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "fii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438024,
+    "Name": "UILabel$$get_overflowEllipsis",
+    "Signature": "bool UILabel__get_overflowEllipsis (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438032,
+    "Name": "UILabel$$set_overflowEllipsis",
+    "Signature": "void UILabel__set_overflowEllipsis (UILabel_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438080,
+    "Name": "UILabel$$get_overflowWidth",
+    "Signature": "int32_t UILabel__get_overflowWidth (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438088,
+    "Name": "UILabel$$set_overflowWidth",
+    "Signature": "void UILabel__set_overflowWidth (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438128,
+    "Name": "UILabel$$get_overflowHeight",
+    "Signature": "int32_t UILabel__get_overflowHeight (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438136,
+    "Name": "UILabel$$set_overflowHeight",
+    "Signature": "void UILabel__set_overflowHeight (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438176,
+    "Name": "UILabel$$get_keepCrisp",
+    "Signature": "bool UILabel__get_keepCrisp (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438324,
+    "Name": "UILabel$$get_supportEncoding",
+    "Signature": "bool UILabel__get_supportEncoding (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438332,
+    "Name": "UILabel$$set_supportEncoding",
+    "Signature": "void UILabel__set_supportEncoding (UILabel_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438376,
+    "Name": "UILabel$$get_symbolStyle",
+    "Signature": "int32_t UILabel__get_symbolStyle (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438384,
+    "Name": "UILabel$$set_symbolStyle",
+    "Signature": "void UILabel__set_symbolStyle (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438416,
+    "Name": "UILabel$$get_overflowMethod",
+    "Signature": "int32_t UILabel__get_overflowMethod (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438424,
+    "Name": "UILabel$$set_overflowMethod",
+    "Signature": "void UILabel__set_overflowMethod (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438456,
+    "Name": "UILabel$$get_lineWidth",
+    "Signature": "int32_t UILabel__get_lineWidth (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438464,
+    "Name": "UILabel$$set_lineWidth",
+    "Signature": "void UILabel__set_lineWidth (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438472,
+    "Name": "UILabel$$get_lineHeight",
+    "Signature": "int32_t UILabel__get_lineHeight (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438480,
+    "Name": "UILabel$$set_lineHeight",
+    "Signature": "void UILabel__set_lineHeight (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438488,
+    "Name": "UILabel$$get_multiLine",
+    "Signature": "bool UILabel__get_multiLine (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438504,
+    "Name": "UILabel$$set_multiLine",
+    "Signature": "void UILabel__set_multiLine (UILabel_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438552,
+    "Name": "UILabel$$get_localCorners",
+    "Signature": "UnityEngine_Vector3_array* UILabel__get_localCorners (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441092,
+    "Name": "UILabel$$get_worldCorners",
+    "Signature": "UnityEngine_Vector3_array* UILabel__get_worldCorners (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441152,
+    "Name": "UILabel$$get_drawingDimensions",
+    "Signature": "UnityEngine_Vector4_o UILabel__get_drawingDimensions (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441212,
+    "Name": "UILabel$$get_maxLineCount",
+    "Signature": "int32_t UILabel__get_maxLineCount (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441220,
+    "Name": "UILabel$$set_maxLineCount",
+    "Signature": "void UILabel__set_maxLineCount (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441328,
+    "Name": "UILabel$$get_effectStyle",
+    "Signature": "int32_t UILabel__get_effectStyle (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441336,
+    "Name": "UILabel$$set_effectStyle",
+    "Signature": "void UILabel__set_effectStyle (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441368,
+    "Name": "UILabel$$get_effectColor",
+    "Signature": "UnityEngine_Color_o UILabel__get_effectColor (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441388,
+    "Name": "UILabel$$set_effectColor",
+    "Signature": "void UILabel__set_effectColor (UILabel_o* __this, UnityEngine_Color_o value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441532,
+    "Name": "UILabel$$get_effectDistance",
+    "Signature": "UnityEngine_Vector2_o UILabel__get_effectDistance (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441544,
+    "Name": "UILabel$$set_effectDistance",
+    "Signature": "void UILabel__set_effectDistance (UILabel_o* __this, UnityEngine_Vector2_o value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441612,
+    "Name": "UILabel$$get_quadsPerCharacter",
+    "Signature": "int32_t UILabel__get_quadsPerCharacter (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441664,
+    "Name": "UILabel$$get_shrinkToFit",
+    "Signature": "bool UILabel__get_shrinkToFit (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441680,
+    "Name": "UILabel$$set_shrinkToFit",
+    "Signature": "void UILabel__set_shrinkToFit (UILabel_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441712,
+    "Name": "UILabel$$get_processedText",
+    "Signature": "System_String_o* UILabel__get_processedText (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441864,
+    "Name": "UILabel$$get_printedSize",
+    "Signature": "UnityEngine_Vector2_o UILabel__get_printedSize (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441924,
+    "Name": "UILabel$$get_localSize",
+    "Signature": "UnityEngine_Vector2_o UILabel__get_localSize (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11441984,
+    "Name": "UILabel$$get_isValid",
+    "Signature": "bool UILabel__get_isValid (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11442168,
+    "Name": "UILabel$$get_symbolLabel",
+    "Signature": "bool UILabel__get_symbolLabel (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11442272,
+    "Name": "UILabel$$get_modifier",
+    "Signature": "int32_t UILabel__get_modifier (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11442280,
+    "Name": "UILabel$$set_modifier",
+    "Signature": "void UILabel__set_modifier (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11442348,
+    "Name": "UILabel$$OnInit",
+    "Signature": "void UILabel__OnInit (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11443660,
+    "Name": "UILabel$$get_pivot",
+    "Signature": "int32_t UILabel__get_pivot (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11443668,
+    "Name": "UILabel$$set_pivot",
+    "Signature": "void UILabel__set_pivot (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11443856,
+    "Name": "UILabel$$get_symbolDepth",
+    "Signature": "int32_t UILabel__get_symbolDepth (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11443864,
+    "Name": "UILabel$$set_symbolDepth",
+    "Signature": "void UILabel__set_symbolDepth (UILabel_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11442908,
+    "Name": "UILabel$$CreateSymbolLabel",
+    "Signature": "void UILabel__CreateSymbolLabel (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11444072,
+    "Name": "UILabel$$OnDisable",
+    "Signature": "void UILabel__OnDisable (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11444460,
+    "Name": "UILabel$$SetDirty",
+    "Signature": "void UILabel__SetDirty (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11435384,
+    "Name": "UILabel$$SetActiveFont",
+    "Signature": "void UILabel__SetActiveFont (UILabel_o* __this, UnityEngine_Font_o* fnt, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11444752,
+    "Name": "UILabel$$get_printedText",
+    "Signature": "System_String_o* UILabel__get_printedText (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11444920,
+    "Name": "UILabel$$OnFontChanged",
+    "Signature": "void UILabel__OnFontChanged (UnityEngine_Font_o* font, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11446236,
+    "Name": "UILabel$$GetSides",
+    "Signature": "UnityEngine_Vector3_array* UILabel__GetSides (UILabel_o* __this, UnityEngine_Transform_o* relativeTo, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11446304,
+    "Name": "UILabel$$UpgradeFrom265",
+    "Signature": "void UILabel__UpgradeFrom265 (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11446732,
+    "Name": "UILabel$$OnAnchor",
+    "Signature": "void UILabel__OnAnchor (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11435996,
+    "Name": "UILabel$$ProcessAndRequest",
+    "Signature": "void UILabel__ProcessAndRequest (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11446976,
+    "Name": "UILabel$$OnEnable",
+    "Signature": "void UILabel__OnEnable (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11447256,
+    "Name": "UILabel$$OnStart",
+    "Signature": "void UILabel__OnStart (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11447676,
+    "Name": "UILabel$$MarkAsChanged",
+    "Signature": "void UILabel__MarkAsChanged (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11438612,
+    "Name": "UILabel$$ProcessText",
+    "Signature": "void UILabel__ProcessText (UILabel_o* __this, bool legacyMode, bool full, const MethodInfo* method);",
+    "TypeSignature": "viiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11449788,
+    "Name": "UILabel$$MakePixelPerfect",
+    "Signature": "void UILabel__MakePixelPerfect (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11450380,
+    "Name": "UILabel$$AssumeNaturalSize",
+    "Signature": "void UILabel__AssumeNaturalSize (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11450628,
+    "Name": "UILabel$$GetCharacterIndex",
+    "Signature": "int32_t UILabel__GetCharacterIndex (UILabel_o* __this, UnityEngine_Vector3_o worldPos, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11450740,
+    "Name": "UILabel$$GetCharacterIndex",
+    "Signature": "int32_t UILabel__GetCharacterIndex (UILabel_o* __this, UnityEngine_Vector2_o localPos, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11450636,
+    "Name": "UILabel$$GetCharacterIndexAtPosition",
+    "Signature": "int32_t UILabel__GetCharacterIndexAtPosition (UILabel_o* __this, UnityEngine_Vector3_o worldPos, bool precise, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11450748,
+    "Name": "UILabel$$GetCharacterIndexAtPosition",
+    "Signature": "int32_t UILabel__GetCharacterIndexAtPosition (UILabel_o* __this, UnityEngine_Vector2_o localPos, bool precise, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11452288,
+    "Name": "UILabel$$GetWordAtPosition",
+    "Signature": "System_String_o* UILabel__GetWordAtPosition (UILabel_o* __this, UnityEngine_Vector3_o worldPos, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11452732,
+    "Name": "UILabel$$GetWordAtPosition",
+    "Signature": "System_String_o* UILabel__GetWordAtPosition (UILabel_o* __this, UnityEngine_Vector2_o localPos, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11452332,
+    "Name": "UILabel$$GetWordAtCharacterIndex",
+    "Signature": "System_String_o* UILabel__GetWordAtCharacterIndex (UILabel_o* __this, int32_t characterIndex, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11452776,
+    "Name": "UILabel$$GetUrlAtPosition",
+    "Signature": "System_String_o* UILabel__GetUrlAtPosition (UILabel_o* __this, UnityEngine_Vector3_o worldPos, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11453264,
+    "Name": "UILabel$$GetUrlAtPosition",
+    "Signature": "System_String_o* UILabel__GetUrlAtPosition (UILabel_o* __this, UnityEngine_Vector2_o localPos, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11452820,
+    "Name": "UILabel$$GetUrlAtCharacterIndex",
+    "Signature": "System_String_o* UILabel__GetUrlAtCharacterIndex (UILabel_o* __this, int32_t characterIndex, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11453308,
+    "Name": "UILabel$$GetCharacterIndex",
+    "Signature": "int32_t UILabel__GetCharacterIndex (UILabel_o* __this, int32_t currentIndex, int32_t key, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11454520,
+    "Name": "UILabel$$PrintOverlay",
+    "Signature": "void UILabel__PrintOverlay (UILabel_o* __this, int32_t start, int32_t end, UIGeometry_o* caret, UIGeometry_o* highlight, UnityEngine_Color_o caretColor, UnityEngine_Color_o highlightColor, const MethodInfo* method);",
+    "TypeSignature": "viiiiiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11455364,
+    "Name": "UILabel$$get_premultipliedAlphaShader",
+    "Signature": "bool UILabel__get_premultipliedAlphaShader (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11455556,
+    "Name": "UILabel$$get_packedFontShader",
+    "Signature": "bool UILabel__get_packedFontShader (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11442644,
+    "Name": "UILabel$$get_separateSymbols",
+    "Signature": "bool UILabel__get_separateSymbols (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11455748,
+    "Name": "UILabel$$OnFill",
+    "Signature": "void UILabel__OnFill (UILabel_o* __this, System_Collections_Generic_List_Vector3__o* verts, System_Collections_Generic_List_Vector2__o* uvs, System_Collections_Generic_List_Color__o* cols, const MethodInfo* method);",
+    "TypeSignature": "viiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11456456,
+    "Name": "UILabel$$Fill",
+    "Signature": "void UILabel__Fill (UILabel_o* __this, System_Collections_Generic_List_Vector3__o* verts, System_Collections_Generic_List_Vector2__o* uvs, System_Collections_Generic_List_Color__o* cols, System_Collections_Generic_List_Vector3__o* symbolVerts, System_Collections_Generic_List_Vector2__o* symbolUVs, System_Collections_Generic_List_Color__o* symbolCols, const MethodInfo* method);",
+    "TypeSignature": "viiiiiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11451668,
+    "Name": "UILabel$$ApplyOffset",
+    "Signature": "UnityEngine_Vector2_o UILabel__ApplyOffset (UILabel_o* __this, System_Collections_Generic_List_Vector3__o* verts, int32_t start, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11458840,
+    "Name": "UILabel$$ApplyShadow",
+    "Signature": "void UILabel__ApplyShadow (UILabel_o* __this, System_Collections_Generic_List_Vector3__o* verts, System_Collections_Generic_List_Vector2__o* uvs, System_Collections_Generic_List_Color__o* cols, int32_t start, int32_t end, float x, float y, const MethodInfo* method);",
+    "TypeSignature": "viiiiiiffi",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11459620,
+    "Name": "UILabel$$CalculateOffsetToFit",
+    "Signature": "int32_t UILabel__CalculateOffsetToFit (UILabel_o* __this, System_String_o* text, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11459816,
+    "Name": "UILabel$$SetCurrentProgress",
+    "Signature": "void UILabel__SetCurrentProgress (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11460052,
+    "Name": "UILabel$$SetCurrentPercent",
+    "Signature": "void UILabel__SetCurrentPercent (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11460316,
+    "Name": "UILabel$$SetCurrentSelection",
+    "Signature": "void UILabel__SetCurrentSelection (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11460752,
+    "Name": "UILabel$$Wrap",
+    "Signature": "bool UILabel__Wrap (UILabel_o* __this, System_String_o* text, System_String_o** final, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11460764,
+    "Name": "UILabel$$Wrap",
+    "Signature": "bool UILabel__Wrap (UILabel_o* __this, System_String_o* text, System_String_o** final, int32_t height, const MethodInfo* method);",
+    "TypeSignature": "iiiiii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11447880,
+    "Name": "UILabel$$UpdateNGUIText",
+    "Signature": "void UILabel__UpdateNGUIText (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11460980,
+    "Name": "UILabel$$OnApplicationPause",
+    "Signature": "void UILabel__OnApplicationPause (UILabel_o* __this, bool paused, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11461144,
+    "Name": "UILabel$$.ctor",
+    "Signature": "void UILabel___ctor (UILabel_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 11461436,
+    "Name": "UILabel$$.cctor",
+    "Signature": "void UILabel___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "UILabel"
+  },
+  {
+    "Address": 14581740,
+    "Name": "ContainerSelectCarOperUIController$$Start",
+    "Signature": "void ContainerSelectCarOperUIController__Start (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14581744,
+    "Name": "ContainerSelectCarOperUIController$$InitButtonEvent",
+    "Signature": "void ContainerSelectCarOperUIController__InitButtonEvent (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14585348,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonScene1",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonScene1 (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14585560,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonScene2",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonScene2 (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14585772,
+    "Name": "ContainerSelectCarOperUIController$$OnClickButtonCarPResult",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickButtonCarPResult (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14584660,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonCar1",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonCar1 (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14584832,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonCar2",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonCar2 (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14585004,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonCar3",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonCar3 (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14585176,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonCar4",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonCar4 (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14585880,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonControl",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonControl (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14586244,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonDrive",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonDrive (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14586608,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonHand",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonHand (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14586972,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonRoute",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonRoute (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14587080,
+    "Name": "ContainerSelectCarOperUIController$$OnClickCarP_ButtonPrograme",
+    "Signature": "void ContainerSelectCarOperUIController__OnClickCarP_ButtonPrograme (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14587188,
+    "Name": "ContainerSelectCarOperUIController$$Update",
+    "Signature": "void ContainerSelectCarOperUIController__Update (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14587192,
+    "Name": "ContainerSelectCarOperUIController$$gethaomiao",
+    "Signature": "int64_t ContainerSelectCarOperUIController__gethaomiao (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "jii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14587372,
+    "Name": "ContainerSelectCarOperUIController$$Awake",
+    "Signature": "void ContainerSelectCarOperUIController__Awake (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14588736,
+    "Name": "ContainerSelectCarOperUIController$$.ctor",
+    "Signature": "void ContainerSelectCarOperUIController___ctor (ContainerSelectCarOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectCarOperUIController"
+  },
+  {
+    "Address": 14588744,
+    "Name": "ContainerSelectTankOperUIController$$Start",
+    "Signature": "void ContainerSelectTankOperUIController__Start (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14588748,
+    "Name": "ContainerSelectTankOperUIController$$InitButtonEvent",
+    "Signature": "void ContainerSelectTankOperUIController__InitButtonEvent (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14592776,
+    "Name": "ContainerSelectTankOperUIController$$OnClickButtonTankPResult",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickButtonTankPResult (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14591664,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonTank1",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonTank1 (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14591836,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonTank2",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonTank2 (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14592008,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonTank3",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonTank3 (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14592180,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonTank4",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonTank4 (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14592352,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonScene1",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonScene1 (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14592564,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonScene2",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonScene2 (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14592884,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonControl",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonControl (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14593260,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonDrive",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonDrive (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14593636,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonHand",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonHand (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14594012,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonRoute",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonRoute (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14594120,
+    "Name": "ContainerSelectTankOperUIController$$OnClickTankP_ButtonPrograme",
+    "Signature": "void ContainerSelectTankOperUIController__OnClickTankP_ButtonPrograme (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14594228,
+    "Name": "ContainerSelectTankOperUIController$$Update",
+    "Signature": "void ContainerSelectTankOperUIController__Update (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14594232,
+    "Name": "ContainerSelectTankOperUIController$$Awake",
+    "Signature": "void ContainerSelectTankOperUIController__Awake (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 14595596,
+    "Name": "ContainerSelectTankOperUIController$$.ctor",
+    "Signature": "void ContainerSelectTankOperUIController___ctor (ContainerSelectTankOperUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "ContainerSelectTankOperUIController"
+  },
+  {
+    "Address": 7573424,
+    "Name": "PanelMainUIController$$get_Instance",
+    "Signature": "PanelMainUIController_o* PanelMainUIController__get_Instance (const MethodInfo* method);",
+    "TypeSignature": "ii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574400,
+    "Name": "PanelMainUIController$$GetDeviceUniqueIdentifier",
+    "Signature": "System_String_o* PanelMainUIController__GetDeviceUniqueIdentifier (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574408,
+    "Name": "PanelMainUIController$$Start",
+    "Signature": "void PanelMainUIController__Start (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574412,
+    "Name": "PanelMainUIController$$Update",
+    "Signature": "void PanelMainUIController__Update (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574416,
+    "Name": "PanelMainUIController$$OnDestroy",
+    "Signature": "void PanelMainUIController__OnDestroy (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574520,
+    "Name": "PanelMainUIController$$GetLayerContainer",
+    "Signature": "UnityEngine_GameObject_o* PanelMainUIController__GetLayerContainer (PanelMainUIController_o* __this, int32_t ul, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574604,
+    "Name": "PanelMainUIController$$AddUI",
+    "Signature": "UnityEngine_GameObject_o* PanelMainUIController__AddUI (PanelMainUIController_o* __this, int32_t layer, System_String_o* uiName, const MethodInfo* method);",
+    "TypeSignature": "iiiii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7574860,
+    "Name": "PanelMainUIController$$CleanAllUI",
+    "Signature": "void PanelMainUIController__CleanAllUI (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578012,
+    "Name": "PanelMainUIController$$EnterRemoveCust",
+    "Signature": "void PanelMainUIController__EnterRemoveCust (PanelMainUIController_o* __this, System_String_o* custname, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578060,
+    "Name": "PanelMainUIController$$EnterYinsi",
+    "Signature": "void PanelMainUIController__EnterYinsi (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578148,
+    "Name": "PanelMainUIController$$EnterCompayintro",
+    "Signature": "void PanelMainUIController__EnterCompayintro (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578236,
+    "Name": "PanelMainUIController$$EnterOperdoc",
+    "Signature": "void PanelMainUIController__EnterOperdoc (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578324,
+    "Name": "PanelMainUIController$$SwitchLandscapescreen",
+    "Signature": "void PanelMainUIController__SwitchLandscapescreen (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578552,
+    "Name": "PanelMainUIController$$SwitchVerticalscreen",
+    "Signature": "void PanelMainUIController__SwitchVerticalscreen (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578776,
+    "Name": "PanelMainUIController$$ClearNowScene",
+    "Signature": "void PanelMainUIController__ClearNowScene (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578780,
+    "Name": "PanelMainUIController$$EnterRemoveBeforeLogin",
+    "Signature": "void PanelMainUIController__EnterRemoveBeforeLogin (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578868,
+    "Name": "PanelMainUIController$$EnterRemoveBeforeSelect",
+    "Signature": "void PanelMainUIController__EnterRemoveBeforeSelect (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7578956,
+    "Name": "PanelMainUIController$$EnterResultDevice",
+    "Signature": "void PanelMainUIController__EnterResultDevice (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579116,
+    "Name": "PanelMainUIController$$EnterRemoteCar",
+    "Signature": "void PanelMainUIController__EnterRemoteCar (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579288,
+    "Name": "PanelMainUIController$$EnterRemoteTank",
+    "Signature": "void PanelMainUIController__EnterRemoteTank (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579460,
+    "Name": "PanelMainUIController$$EnterRemoveCarRoute",
+    "Signature": "void PanelMainUIController__EnterRemoveCarRoute (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579548,
+    "Name": "PanelMainUIController$$EnterRemoveCarPrograme",
+    "Signature": "void PanelMainUIController__EnterRemoveCarPrograme (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579636,
+    "Name": "PanelMainUIController$$EnterRemoveCarGravity",
+    "Signature": "void PanelMainUIController__EnterRemoveCarGravity (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579724,
+    "Name": "PanelMainUIController$$EnterRemoveTankGravity",
+    "Signature": "void PanelMainUIController__EnterRemoveTankGravity (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579812,
+    "Name": "PanelMainUIController$$EnterLoginScreen",
+    "Signature": "void PanelMainUIController__EnterLoginScreen (PanelMainUIController_o* __this, System_String_o* nscreen, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7579976,
+    "Name": "PanelMainUIController$$EnterRcTrack",
+    "Signature": "void PanelMainUIController__EnterRcTrack (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7580232,
+    "Name": "PanelMainUIController$$EnterRcTrackCeshi",
+    "Signature": "void PanelMainUIController__EnterRcTrackCeshi (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7580320,
+    "Name": "PanelMainUIController$$EnterRcIndoor",
+    "Signature": "void PanelMainUIController__EnterRcIndoor (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7580576,
+    "Name": "PanelMainUIController$$EnterRcForest",
+    "Signature": "void PanelMainUIController__EnterRcForest (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7580832,
+    "Name": "PanelMainUIController$$EnterRcSnow",
+    "Signature": "void PanelMainUIController__EnterRcSnow (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7581088,
+    "Name": "PanelMainUIController$$EnterRemoteHandTank",
+    "Signature": "void PanelMainUIController__EnterRemoteHandTank (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7581176,
+    "Name": "PanelMainUIController$$EnterRemoteHandCar",
+    "Signature": "void PanelMainUIController__EnterRemoteHandCar (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7581264,
+    "Name": "PanelMainUIController$$Awake",
+    "Signature": "void PanelMainUIController__Awake (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7582012,
+    "Name": "PanelMainUIController$$.ctor",
+    "Signature": "void PanelMainUIController___ctor (PanelMainUIController_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 7582020,
+    "Name": "PanelMainUIController$$.cctor",
+    "Signature": "void PanelMainUIController___cctor (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "PanelMainUIController"
+  },
+  {
+    "Address": 5672488,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$RemoveEngineComponents",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_BlockUtils__RemoveEngineComponents (UnityEngine_Transform_o* blockTransform, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5674536,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$AddSelectionMenuComponents",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_BlockUtils__AddSelectionMenuComponents (UnityEngine_Transform_o* blockTransform, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5674668,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$DuplicateBlock",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_BlockUtils__DuplicateBlock (MG_BlocksEngine2_Block_I_BE2_Block_o* block, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5693468,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$GetRootBlock",
+    "Signature": "MG_BlocksEngine2_Block_I_BE2_Block_o* MG_BlocksEngine2_Utils_BE2_BlockUtils__GetRootBlock (MG_BlocksEngine2_Block_I_BE2_Block_o* block, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5693788,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$RemoveBlock",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_BlockUtils__RemoveBlock (MG_BlocksEngine2_Block_I_BE2_Block_o* block, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5695052,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$CreatePrefab",
+    "Signature": "UnityEngine_GameObject_o* MG_BlocksEngine2_Utils_BE2_BlockUtils__CreatePrefab (MG_BlocksEngine2_Block_I_BE2_Block_o* block, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5695060,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$GetParentInstructionOfType",
+    "Signature": "MG_BlocksEngine2_Block_Instruction_I_BE2_Instruction_o* MG_BlocksEngine2_Utils_BE2_BlockUtils__GetParentInstructionOfType (MG_BlocksEngine2_Block_Instruction_I_BE2_Instruction_o* thisInstruction, int32_t blockType, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5696024,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$LoadPrefabBlock",
+    "Signature": "UnityEngine_GameObject_o* MG_BlocksEngine2_Utils_BE2_BlockUtils__LoadPrefabBlock (System_String_o* prefabName, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5696448,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$UnloadPrefab",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_BlockUtils__UnloadPrefab (const MethodInfo* method);",
+    "TypeSignature": "vi",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5696456,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$GetParentInstructionOfTypeAll",
+    "Signature": "System_Collections_Generic_List_I_BE2_Instruction__o* MG_BlocksEngine2_Utils_BE2_BlockUtils__GetParentInstructionOfTypeAll (MG_BlocksEngine2_Block_Instruction_I_BE2_Instruction_o* thisInstruction, int32_t blockType, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5697660,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$BlockIsVariable",
+    "Signature": "bool MG_BlocksEngine2_Utils_BE2_BlockUtils__BlockIsVariable (MG_BlocksEngine2_Block_I_BE2_Block_o* block, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5698032,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$BlockIsFunction",
+    "Signature": "bool MG_BlocksEngine2_Utils_BE2_BlockUtils__BlockIsFunction (MG_BlocksEngine2_Block_I_BE2_Block_o* block, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5698320,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$CallOnEndOfFrame",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_BlockUtils__CallOnEndOfFrame (UnityEngine_MonoBehaviour_o* monoBehaviour, System_Action_o* action, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5698376,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$InvokeRoutine",
+    "Signature": "System_Collections_IEnumerator_o* MG_BlocksEngine2_Utils_BE2_BlockUtils__InvokeRoutine (System_Action_o* action, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5698496,
+    "Name": "MG_BlocksEngine2.Utils.BE2_BlockUtils$$InstantiateNoViewBlock",
+    "Signature": "MG_BlocksEngine2_Block_I_BE2_Block_o* MG_BlocksEngine2_Utils_BE2_BlockUtils__InstantiateNoViewBlock (MG_BlocksEngine2_Block_I_BE2_Block_o* block, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_BlockUtils"
+  },
+  {
+    "Address": 5766716,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$get_isNull",
+    "Signature": "bool MG_BlocksEngine2_Utils_BE2_Dropdown__get_isNull (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5766724,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$.ctor",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_Dropdown___ctor (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, UnityEngine_Transform_o* transform, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5766776,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$Init",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_Dropdown__Init (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5664564,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$GetBE2Component",
+    "Signature": "MG_BlocksEngine2_Utils_BE2_Dropdown_o* MG_BlocksEngine2_Utils_BE2_Dropdown__GetBE2Component (UnityEngine_Transform_o* transform, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5767072,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$GetBE2ComponentInChildren",
+    "Signature": "MG_BlocksEngine2_Utils_BE2_Dropdown_o* MG_BlocksEngine2_Utils_BE2_Dropdown__GetBE2ComponentInChildren (UnityEngine_Transform_o* transform, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5767364,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$GetBE2ComponentsInChildren",
+    "Signature": "MG_BlocksEngine2_Utils_BE2_Dropdown_array* MG_BlocksEngine2_Utils_BE2_Dropdown__GetBE2ComponentsInChildren (UnityEngine_Transform_o* transform, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5768336,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$ClearOptions",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_Dropdown__ClearOptions (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5768560,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$AddOption",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_Dropdown__AddOption (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, System_String_o* option, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5768948,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$GetOptionTextAtIndex",
+    "Signature": "System_String_o* MG_BlocksEngine2_Utils_BE2_Dropdown__GetOptionTextAtIndex (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, int32_t index, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5666088,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$GetSelectedOptionText",
+    "Signature": "System_String_o* MG_BlocksEngine2_Utils_BE2_Dropdown__GetSelectedOptionText (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5665836,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$GetOptionsCount",
+    "Signature": "int32_t MG_BlocksEngine2_Utils_BE2_Dropdown__GetOptionsCount (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5769260,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$GetIndexOf",
+    "Signature": "int32_t MG_BlocksEngine2_Utils_BE2_Dropdown__GetIndexOf (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, System_String_o* text, const MethodInfo* method);",
+    "TypeSignature": "iiii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5666424,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$get_value",
+    "Signature": "int32_t MG_BlocksEngine2_Utils_BE2_Dropdown__get_value (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5769800,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$set_value",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_Dropdown__set_value (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, int32_t value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5770036,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$RefreshShownValue",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_Dropdown__RefreshShownValue (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "vii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5723420,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$get_captionTextpreferredWidth",
+    "Signature": "float MG_BlocksEngine2_Utils_BE2_Dropdown__get_captionTextpreferredWidth (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "fii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5665156,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$get_onValueChanged",
+    "Signature": "UnityEngine_Events_UnityEvent_int__o* MG_BlocksEngine2_Utils_BE2_Dropdown__get_onValueChanged (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5770260,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$get_enabled",
+    "Signature": "bool MG_BlocksEngine2_Utils_BE2_Dropdown__get_enabled (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, const MethodInfo* method);",
+    "TypeSignature": "iii",
+    "Class": "BE2_Dropdown"
+  },
+  {
+    "Address": 5770468,
+    "Name": "MG_BlocksEngine2.Utils.BE2_Dropdown$$set_enabled",
+    "Signature": "void MG_BlocksEngine2_Utils_BE2_Dropdown__set_enabled (MG_BlocksEngine2_Utils_BE2_Dropdown_o* __this, bool value, const MethodInfo* method);",
+    "TypeSignature": "viii",
+    "Class": "BE2_Dropdown"
+  }
+]

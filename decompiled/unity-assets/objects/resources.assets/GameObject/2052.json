@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5562
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8219
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8220
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8217
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8218
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8221
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins RepeatUntil",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

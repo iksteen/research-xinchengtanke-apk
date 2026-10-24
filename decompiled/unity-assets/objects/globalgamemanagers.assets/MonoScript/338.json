@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_VirtualJoystick",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 113,
+    "bytes[1]": 62,
+    "bytes[2]": 180,
+    "bytes[3]": 81,
+    "bytes[4]": 98,
+    "bytes[5]": 220,
+    "bytes[6]": 40,
+    "bytes[7]": 102,
+    "bytes[8]": 160,
+    "bytes[9]": 11,
+    "bytes[10]": 123,
+    "bytes[11]": 166,
+    "bytes[12]": 19,
+    "bytes[13]": 221,
+    "bytes[14]": 204,
+    "bytes[15]": 228
+  },
+  "m_ClassName": "BE2_VirtualJoystick",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "TextMeshPro",
+  "m_ExecutionOrder": -105,
+  "m_PropertiesHash": {
+    "bytes[0]": 218,
+    "bytes[1]": 76,
+    "bytes[2]": 197,
+    "bytes[3]": 26,
+    "bytes[4]": 2,
+    "bytes[5]": 206,
+    "bytes[6]": 132,
+    "bytes[7]": 175,
+    "bytes[8]": 226,
+    "bytes[9]": 206,
+    "bytes[10]": 205,
+    "bytes[11]": 39,
+    "bytes[12]": 207,
+    "bytes[13]": 230,
+    "bytes[14]": 153,
+    "bytes[15]": 122
+  },
+  "m_ClassName": "TextMeshPro",
+  "m_Namespace": "TMPro",
+  "m_AssemblyName": "Unity.TextMeshPro.dll"
+}

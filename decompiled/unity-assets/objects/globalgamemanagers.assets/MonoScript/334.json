@@ -1,0 +1,25 @@
+{
+  "m_Name": "TMP_ExampleScript_01",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 226,
+    "bytes[1]": 68,
+    "bytes[2]": 112,
+    "bytes[3]": 46,
+    "bytes[4]": 13,
+    "bytes[5]": 192,
+    "bytes[6]": 87,
+    "bytes[7]": 130,
+    "bytes[8]": 34,
+    "bytes[9]": 154,
+    "bytes[10]": 165,
+    "bytes[11]": 36,
+    "bytes[12]": 228,
+    "bytes[13]": 215,
+    "bytes[14]": 87,
+    "bytes[15]": 245
+  },
+  "m_ClassName": "TMP_ExampleScript_01",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

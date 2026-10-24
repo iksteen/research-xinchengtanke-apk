@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 22
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 63
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 61
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 52
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 65
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonBeforeSysout",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

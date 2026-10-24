@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2782
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7543
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7544
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3716
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7542
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonRouteStart",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIPlayTween",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 250,
+    "bytes[1]": 179,
+    "bytes[2]": 33,
+    "bytes[3]": 187,
+    "bytes[4]": 29,
+    "bytes[5]": 63,
+    "bytes[6]": 193,
+    "bytes[7]": 3,
+    "bytes[8]": 228,
+    "bytes[9]": 167,
+    "bytes[10]": 198,
+    "bytes[11]": 184,
+    "bytes[12]": 106,
+    "bytes[13]": 195,
+    "bytes[14]": 160,
+    "bytes[15]": 4
+  },
+  "m_ClassName": "UIPlayTween",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 177
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 314
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 297
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 316
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerRemoteCar",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

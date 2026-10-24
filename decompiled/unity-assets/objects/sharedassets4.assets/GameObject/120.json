@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 129
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 147
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 138
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 150
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 159
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Palm01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

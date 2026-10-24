@@ -1,0 +1,56 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5087
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4221
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6957
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6956
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6961
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6960
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6959
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6958
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "InputField (TMP)",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

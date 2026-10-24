@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2601
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6757
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7058
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerScreenLoading",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

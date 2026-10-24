@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIToggledComponents",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 2,
+    "bytes[1]": 190,
+    "bytes[2]": 195,
+    "bytes[3]": 134,
+    "bytes[4]": 26,
+    "bytes[5]": 167,
+    "bytes[6]": 183,
+    "bytes[7]": 153,
+    "bytes[8]": 41,
+    "bytes[9]": 22,
+    "bytes[10]": 114,
+    "bytes[11]": 223,
+    "bytes[12]": 250,
+    "bytes[13]": 207,
+    "bytes[14]": 53,
+    "bytes[15]": 98
+  },
+  "m_ClassName": "UIToggledComponents",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

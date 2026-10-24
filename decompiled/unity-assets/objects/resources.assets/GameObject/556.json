@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2354
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6000
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6168
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerYinsi",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

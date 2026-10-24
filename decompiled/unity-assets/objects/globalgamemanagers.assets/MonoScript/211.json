@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_SpotBlockInput",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 64,
+    "bytes[1]": 192,
+    "bytes[2]": 183,
+    "bytes[3]": 25,
+    "bytes[4]": 115,
+    "bytes[5]": 181,
+    "bytes[6]": 173,
+    "bytes[7]": 116,
+    "bytes[8]": 247,
+    "bytes[9]": 94,
+    "bytes[10]": 133,
+    "bytes[11]": 151,
+    "bytes[12]": 146,
+    "bytes[13]": 172,
+    "bytes[14]": 97,
+    "bytes[15]": 245
+  },
+  "m_ClassName": "BE2_SpotBlockInput",
+  "m_Namespace": "MG_BlocksEngine2.Block",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

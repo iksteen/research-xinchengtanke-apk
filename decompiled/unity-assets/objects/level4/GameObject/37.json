@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 344
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 808
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 655
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 977
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1069
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "House01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

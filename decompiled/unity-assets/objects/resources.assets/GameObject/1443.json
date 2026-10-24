@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2735
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7183
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7037
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7990
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerRemoteTankCeshi",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

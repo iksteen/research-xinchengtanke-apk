@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 139
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 311
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 309
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 252
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 310
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonRCarResult",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

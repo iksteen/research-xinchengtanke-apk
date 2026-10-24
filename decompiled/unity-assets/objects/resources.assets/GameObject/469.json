@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2787
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7093
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "onedatatext",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

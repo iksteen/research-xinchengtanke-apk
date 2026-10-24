@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5036
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6778
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6776
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6777
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6774
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6775
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins TurnDirection",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

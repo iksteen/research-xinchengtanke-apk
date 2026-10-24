@@ -1,0 +1,25 @@
+{
+  "m_Name": "ActiveAnimation",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 217,
+    "bytes[1]": 22,
+    "bytes[2]": 87,
+    "bytes[3]": 13,
+    "bytes[4]": 170,
+    "bytes[5]": 253,
+    "bytes[6]": 148,
+    "bytes[7]": 48,
+    "bytes[8]": 209,
+    "bytes[9]": 35,
+    "bytes[10]": 56,
+    "bytes[11]": 87,
+    "bytes[12]": 35,
+    "bytes[13]": 220,
+    "bytes[14]": 221,
+    "bytes[15]": 31
+  },
+  "m_ClassName": "ActiveAnimation",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

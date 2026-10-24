@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5226
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4321
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7385
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Placeholder",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

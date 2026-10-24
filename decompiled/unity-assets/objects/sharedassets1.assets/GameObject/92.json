@@ -1,0 +1,50 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 167
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 119
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 270
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 242
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 267
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 231
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 310
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Horizontal Template Dropdown",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

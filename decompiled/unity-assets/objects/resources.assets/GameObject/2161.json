@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5633
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4605
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8425
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8426
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "OuterArea",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

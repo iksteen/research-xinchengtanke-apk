@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2195
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5661
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3883
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Broadleaf_Desktop_Billboard",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

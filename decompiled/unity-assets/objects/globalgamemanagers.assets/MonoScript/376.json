@@ -1,0 +1,25 @@
+{
+  "m_Name": "Painter",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 77,
+    "bytes[1]": 94,
+    "bytes[2]": 40,
+    "bytes[3]": 215,
+    "bytes[4]": 131,
+    "bytes[5]": 115,
+    "bytes[6]": 103,
+    "bytes[7]": 115,
+    "bytes[8]": 90,
+    "bytes[9]": 57,
+    "bytes[10]": 97,
+    "bytes[11]": 198,
+    "bytes[12]": 85,
+    "bytes[13]": 177,
+    "bytes[14]": 146,
+    "bytes[15]": 159
+  },
+  "m_ClassName": "Painter",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

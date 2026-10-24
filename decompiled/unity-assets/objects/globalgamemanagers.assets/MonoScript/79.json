@@ -1,0 +1,25 @@
+{
+  "m_Name": "UISprite",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 64,
+    "bytes[1]": 238,
+    "bytes[2]": 171,
+    "bytes[3]": 97,
+    "bytes[4]": 227,
+    "bytes[5]": 187,
+    "bytes[6]": 143,
+    "bytes[7]": 191,
+    "bytes[8]": 162,
+    "bytes[9]": 212,
+    "bytes[10]": 255,
+    "bytes[11]": 232,
+    "bytes[12]": 32,
+    "bytes[13]": 32,
+    "bytes[14]": 150,
+    "bytes[15]": 156
+  },
+  "m_ClassName": "UISprite",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

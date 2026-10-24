@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 440
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1190
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1186
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 945
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1191
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonRTankOpenclose",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

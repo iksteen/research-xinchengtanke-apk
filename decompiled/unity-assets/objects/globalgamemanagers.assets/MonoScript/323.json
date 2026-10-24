@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIDragCamera",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 64,
+    "bytes[1]": 255,
+    "bytes[2]": 216,
+    "bytes[3]": 111,
+    "bytes[4]": 211,
+    "bytes[5]": 164,
+    "bytes[6]": 195,
+    "bytes[7]": 192,
+    "bytes[8]": 124,
+    "bytes[9]": 157,
+    "bytes[10]": 78,
+    "bytes[11]": 200,
+    "bytes[12]": 109,
+    "bytes[13]": 85,
+    "bytes[14]": 110,
+    "bytes[15]": 107
+  },
+  "m_ClassName": "UIDragCamera",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "FloatingJoystick",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 206,
+    "bytes[1]": 102,
+    "bytes[2]": 152,
+    "bytes[3]": 114,
+    "bytes[4]": 162,
+    "bytes[5]": 190,
+    "bytes[6]": 17,
+    "bytes[7]": 188,
+    "bytes[8]": 104,
+    "bytes[9]": 110,
+    "bytes[10]": 162,
+    "bytes[11]": 41,
+    "bytes[12]": 97,
+    "bytes[13]": 216,
+    "bytes[14]": 163,
+    "bytes[15]": 187
+  },
+  "m_ClassName": "FloatingJoystick",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 580
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 967
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 794
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Word_Zone",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

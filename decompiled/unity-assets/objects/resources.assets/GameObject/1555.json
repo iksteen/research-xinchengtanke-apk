@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2999
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3306
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3212
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "daochu_6 1",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

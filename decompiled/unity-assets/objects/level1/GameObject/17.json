@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 539
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 323
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 851
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 850
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Button Cancel",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

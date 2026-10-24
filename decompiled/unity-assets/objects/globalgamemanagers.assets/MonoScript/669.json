@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIEventTrigger",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 169,
+    "bytes[1]": 107,
+    "bytes[2]": 46,
+    "bytes[3]": 121,
+    "bytes[4]": 203,
+    "bytes[5]": 68,
+    "bytes[6]": 40,
+    "bytes[7]": 153,
+    "bytes[8]": 196,
+    "bytes[9]": 71,
+    "bytes[10]": 79,
+    "bytes[11]": 125,
+    "bytes[12]": 114,
+    "bytes[13]": 220,
+    "bytes[14]": 227,
+    "bytes[15]": 15
+  },
+  "m_ClassName": "UIEventTrigger",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

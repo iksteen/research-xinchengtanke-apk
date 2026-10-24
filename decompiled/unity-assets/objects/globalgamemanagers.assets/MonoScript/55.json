@@ -1,0 +1,25 @@
+{
+  "m_Name": "UILabelSymbols",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 111,
+    "bytes[1]": 115,
+    "bytes[2]": 61,
+    "bytes[3]": 206,
+    "bytes[4]": 216,
+    "bytes[5]": 210,
+    "bytes[6]": 161,
+    "bytes[7]": 70,
+    "bytes[8]": 129,
+    "bytes[9]": 108,
+    "bytes[10]": 187,
+    "bytes[11]": 234,
+    "bytes[12]": 140,
+    "bytes[13]": 170,
+    "bytes[14]": 56,
+    "bytes[15]": 167
+  },
+  "m_ClassName": "UILabelSymbols",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

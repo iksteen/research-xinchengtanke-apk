@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 185
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 118
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 221
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 311
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Scrollbar",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

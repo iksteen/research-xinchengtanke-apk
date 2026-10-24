@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 213
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 580
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 576
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 526
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 581
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonRTankPao",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 168
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 104
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 282
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 207
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 198
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 237
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Horizontal Template Body End",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

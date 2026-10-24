@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 756
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 494
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1159
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1158
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1160
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Button All",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

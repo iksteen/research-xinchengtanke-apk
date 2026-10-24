@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 186
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 230
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 204
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "TsunamiBody",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

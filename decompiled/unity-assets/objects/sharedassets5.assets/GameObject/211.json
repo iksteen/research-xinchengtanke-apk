@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 526
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 941
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 768
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1046
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Corridor_Curved_01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

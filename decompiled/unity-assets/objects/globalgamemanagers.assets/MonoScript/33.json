@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIFont",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 149,
+    "bytes[1]": 199,
+    "bytes[2]": 226,
+    "bytes[3]": 89,
+    "bytes[4]": 10,
+    "bytes[5]": 12,
+    "bytes[6]": 223,
+    "bytes[7]": 63,
+    "bytes[8]": 179,
+    "bytes[9]": 224,
+    "bytes[10]": 45,
+    "bytes[11]": 234,
+    "bytes[12]": 199,
+    "bytes[13]": 204,
+    "bytes[14]": 39,
+    "bytes[15]": 113
+  },
+  "m_ClassName": "UIFont",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

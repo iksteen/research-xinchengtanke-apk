@@ -1,0 +1,25 @@
+{
+  "m_Name": "BE2_DragSelectionFunction",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 15,
+    "bytes[1]": 223,
+    "bytes[2]": 56,
+    "bytes[3]": 63,
+    "bytes[4]": 235,
+    "bytes[5]": 175,
+    "bytes[6]": 122,
+    "bytes[7]": 109,
+    "bytes[8]": 254,
+    "bytes[9]": 119,
+    "bytes[10]": 43,
+    "bytes[11]": 32,
+    "bytes[12]": 168,
+    "bytes[13]": 18,
+    "bytes[14]": 108,
+    "bytes[15]": 30
+  },
+  "m_ClassName": "BE2_DragSelectionFunction",
+  "m_Namespace": "MG_BlocksEngine2.DragDrop",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

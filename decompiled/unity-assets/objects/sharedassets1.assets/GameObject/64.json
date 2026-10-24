@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 147
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 209
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 309
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 230
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 274
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Horizontal Template Block Top",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

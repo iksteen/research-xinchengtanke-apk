@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2952
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7012
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3688
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ContainerBj",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

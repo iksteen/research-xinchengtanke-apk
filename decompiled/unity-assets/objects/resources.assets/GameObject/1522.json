@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5215
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7352
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7356
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7355
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7354
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7353
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "HorizontalBlock Ins RepeatForever",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

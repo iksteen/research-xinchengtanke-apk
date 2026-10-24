@@ -1,0 +1,25 @@
+{
+  "m_Name": "TweenVolume",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 104,
+    "bytes[1]": 74,
+    "bytes[2]": 133,
+    "bytes[3]": 74,
+    "bytes[4]": 183,
+    "bytes[5]": 251,
+    "bytes[6]": 201,
+    "bytes[7]": 120,
+    "bytes[8]": 220,
+    "bytes[9]": 246,
+    "bytes[10]": 239,
+    "bytes[11]": 48,
+    "bytes[12]": 103,
+    "bytes[13]": 82,
+    "bytes[14]": 230,
+    "bytes[15]": 67
+  },
+  "m_ClassName": "TweenVolume",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

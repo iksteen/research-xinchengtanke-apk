@@ -1,0 +1,25 @@
+{
+  "m_Name": "TMP_TextEventHandler",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 78,
+    "bytes[1]": 81,
+    "bytes[2]": 109,
+    "bytes[3]": 109,
+    "bytes[4]": 100,
+    "bytes[5]": 212,
+    "bytes[6]": 68,
+    "bytes[7]": 70,
+    "bytes[8]": 152,
+    "bytes[9]": 148,
+    "bytes[10]": 38,
+    "bytes[11]": 184,
+    "bytes[12]": 247,
+    "bytes[13]": 37,
+    "bytes[14]": 198,
+    "bytes[15]": 248
+  },
+  "m_ClassName": "TMP_TextEventHandler",
+  "m_Namespace": "TMPro",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

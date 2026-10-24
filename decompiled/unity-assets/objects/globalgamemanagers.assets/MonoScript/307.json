@@ -1,0 +1,25 @@
+{
+  "m_Name": "TMP_FrameRateCounter",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 189,
+    "bytes[1]": 63,
+    "bytes[2]": 12,
+    "bytes[3]": 167,
+    "bytes[4]": 56,
+    "bytes[5]": 112,
+    "bytes[6]": 57,
+    "bytes[7]": 3,
+    "bytes[8]": 231,
+    "bytes[9]": 89,
+    "bytes[10]": 247,
+    "bytes[11]": 117,
+    "bytes[12]": 54,
+    "bytes[13]": 237,
+    "bytes[14]": 116,
+    "bytes[15]": 253
+  },
+  "m_ClassName": "TMP_FrameRateCounter",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

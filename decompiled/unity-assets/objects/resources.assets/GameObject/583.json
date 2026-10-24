@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4714
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6060
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6058
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6059
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6061
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6062
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins AddToList",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

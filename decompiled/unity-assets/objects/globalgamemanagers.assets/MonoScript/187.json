@@ -1,0 +1,25 @@
+{
+  "m_Name": "TweenPosition",
+  "m_ExecutionOrder": -98,
+  "m_PropertiesHash": {
+    "bytes[0]": 53,
+    "bytes[1]": 32,
+    "bytes[2]": 182,
+    "bytes[3]": 254,
+    "bytes[4]": 111,
+    "bytes[5]": 122,
+    "bytes[6]": 242,
+    "bytes[7]": 228,
+    "bytes[8]": 149,
+    "bytes[9]": 190,
+    "bytes[10]": 30,
+    "bytes[11]": 203,
+    "bytes[12]": 156,
+    "bytes[13]": 139,
+    "bytes[14]": 45,
+    "bytes[15]": 199
+  },
+  "m_ClassName": "TweenPosition",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 717
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 460
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1108
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1107
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1106
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "InputField (TMP)",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

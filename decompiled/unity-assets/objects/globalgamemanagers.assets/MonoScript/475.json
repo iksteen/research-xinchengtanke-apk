@@ -1,0 +1,25 @@
+{
+  "m_Name": "TweenAlpha",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 64,
+    "bytes[1]": 237,
+    "bytes[2]": 31,
+    "bytes[3]": 77,
+    "bytes[4]": 172,
+    "bytes[5]": 107,
+    "bytes[6]": 33,
+    "bytes[7]": 191,
+    "bytes[8]": 122,
+    "bytes[9]": 81,
+    "bytes[10]": 218,
+    "bytes[11]": 114,
+    "bytes[12]": 83,
+    "bytes[13]": 26,
+    "bytes[14]": 179,
+    "bytes[15]": 149
+  },
+  "m_ClassName": "TweenAlpha",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

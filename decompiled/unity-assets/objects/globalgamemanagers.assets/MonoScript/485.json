@@ -1,0 +1,25 @@
+{
+  "m_Name": "JoystickPlayerExample",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 82,
+    "bytes[1]": 142,
+    "bytes[2]": 152,
+    "bytes[3]": 88,
+    "bytes[4]": 132,
+    "bytes[5]": 12,
+    "bytes[6]": 184,
+    "bytes[7]": 55,
+    "bytes[8]": 13,
+    "bytes[9]": 147,
+    "bytes[10]": 147,
+    "bytes[11]": 159,
+    "bytes[12]": 255,
+    "bytes[13]": 107,
+    "bytes[14]": 66,
+    "bytes[15]": 217
+  },
+  "m_ClassName": "JoystickPlayerExample",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "UITooltip",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 248,
+    "bytes[1]": 223,
+    "bytes[2]": 143,
+    "bytes[3]": 148,
+    "bytes[4]": 129,
+    "bytes[5]": 180,
+    "bytes[6]": 183,
+    "bytes[7]": 24,
+    "bytes[8]": 217,
+    "bytes[9]": 212,
+    "bytes[10]": 195,
+    "bytes[11]": 203,
+    "bytes[12]": 71,
+    "bytes[13]": 48,
+    "bytes[14]": 166,
+    "bytes[15]": 225
+  },
+  "m_ClassName": "UITooltip",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

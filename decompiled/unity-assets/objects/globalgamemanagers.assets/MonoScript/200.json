@@ -1,0 +1,25 @@
+{
+  "m_Name": "VariableJoystick",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 157,
+    "bytes[1]": 172,
+    "bytes[2]": 22,
+    "bytes[3]": 243,
+    "bytes[4]": 239,
+    "bytes[5]": 197,
+    "bytes[6]": 17,
+    "bytes[7]": 131,
+    "bytes[8]": 90,
+    "bytes[9]": 201,
+    "bytes[10]": 118,
+    "bytes[11]": 223,
+    "bytes[12]": 174,
+    "bytes[13]": 85,
+    "bytes[14]": 245,
+    "bytes[15]": 128
+  },
+  "m_ClassName": "VariableJoystick",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

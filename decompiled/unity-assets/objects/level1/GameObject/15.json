@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 537
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 321
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 848
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 849
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 847
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Panel Events",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

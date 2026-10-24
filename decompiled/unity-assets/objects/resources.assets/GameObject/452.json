@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2268
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5873
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5847
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3660
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5878
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonTopBut3",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

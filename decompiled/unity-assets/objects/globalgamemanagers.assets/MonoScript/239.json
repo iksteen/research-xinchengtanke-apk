@@ -1,0 +1,25 @@
+{
+  "m_Name": "PropertyBinding",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 183,
+    "bytes[1]": 152,
+    "bytes[2]": 25,
+    "bytes[3]": 41,
+    "bytes[4]": 130,
+    "bytes[5]": 26,
+    "bytes[6]": 189,
+    "bytes[7]": 19,
+    "bytes[8]": 35,
+    "bytes[9]": 112,
+    "bytes[10]": 36,
+    "bytes[11]": 110,
+    "bytes[12]": 196,
+    "bytes[13]": 213,
+    "bytes[14]": 117,
+    "bytes[15]": 113
+  },
+  "m_ClassName": "PropertyBinding",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

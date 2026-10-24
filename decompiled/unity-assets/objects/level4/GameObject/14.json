@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 321
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 791
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 638
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 960
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1063
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Watchtower",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

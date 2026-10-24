@@ -1,0 +1,50 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4876
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6428
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6427
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6429
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6430
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6431
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6432
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins WhenPlayClicked",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

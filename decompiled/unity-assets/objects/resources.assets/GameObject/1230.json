@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2632
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6843
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6842
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3699
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6841
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "TankP_ButtonScene1",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

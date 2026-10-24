@@ -1,0 +1,34 @@
+[
+  {
+    "tool": "jadx",
+    "version": "v1.5.6",
+    "asset": "https://github.com/skylot/jadx/releases/download/v1.5.6/jadx-1.5.6.zip",
+    "local_path": "tools/jadx.zip",
+    "sha256": "545ea2be9c242511bc145755cf4bda2485ade42966e096f8b4d3da2a230e8974",
+    "release_digest": "sha256:545ea2be9c242511bc145755cf4bda2485ade42966e096f8b4d3da2a230e8974"
+  },
+  {
+    "tool": "apktool",
+    "version": "v3.0.3",
+    "asset": "https://github.com/iBotPeaches/Apktool/releases/download/v3.0.3/apktool_3.0.3.jar",
+    "local_path": "tools/apktool.jar",
+    "sha256": "dbf930b076c6b9be08d57c449cacefc3bdd6b71ebd59b3066fc0e1f5b14f9423",
+    "release_digest": "sha256:dbf930b076c6b9be08d57c449cacefc3bdd6b71ebd59b3066fc0e1f5b14f9423"
+  },
+  {
+    "tool": "il2cppdumper",
+    "version": "v6.7.46",
+    "asset": "https://github.com/Perfare/Il2CppDumper/releases/download/v6.7.46/Il2CppDumper-net6-v6.7.46.zip",
+    "local_path": "tools/il2cppdumper.zip",
+    "sha256": "db9bbbc538e33abfb057c7757ae5d6c1f16a05fdc0d13af8a5a67ea31faaba0c",
+    "release_digest": null
+  },
+  {
+    "tool": "cpp2il",
+    "version": "2022.1.0-pre-release.21",
+    "asset": "https://github.com/SamboyCoding/Cpp2IL/releases/download/2022.1.0-pre-release.21/Cpp2IL-2022.1.0-pre-release.21-Linux",
+    "local_path": "tools/Cpp2IL",
+    "sha256": "526998e593c52c029c5a6215c5c6c9f9d963706bfc409fc9ff80a95c4c500349",
+    "release_digest": "sha256:526998e593c52c029c5a6215c5c6c9f9d963706bfc409fc9ff80a95c4c500349"
+  }
+]

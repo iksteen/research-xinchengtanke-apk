@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 649
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 410
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1008
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1007
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1009
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Panel Create Function Block",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

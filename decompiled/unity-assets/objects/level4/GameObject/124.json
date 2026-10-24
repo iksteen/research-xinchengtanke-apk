@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 431
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 874
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 721
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1004
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "asd01_MeshPart1",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

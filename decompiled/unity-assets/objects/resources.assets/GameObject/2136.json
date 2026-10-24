@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2995
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8381
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8383
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3735
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8382
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonGravityCorrect",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

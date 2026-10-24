@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4676
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3933
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5956
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5957
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Variable Joystick",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

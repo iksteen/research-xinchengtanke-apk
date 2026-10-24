@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2488
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3408
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3150
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3736
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "track-bridge01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "UICenterOnChild",
+  "m_ExecutionOrder": 10,
+  "m_PropertiesHash": {
+    "bytes[0]": 114,
+    "bytes[1]": 108,
+    "bytes[2]": 45,
+    "bytes[3]": 128,
+    "bytes[4]": 32,
+    "bytes[5]": 53,
+    "bytes[6]": 3,
+    "bytes[7]": 208,
+    "bytes[8]": 77,
+    "bytes[9]": 113,
+    "bytes[10]": 24,
+    "bytes[11]": 8,
+    "bytes[12]": 196,
+    "bytes[13]": 21,
+    "bytes[14]": 222,
+    "bytes[15]": 141
+  },
+  "m_ClassName": "UICenterOnChild",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 320
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 642
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 510
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "lamp-posts",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

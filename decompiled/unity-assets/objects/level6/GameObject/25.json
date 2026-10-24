@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 215
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 578
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 575
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 528
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 583
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonRTankroate",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

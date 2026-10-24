@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5082
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6936
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6937
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6938
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6934
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6935
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins Wait",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 606
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 377
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 948
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 947
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 949
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Scrollbar Horizontal",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

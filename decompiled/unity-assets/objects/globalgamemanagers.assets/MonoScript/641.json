@@ -1,0 +1,25 @@
+{
+  "m_Name": "UISpriteAnimation",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 253,
+    "bytes[1]": 89,
+    "bytes[2]": 173,
+    "bytes[3]": 152,
+    "bytes[4]": 242,
+    "bytes[5]": 17,
+    "bytes[6]": 251,
+    "bytes[7]": 23,
+    "bytes[8]": 173,
+    "bytes[9]": 126,
+    "bytes[10]": 181,
+    "bytes[11]": 100,
+    "bytes[12]": 126,
+    "bytes[13]": 23,
+    "bytes[14]": 78,
+    "bytes[15]": 193
+  },
+  "m_ClassName": "UISpriteAnimation",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

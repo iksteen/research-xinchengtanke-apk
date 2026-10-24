@@ -1,0 +1,20 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2244
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5728
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "button",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

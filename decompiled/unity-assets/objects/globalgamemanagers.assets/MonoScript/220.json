@@ -1,0 +1,25 @@
+{
+  "m_Name": "TweenLetters",
+  "m_ExecutionOrder": -220,
+  "m_PropertiesHash": {
+    "bytes[0]": 169,
+    "bytes[1]": 172,
+    "bytes[2]": 215,
+    "bytes[3]": 6,
+    "bytes[4]": 123,
+    "bytes[5]": 115,
+    "bytes[6]": 100,
+    "bytes[7]": 53,
+    "bytes[8]": 166,
+    "bytes[9]": 88,
+    "bytes[10]": 160,
+    "bytes[11]": 182,
+    "bytes[12]": 70,
+    "bytes[13]": 184,
+    "bytes[14]": 254,
+    "bytes[15]": 201
+  },
+  "m_ClassName": "TweenLetters",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2278
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5854
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5833
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3679
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5888
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonSelectSysout",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIColorPicker",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 148,
+    "bytes[1]": 141,
+    "bytes[2]": 40,
+    "bytes[3]": 213,
+    "bytes[4]": 236,
+    "bytes[5]": 79,
+    "bytes[6]": 145,
+    "bytes[7]": 54,
+    "bytes[8]": 184,
+    "bytes[9]": 31,
+    "bytes[10]": 22,
+    "bytes[11]": 71,
+    "bytes[12]": 131,
+    "bytes[13]": 27,
+    "bytes[14]": 20,
+    "bytes[15]": 108
+  },
+  "m_ClassName": "UIColorPicker",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

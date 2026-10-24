@@ -1,0 +1,25 @@
+{
+  "m_Name": "TweenColor",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 57,
+    "bytes[1]": 254,
+    "bytes[2]": 167,
+    "bytes[3]": 160,
+    "bytes[4]": 4,
+    "bytes[5]": 110,
+    "bytes[6]": 224,
+    "bytes[7]": 86,
+    "bytes[8]": 114,
+    "bytes[9]": 5,
+    "bytes[10]": 192,
+    "bytes[11]": 219,
+    "bytes[12]": 157,
+    "bytes[13]": 150,
+    "bytes[14]": 245,
+    "bytes[15]": 151
+  },
+  "m_ClassName": "TweenColor",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 147
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 317
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 243
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "PanelDebug",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

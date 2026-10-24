@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4797
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4021
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6258
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Item Background",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

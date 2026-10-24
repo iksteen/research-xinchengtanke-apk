@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5373
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7803
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4424
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7802
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Viewport",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,25 @@
+{
+  "m_Name": "TMPro_InstructionOverlay",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 232,
+    "bytes[1]": 12,
+    "bytes[2]": 20,
+    "bytes[3]": 80,
+    "bytes[4]": 136,
+    "bytes[5]": 52,
+    "bytes[6]": 67,
+    "bytes[7]": 198,
+    "bytes[8]": 141,
+    "bytes[9]": 108,
+    "bytes[10]": 45,
+    "bytes[11]": 173,
+    "bytes[12]": 226,
+    "bytes[13]": 19,
+    "bytes[14]": 83,
+    "bytes[15]": 111
+  },
+  "m_ClassName": "TMPro_InstructionOverlay",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

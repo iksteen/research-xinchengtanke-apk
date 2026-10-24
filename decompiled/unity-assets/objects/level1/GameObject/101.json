@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 618
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 964
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 963
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 962
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "GhostBlock",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

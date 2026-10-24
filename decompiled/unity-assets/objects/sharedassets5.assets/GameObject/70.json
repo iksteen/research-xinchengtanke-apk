@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 388
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 861
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 692
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1066
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Column_01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

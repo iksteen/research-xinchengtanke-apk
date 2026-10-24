@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIButtonActivate",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 248,
+    "bytes[1]": 53,
+    "bytes[2]": 93,
+    "bytes[3]": 32,
+    "bytes[4]": 32,
+    "bytes[5]": 116,
+    "bytes[6]": 217,
+    "bytes[7]": 104,
+    "bytes[8]": 28,
+    "bytes[9]": 38,
+    "bytes[10]": 133,
+    "bytes[11]": 176,
+    "bytes[12]": 145,
+    "bytes[13]": 175,
+    "bytes[14]": 133,
+    "bytes[15]": 44
+  },
+  "m_ClassName": "UIButtonActivate",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

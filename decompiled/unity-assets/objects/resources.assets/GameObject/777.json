@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2486
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3407
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3149
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "arrow-signs",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

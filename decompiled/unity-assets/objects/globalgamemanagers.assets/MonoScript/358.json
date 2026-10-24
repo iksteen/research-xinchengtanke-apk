@@ -1,0 +1,25 @@
+{
+  "m_Name": "TweenScale",
+  "m_ExecutionOrder": -94,
+  "m_PropertiesHash": {
+    "bytes[0]": 37,
+    "bytes[1]": 3,
+    "bytes[2]": 159,
+    "bytes[3]": 148,
+    "bytes[4]": 67,
+    "bytes[5]": 204,
+    "bytes[6]": 97,
+    "bytes[7]": 202,
+    "bytes[8]": 17,
+    "bytes[9]": 105,
+    "bytes[10]": 0,
+    "bytes[11]": 149,
+    "bytes[12]": 253,
+    "bytes[13]": 248,
+    "bytes[14]": 159,
+    "bytes[15]": 233
+  },
+  "m_ClassName": "TweenScale",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

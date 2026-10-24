@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 605
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 376
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 945
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 944
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 946
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Panel Block Menu",
+  "m_Tag": 0,
+  "m_IsActive": false
+}

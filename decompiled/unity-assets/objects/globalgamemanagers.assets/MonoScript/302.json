@@ -1,0 +1,25 @@
+{
+  "m_Name": "UITable",
+  "m_ExecutionOrder": 200,
+  "m_PropertiesHash": {
+    "bytes[0]": 166,
+    "bytes[1]": 191,
+    "bytes[2]": 160,
+    "bytes[3]": 238,
+    "bytes[4]": 93,
+    "bytes[5]": 198,
+    "bytes[6]": 168,
+    "bytes[7]": 86,
+    "bytes[8]": 113,
+    "bytes[9]": 2,
+    "bytes[10]": 157,
+    "bytes[11]": 120,
+    "bytes[12]": 191,
+    "bytes[13]": 150,
+    "bytes[14]": 85,
+    "bytes[15]": 144
+  },
+  "m_ClassName": "UITable",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

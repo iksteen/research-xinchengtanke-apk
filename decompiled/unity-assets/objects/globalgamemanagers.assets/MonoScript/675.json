@@ -1,0 +1,25 @@
+{
+  "m_Name": "UILabel",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 170,
+    "bytes[1]": 12,
+    "bytes[2]": 201,
+    "bytes[3]": 169,
+    "bytes[4]": 147,
+    "bytes[5]": 114,
+    "bytes[6]": 181,
+    "bytes[7]": 138,
+    "bytes[8]": 73,
+    "bytes[9]": 48,
+    "bytes[10]": 88,
+    "bytes[11]": 200,
+    "bytes[12]": 245,
+    "bytes[13]": 86,
+    "bytes[14]": 219,
+    "bytes[15]": 66
+  },
+  "m_ClassName": "UILabel",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

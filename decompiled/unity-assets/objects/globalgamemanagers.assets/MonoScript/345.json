@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIWrapContent",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 158,
+    "bytes[1]": 145,
+    "bytes[2]": 232,
+    "bytes[3]": 114,
+    "bytes[4]": 193,
+    "bytes[5]": 14,
+    "bytes[6]": 131,
+    "bytes[7]": 18,
+    "bytes[8]": 208,
+    "bytes[9]": 222,
+    "bytes[10]": 139,
+    "bytes[11]": 70,
+    "bytes[12]": 84,
+    "bytes[13]": 104,
+    "bytes[14]": 63,
+    "bytes[15]": 158
+  },
+  "m_ClassName": "UIWrapContent",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

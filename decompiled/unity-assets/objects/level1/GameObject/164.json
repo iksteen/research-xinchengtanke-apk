@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 675
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 520
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1049
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1048
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1050
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Canvas Control Buttons",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

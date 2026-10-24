@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2265
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5871
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5843
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3662
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5875
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonHCarOpenclose",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

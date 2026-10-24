@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 638
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 400
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 990
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 989
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Button Save",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

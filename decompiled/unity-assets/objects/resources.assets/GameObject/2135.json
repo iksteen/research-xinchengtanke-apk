@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5127
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8393
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6177
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7741
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7125
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6412
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "HorizontalBlock Cst RotateYAxis",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

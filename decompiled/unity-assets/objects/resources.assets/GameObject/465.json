@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2275
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5862
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5830
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3671
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5885
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonBiancheng",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

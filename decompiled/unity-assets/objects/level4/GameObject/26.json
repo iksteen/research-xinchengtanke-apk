@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 333
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 800
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 647
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 968
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1112
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Rock01",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

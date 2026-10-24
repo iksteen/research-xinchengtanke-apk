@@ -1,0 +1,25 @@
+{
+  "m_Name": "UIStretch",
+  "m_ExecutionOrder": -21,
+  "m_PropertiesHash": {
+    "bytes[0]": 159,
+    "bytes[1]": 81,
+    "bytes[2]": 158,
+    "bytes[3]": 95,
+    "bytes[4]": 71,
+    "bytes[5]": 251,
+    "bytes[6]": 201,
+    "bytes[7]": 208,
+    "bytes[8]": 48,
+    "bytes[9]": 92,
+    "bytes[10]": 194,
+    "bytes[11]": 154,
+    "bytes[12]": 160,
+    "bytes[13]": 185,
+    "bytes[14]": 54,
+    "bytes[15]": 54
+  },
+  "m_ClassName": "UIStretch",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

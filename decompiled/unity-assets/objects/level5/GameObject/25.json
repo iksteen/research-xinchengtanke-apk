@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 119
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 299
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 301
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 251
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 300
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonRCarOpenclose",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

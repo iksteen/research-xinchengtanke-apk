@@ -1,0 +1,44 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4744
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6127
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6126
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6129
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6128
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6130
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Block Ins FunctionBlock",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

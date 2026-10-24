@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2198
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3889
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3896
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Left_Flame",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

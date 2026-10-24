@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4701
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3956
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6023
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6022
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6024
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Text (TMP)",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

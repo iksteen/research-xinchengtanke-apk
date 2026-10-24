@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 624
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 391
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 973
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Panel default buttons",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

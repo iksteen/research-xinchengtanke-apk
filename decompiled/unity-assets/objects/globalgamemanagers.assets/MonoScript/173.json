@@ -1,0 +1,25 @@
+{
+  "m_Name": "VideoController",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 208,
+    "bytes[1]": 177,
+    "bytes[2]": 41,
+    "bytes[3]": 191,
+    "bytes[4]": 84,
+    "bytes[5]": 6,
+    "bytes[6]": 43,
+    "bytes[7]": 123,
+    "bytes[8]": 72,
+    "bytes[9]": 93,
+    "bytes[10]": 48,
+    "bytes[11]": 5,
+    "bytes[12]": 7,
+    "bytes[13]": 211,
+    "bytes[14]": 237,
+    "bytes[15]": 216
+  },
+  "m_ClassName": "VideoController",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

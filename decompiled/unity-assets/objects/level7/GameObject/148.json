@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 358
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 683
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 540
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 956
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "TsunamiWheel_RB",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

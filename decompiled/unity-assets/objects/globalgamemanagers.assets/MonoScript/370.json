@@ -1,0 +1,25 @@
+{
+  "m_Name": "WarpTextExample",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 230,
+    "bytes[1]": 240,
+    "bytes[2]": 239,
+    "bytes[3]": 208,
+    "bytes[4]": 226,
+    "bytes[5]": 6,
+    "bytes[6]": 105,
+    "bytes[7]": 213,
+    "bytes[8]": 119,
+    "bytes[9]": 233,
+    "bytes[10]": 210,
+    "bytes[11]": 21,
+    "bytes[12]": 38,
+    "bytes[13]": 179,
+    "bytes[14]": 211,
+    "bytes[15]": 249
+  },
+  "m_ClassName": "WarpTextExample",
+  "m_Namespace": "TMPro.Examples",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

@@ -1,0 +1,32 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 773
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 508
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1184
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 1183
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Button Icon (4)",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

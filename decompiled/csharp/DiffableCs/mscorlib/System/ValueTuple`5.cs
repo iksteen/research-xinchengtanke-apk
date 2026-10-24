@@ -1,0 +1,34 @@
+namespace System;
+
+public struct ValueTuple : IEquatable<ValueTuple`5<T1, T2, T3, T4, T5>>, IStructuralEquatable, IStructuralComparable, IComparable, IComparable<ValueTuple`5<T1, T2, T3, T4, T5>>
+{
+	public T1 Item1; //Field offset: 0x0
+	public T2 Item2; //Field offset: 0x0
+	public T3 Item3; //Field offset: 0x0
+	public T4 Item4; //Field offset: 0x0
+	public T5 Item5; //Field offset: 0x0
+
+	public ValueTuple`5(T1 item1, T2 item2, T3 item3, T4 item4, T5 item5) { }
+
+	public override int CompareTo(ValueTuple<T1, T2, T3, T4, T5> other) { }
+
+	public virtual bool Equals(object obj) { }
+
+	public override bool Equals(ValueTuple<T1, T2, T3, T4, T5> other) { }
+
+	public virtual int GetHashCode() { }
+
+	private int GetHashCodeCore(IEqualityComparer comparer) { }
+
+	private override int System.Collections.IStructuralComparable.CompareTo(object other, IComparer comparer) { }
+
+	private override bool System.Collections.IStructuralEquatable.Equals(object other, IEqualityComparer comparer) { }
+
+	private override int System.Collections.IStructuralEquatable.GetHashCode(IEqualityComparer comparer) { }
+
+	private override int System.IComparable.CompareTo(object other) { }
+
+	public virtual string ToString() { }
+
+}
+

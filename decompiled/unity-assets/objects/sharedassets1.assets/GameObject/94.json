@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 164
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 116
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 299
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 235
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 192
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Horizontal Template Header Middle",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

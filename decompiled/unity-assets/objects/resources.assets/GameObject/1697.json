@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2815
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7626
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7627
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3720
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7628
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "CarP_ButtonHand",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

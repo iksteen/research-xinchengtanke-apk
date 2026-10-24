@@ -1,0 +1,25 @@
+{
+  "m_Name": "CarCameraController",
+  "m_ExecutionOrder": 0,
+  "m_PropertiesHash": {
+    "bytes[0]": 87,
+    "bytes[1]": 79,
+    "bytes[2]": 167,
+    "bytes[3]": 18,
+    "bytes[4]": 157,
+    "bytes[5]": 157,
+    "bytes[6]": 82,
+    "bytes[7]": 8,
+    "bytes[8]": 135,
+    "bytes[9]": 109,
+    "bytes[10]": 112,
+    "bytes[11]": 249,
+    "bytes[12]": 215,
+    "bytes[13]": 250,
+    "bytes[14]": 36,
+    "bytes[15]": 135
+  },
+  "m_ClassName": "CarCameraController",
+  "m_Namespace": "",
+  "m_AssemblyName": "Assembly-CSharp.dll"
+}

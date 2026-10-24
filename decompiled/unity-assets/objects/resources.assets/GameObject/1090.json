@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2586
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6641
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6642
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3692
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 6640
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonRTankResult",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

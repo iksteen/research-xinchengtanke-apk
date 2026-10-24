@@ -1,0 +1,26 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 616
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 992
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 819
+      }
+    }
+  ],
+  "m_Layer": 0,
+  "m_Name": "Stand_02",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

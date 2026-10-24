@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2835
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7665
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7666
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3729
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 7667
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "CarP_ButtonDrive",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

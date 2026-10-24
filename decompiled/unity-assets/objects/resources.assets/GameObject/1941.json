@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 2940
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8046
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8017
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 3732
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8045
+      }
+    }
+  ],
+  "m_Layer": 14,
+  "m_Name": "ButtonRouteClear",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

@@ -1,0 +1,38 @@
+{
+  "m_Component": [
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 5541
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 4541
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8161
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8162
+      }
+    },
+    {
+      "component": {
+        "m_FileID": 0,
+        "m_PathID": 8160
+      }
+    }
+  ],
+  "m_Layer": 5,
+  "m_Name": "Header",
+  "m_Tag": 0,
+  "m_IsActive": true
+}
