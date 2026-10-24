@@ -1,0 +1,13 @@
+[project]
+name = "xinchengtanke-car-emulator"
+version = "0.1.0"
+description = "Local race-car and BLE advertisement protocol emulator"
+requires-python = ">=3.11,<3.15"
+dependencies = ["aiohttp>=3.11,<4", "dbus-next==0.2.3"]
+
+[dependency-groups]
+dev = ["pytest>=8", "pytest-asyncio>=0.24", "playwright>=1.50"]
+
+[tool.pytest.ini_options]
+testpaths = ["emulator/tests"]
+asyncio_mode = "auto"

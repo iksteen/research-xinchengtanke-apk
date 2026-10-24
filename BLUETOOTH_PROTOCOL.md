@@ -106,6 +106,8 @@ This describes the ordinary remote-control screens. The APK also contains gyro, 
 
 The rate fields are percentage-like motor-control magnitudes in this path. The tank engine commonly derives them using absolute-value operations. The serializer truncates and stores the low byte; it does not clamp values to `0…100`.
 
+On the ordinary **car** screen, the left rate is throttle magnitude and the right rate is steering magnitude. [CarEngineController.c](decompiled/native-arm64/CarEngineController.c), `Update` at `0xDD5180`, stores the absolute left-joystick input in static field `+0x9C` while setting motor torque; it stores the absolute right-joystick input in `+0xA0` while setting front-wheel steer angles. [ContainerRemoteCarUIController.c](decompiled/native-arm64/ContainerRemoteCarUIController.c) serializes those two fields into `P[10]` and `P[11]`. These are separate throttle/steering channels for the car.
+
 ### Control bits in `D[0]`
 
 | Mask | Meaning | Remote-screen condition |

@@ -7,6 +7,7 @@ Reverse-engineering notes and decompilation of `com.Shenqiwei.carapp` version `0
 - [Offline packet encoder/decoder](bluetooth_protocol.py).
 - [Verification summary](decompiled/verification.json) and [native protocol validation](decompiled/protocol-evidence/validation.json).
 - [Tool versions, download sources, and hashes](tools/provenance.json).
+- [Race-car emulator](emulator/README.md): original Tsunami model, live Bluetooth advertising transport, browser controls, and packet monitor.
 
 The native export contains 4,417 application methods across 497 class files. C# files contain recovered declarations; native implementations are represented by C-like pseudocode. These outputs are research material rather than an original, rebuildable Unity project.
 

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10151b"><title>Tsunami · Car emulator</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23141b23'/%3E%3Cpath d='M9 23 23 9M12 9h11v11' fill='none' stroke='%23ff9c55' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/static/style.css">
+  <script type="importmap">{"imports":{"three":"/static/vendor/three.module.js"}}</script>
+</head>
+<body>
+<header><a class="brand" href="/"><span class="brand-icon">↗</span><span>TSUNAMI<span class="brand-sub">REMOTE CONTROL LAB</span></span></a><span class="header-tag">RACE CAR EMULATOR <span>01</span></span><div class="connection"><i id="connection-dot"></i><span id="connection-label">Connecting…</span></div></header>
+<main>
+  <aside class="sidebar">
+    <div class="eyebrow">CONTROL STATION</div><h1>The original car.<br>A virtual garage.</h1><p class="intro">Drive the race car from the app, inspect its packets, and test the Bluetooth link.</p>
+    <section class="card"><div class="section-title">Connection <span class="pill" id="pair-status">UNPAIRED</span></div><div class="id-line"><span>Car ID</span><code id="device-id">C0 FF EE</code></div><div class="id-line"><span>Controller</span><code id="controller-id">—</code></div><button class="primary" id="pair-button">Connect Android app <span>↗</span></button><button class="secondary" id="local-button">Use local controller</button><button class="secondary" id="release-button">Release controller</button>
+      <div class="radio-row"><div><strong>Bluetooth radio</strong><small>Original Android app</small></div><button id="bluetooth-button" class="switch" role="switch" aria-checked="false" aria-label="Enable real Bluetooth"><span></span></button></div><p class="hint" id="bluetooth-status">Connect, then select the car in the app and open its Bluetooth pairing screen.</p>
+    </section>
+    <section class="card controls"><div class="section-title">Driver inputs <span class="key-label">WASD / ↑↓←→</span></div><div class="input-label"><label for="power">Throttle power</label><output id="power-value">65%</output></div><input id="power" type="range" min="10" max="100" value="65"><div class="dpad"><button data-key="forward" aria-label="Forward">↑<small>W</small></button><div><button data-key="left" aria-label="Steer left">←<small>A</small></button><button data-key="reverse" aria-label="Reverse">↓<small>S</small></button><button data-key="right" aria-label="Steer right">→<small>D</small></button></div></div><button class="secondary brake" id="brake-button">Hold to brake <kbd>SPACE</kbd></button><p class="hint">Controls generate the same 0x07 packets as the original app.</p></section>
+    <a class="source-link" href="/static/assets/provenance.json" target="_blank" rel="noopener">Original Unity assets <span>↗</span></a>
+  </aside>
+  <div class="workspace">
+    <section class="viewport-card"><div class="viewport-heading"><div><span class="eyebrow">LIVE SIMULATION</span><h2>Tsunami GT <span>RACE CAR</span></h2></div><div class="viewport-actions"><button id="camera-button" title="Change camera">◎ <span>Follow view</span></button><button id="reset-button" title="Reset car position">↺ <span>Reset</span></button></div></div><div id="scene" tabindex="0" aria-label="Interactive 3D race car"><div id="loading">Loading original race-car assets…</div></div><div class="scene-caption"><span><i class="live-dot"></i><span id="activity-label">Ready for a controller</span></span><span id="camera-hint">Follow view · camera tracks the car</span></div><div class="telemetry"><div><span>SPEED</span><strong id="speed">0.0 <small>km/h</small></strong></div><div><span>THROTTLE</span><strong id="throttle">0<small>%</small></strong></div><div><span>STEERING</span><strong id="steering">0<small>°</small></strong></div><div><span>DISTANCE</span><strong id="distance">0.0 <small>m</small></strong></div></div></section>
+    <section class="protocol-card"><div class="section-title">Protocol monitor <div class="protocol-counters"><span>RX <b id="rx">0</b></span><span>TX <b id="tx">0</b></span><span>DROP <b id="drops">0</b></span></div></div><div class="packet-heading"><span>LATEST COMMAND</span><span>19-BYTE MANUFACTURER PAYLOAD</span></div><div id="packet-bytes" class="packet-bytes"></div><div class="packet-legend"><span><i class="family-color"></i>Family + opcode</span><span><i class="id-color"></i>Device + controller</span><span><i class="control-color"></i>Controls</span><span><i class="crc-color"></i>XOR checksum</span></div><div class="decoded"><span>OPCODE <b id="opcode">—</b></span><span>FLAGS <b id="flags">00</b></span><span>COUNTER <b id="counter">0</b></span><span id="checksum-status">Awaiting packet</span></div><details id="inject-panel"><summary>Inject a raw packet <span>+</span></summary><form id="packet-form"><label for="packet-input">19-byte payload or full manufacturer advertisement</label><div><input id="packet-input" placeholder="05 06 00 00 00 73 69 6d …" autocomplete="off" spellcheck="false"><button class="secondary" type="submit">Inject ↗</button></div></form></details><div class="log-heading"><span>PACKET ACTIVITY</span><span>Newest first</span></div><div id="packet-log" class="packet-log"><p class="empty-log">Pair a controller to start the exchange.</p></div></section>
+  </div>
+</main>
+<div id="toast" role="status"></div>
+<footer><span>TSUNAMI / PROTOCOL 05</span><span>BLE advertisements · Company 0x0000 · XOR 0xE9</span><span>Physics are simulated</span></footer>
+<script type="module" src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "source_apk_sha256": "79454c9c22bc1bd36d7a984c0ffb9e0273714f2f4b5cd8decccd62d2aecf7c53",
+  "scene": "level5",
+  "transform_path_id": 186,
+  "meshes": "sharedassets5.assets: TsunamiBody and four TsunamiWheel meshes",
+  "texture": "sharedassets5.assets:17 Tsunami_Texture",
+  "floor": "decompiled/unity-assets/objects/resources.assets/Texture2D/116_asphalt.png",
+  "coordinate_conversion": "Unity left-handed to right-handed: reflect X, reverse triangles",
+  "files": {
+    "race-car.png": "e7a2aa76396ef556984a2b78e6bc28405ff803a17fae98712137b5df30651ac0",
+    "race-car.json": "ed6b2c4573bd6a656f3afe2947fc028612d19d775456dc9809e8898174316b7d",
+    "asphalt.jpg": "a590150a43102b1f2f3e88a33dfe8052917690da778f3d9e89a1bd1110716184"
+  }
+}

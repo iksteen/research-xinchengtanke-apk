@@ -9,3 +9,6 @@ decompiled/** -text -whitespace linguist-generated=true
 
 # This guide is maintained by hand.
 decompiled/README.md text eol=lf whitespace linguist-generated=false
+
+# Preserve third-party browser dependencies exactly as distributed upstream.
+emulator/static/vendor/** -text -whitespace linguist-vendored=true
